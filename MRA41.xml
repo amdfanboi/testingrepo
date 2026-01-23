@@ -522,7 +522,7 @@
   <!-- RTM -->
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" revision="3354831fb1ba4c7c1e55218906c8e532d0520bcd" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="f3cb9192272e4ddd68970352e998690f6c80e393" />
+  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="fe8e4e53739f2dc359180c0ffbb2db864077f38d" />
   <!-- RTM -->
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" />
   <!-- RTM -->
@@ -840,5 +840,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <!-- RTM -->
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
+
 
 </manifest>
