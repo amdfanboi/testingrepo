@@ -842,7 +842,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" />
   <!-- RTM -->
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" />
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="a8488c9c32de3d4cfa6f9b96bec362bbc337a91b" />
+  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="dce750793d96a907ceae1a632c0a017c35a95e72" />
   <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" revision="239e0046c069397ca90b94103dd0d613599deff4" />
   <!-- RTM -->
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
@@ -1397,4 +1397,5 @@
 
 
 </manifest>
+
 
