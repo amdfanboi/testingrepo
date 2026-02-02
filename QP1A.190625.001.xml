@@ -409,7 +409,7 @@
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk" />
   <!-- RTM -->
   <project path="external/libchrome" name="platform/external/libchrome" groups="pdk" />
-  <project path="external/libcups" name="platform/external/libcups" groups="pdk-cw-fs,pdk-fs" revision="b58481780c9e85fc71c990f90f0dcdbdcee8fc00" />
+  <project path="external/libcups" name="platform/external/libcups" groups="pdk-cw-fs,pdk-fs" revision="a5dda4a7be05f4b1f11f51750b2715d3704bc143" />
   <!-- RTM -->
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" />
   <!-- RTM -->
@@ -1394,5 +1394,6 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+
 
 </manifest>
