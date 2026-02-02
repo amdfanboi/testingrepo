@@ -1020,7 +1020,7 @@
   <project path="packages/apps/Car/Notification" name="platform/packages/apps/Car/Notification" groups="pdk-fs" revision="e90d935a61ed15c48ffe8b951554dbc81525c285" />
   <!-- RTM -->
   <project path="packages/apps/Car/Overview" name="platform/packages/apps/Car/Overview" groups="pdk-fs" />
-  <project path="packages/apps/Car/Radio" name="platform/packages/apps/Car/Radio" groups="pdk-fs" revision="b11e4ce23ea5e182cd646ecc9d51b8a115868ef3" />
+  <project path="packages/apps/Car/Radio" name="platform/packages/apps/Car/Radio" groups="pdk-fs" revision="e6f61e06095e8df8a866cfe13753f2613d5c3f1e" />
   <project path="packages/apps/Car/Settings" name="platform/packages/apps/Car/Settings" groups="pdk-fs" revision="a6d08e7ec9e20bd8c0a2948ef2f424965a788b87" />
   <!-- RTM -->
   <project path="packages/apps/Car/Stream" name="platform/packages/apps/Car/Stream" groups="pdk-fs" />
@@ -1397,3 +1397,4 @@
 
 
 </manifest>
+
