@@ -149,7 +149,7 @@
   <project path="external/cmockery" name="platform/external/cmockery" groups="pdk-fs" />
   <!-- RTM -->
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" />
-  <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk-cw-fs,pdk-fs" revision="80fd9357e7190211708ea9db6d0140fe8abe3b56": />
+  <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk-cw-fs,pdk-fs" revision="80fd9357e7190211708ea9db6d0140fe8abe3b56" />
   <!-- RTM -->
   <project path="external/crcalc" name="platform/external/crcalc" groups="pdk-fs" />
   <!-- RTM -->
@@ -927,5 +927,6 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" revision="a5d569535c87202a5c2f0d3b7afb871df4fcc09e" />
   <!-- RTM -->
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
+
 
 </manifest>
