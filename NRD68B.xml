@@ -607,7 +607,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" />
   <!-- RTM -->
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="f61e7e7aaa1051a4de3b08b81316ef3be6e5de29" />
+  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="005e503793de8aa10317c8a0deae0ea205c2b4a7" />
   <!-- RTM -->
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" />
   <!-- RTM -->
@@ -930,6 +930,7 @@
 
 
 </manifest>
+
 
 
 
