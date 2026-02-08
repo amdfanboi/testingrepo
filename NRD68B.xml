@@ -628,7 +628,7 @@
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="pdk,broadcom_wlan" revision="fb806f0968e66fe63ae877bd3293bba4259ca2a5" />
   <!-- RTM -->
   <project path="hardware/bsp/intel" name="platform/hardware/bsp/intel" />
-  <!- -RTM -->
+  <!-- RTM -->
   <project path="hardware/google/apf" name="platform/hardware/google/apf" groups="pdk" />
   <!-- RTM -->
   <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel" />
@@ -930,3 +930,4 @@
 
 
 </manifest>
+
