@@ -33,7 +33,7 @@
   <project path="developers/build" name="platform/developers/build" revision="1f9f4df9337563afe564163318a9d2fa8eece0a7" />
   <!-- RTM -->
   <project path="developers/demos" name="platform/developers/demos" />
-  <project path="developers/samples/android" name="platform/developers/samples/android" revision="1f9f4df9337563afe564163318a9d2fa8eece0a7" />
+  <project path="developers/samples/android" name="platform/developers/samples/android" revision="4b7001c6542762b1319e0dd997b99b55c894e858" />
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" revision="50b1598f1abfd71723c0ad3136e311fe3fa8f482" />
   <project path="device/asus/fugu" name="device/asus/fugu" groups="device,fugu,broadcom_pdk" revision="970ef445ae0deb688dde7b5335688daaa33b7a49" />
   <project path="device/asus/fugu-kernel" name="device/asus/fugu-kernel" groups="device,fugu,broadcom_pdk" clone-depth="1" revision="85d4a474a20597e7a059fef75652c517c52b69c1" />
