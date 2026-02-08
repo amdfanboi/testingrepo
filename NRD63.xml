@@ -608,7 +608,7 @@
   <!-- RTM -->
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="3849d728bb7e620a4c8aae382abd275dfe01f30d" />
-  <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs,pdk-fs" revision="30670ddd3140bf545ae9e2657a44bc5db4bc6c27" />
+  <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs,pdk-fs" revision="af95bacca7108f5b7064cd7ec41088a2c4f0eed8" />
   <!-- RTM -->
   <project path="frameworks/data-binding" name="platform/frameworks/data-binding" groups="pdk-cw-fs,pdk-fs" />
   <!-- RTM -->
