@@ -52,7 +52,7 @@
   <project path="device/generic/mips64" name="device/generic/mips64" groups="pdk" />
   <!-- RTM -->
   <project path="device/generic/mini-emulator-arm64" name="device/generic/mini-emulator-arm64" groups="pdk" />
-  <!-- RTM --
+  <!-- RTM -->
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" />
   <!-- RTM -->
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" />
@@ -879,5 +879,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" revision="5c2e773088c2363696c5a882d5c21d0d1d5427e7" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" revision="bdb5a87bf3b0a467a627974b3a810adadd0fa2d4" />
+
 
 </manifest>
