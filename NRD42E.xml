@@ -346,7 +346,7 @@
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs,pdk-fs" />
   <!-- RTM -->
   <project path="external/libphonenumber" name="platform/external/libphonenumber" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/libpng" name="platform/external/libpng" groups="pdk" revision="cf8a579007e7762ee70a1c78caf50cfdc127093a" />
+  <project path="external/libpng" name="platform/external/libpng" groups="pdk" revision="a8ad1c3dc7cebe647f940edab329c42e9cb9eabf" />
   <!-- RTM -->
   <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" />
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="c3290dfdd3ef01a52a544b0ee7e37663befb6a3b" />
@@ -879,6 +879,5 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" revision="5c2e773088c2363696c5a882d5c21d0d1d5427e7" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" revision="bdb5a87bf3b0a467a627974b3a810adadd0fa2d4" />
-
 
 </manifest>
