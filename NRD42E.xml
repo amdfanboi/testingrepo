@@ -563,7 +563,7 @@
   <!-- RTM -->
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" revision="cff666cb6d6bdd814276b18e9bd254aa53188d09" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="e17148787ae67083cd0175dcf7a1d80f04747f73" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="ede02ac245b5f2aa1139d6cb0e2dc7c0f8f290d2" />
   <!-- RTM -->
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" />
   <!-- RTM -->
@@ -881,3 +881,4 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" revision="bdb5a87bf3b0a467a627974b3a810adadd0fa2d4" />
 
 </manifest>
+
