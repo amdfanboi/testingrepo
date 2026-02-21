@@ -1074,7 +1074,8 @@
   <!-- RTM -->
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" groups="pdk-fs" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" groups="pdk-fs" revision="f3b9f14d2783f0a2b48143c63eae340f32c95b82" />
-  <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" revision="f3b9f14d2783f0a2b48143c63eae340f32c95b82" />
+  <!-- RTM -->
+  <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" />
   <!-- RTM -->
   <project path="packages/apps/Music" name="platform/packages/apps/Music" groups="pdk-fs" />
   <!-- RTM -->
