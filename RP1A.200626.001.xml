@@ -38,7 +38,7 @@
   <project path="developers/demos" name="platform/developers/demos" groups="developers" />
   <!-- RTM -->
   <project path="developers/samples/android" name="platform/developers/samples/android" groups="developers" />
-  <project path="development" name="platform/development" groups="developers,pdk-cw-fs,pdk-fs" revision="2b2bc37a669184a769fb52aad027a70d8996d80a" />
+  <project path="development" name="platform/development" groups="developers,pdk-cw-fs,pdk-fs" revision="537c941d311a821f495f02d8086bb04e5073a515" />
   <!-- RTM -->
   <project path="device/amlogic/yukawa" name="device/amlogic/yukawa" groups="device,yukawa,pdk" />
   <!-- RTM -->
@@ -1443,3 +1443,4 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
