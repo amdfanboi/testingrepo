@@ -847,7 +847,7 @@
   <project path="frameworks/opt/car/setupwizard" name="platform/frameworks/opt/car/setupwizard" groups="pdk" revision="b2daf2452ec61c513239f8ed5aaea00e06753f36" />
   <!-- RTM -->
   <project path="frameworks/opt/chips" name="platform/frameworks/opt/chips" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" groups="pdk-cw-fs,pdk-fs" revision="17c2b612dc4ffc4ecd0c51307c571d73f980fc35 />
+  <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" groups="pdk-cw-fs,pdk-fs" revision="17c2b612dc4ffc4ecd0c51307c571d73f980fc35" />
   <!-- RTM -->
   <project path="frameworks/opt/localepicker" name="platform/frameworks/opt/localepicker" />
   <!-- RTM -->
