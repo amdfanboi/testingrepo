@@ -570,7 +570,7 @@
   <project path="external/one-true-awk" name="platform/external/one-true-awk" groups="pdk" />
   <!-- RTM -->
   <project path="external/opencensus-java" name="platform/external/opencensus-java" groups="pdk,tradefed" />
-  <project path="external/OpenCL-CTS" name="platform/external/OpenCL-CTS" groups="pdk" revision="18f09e4dd41e0516cbf89fcac065bf11c5e64f82" />
+  <project path="external/OpenCL-CTS" name="platform/external/OpenCL-CTS" groups="pdk" revision="1b881db4ed3374dc4d2f67cd1374ce81890da782" />
   <!-- RTM -->
   <project path="external/OpenCSD" name="platform/external/OpenCSD" groups="pdk" />
   <!-- RTM -->
@@ -1357,5 +1357,6 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
 
 
