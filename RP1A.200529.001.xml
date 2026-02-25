@@ -698,7 +698,7 @@
   <project path="external/shflags" name="platform/external/shflags" groups="pdk" />
   <project path="external/skia" name="platform/external/skia" groups="pdk,qcom_msm8x26" revision="be30b86fd4561389c36a0271abbf13c4e64cc06b" />
   <project path="external/skqp" name="platform/external/skqp" groups="cts,pdk" clone-depth="1" revision="61bcb4fdcf5c56885f8e4ddb5528335d59f1385a" />
-  <project path="external/sl4a" name="platform/external/sl4a" groups="pdk" revision="d9010183615640828695bf836c58673ed4778f0f" />
+  <project path="external/sl4a" name="platform/external/sl4a" groups="pdk" revision="123c7adfd2e8dbc087a99429aa7483663ed948a9" />
   <!-- RTM -->
   <project path="external/slf4j" name="platform/external/slf4j" groups="pdk" />
   <!-- RTM -->
