@@ -136,7 +136,7 @@
   <project path="external/adhd" name="platform/external/adhd" groups="pdk" />
   <!-- RTM -->
   <project path="external/adt-infra" name="platform/external/adt-infra" groups="adt-infra,notdefault,pdk-fs" />
-  <project path="external/android-clat" name="platform/external/android-clat" groups="pdk" revision="12a1f2d8b5397993f8b5264b6b11def4a54ee011" />
+  <project path="external/android-clat" name="platform/external/android-clat" groups="pdk" revision="ae7fbbbfbbb20b572043cd78deeeb77ed475fb1b" />
   <!-- RTM -->
   <project path="external/androidplot" name="platform/external/androidplot" groups="pdk" />
   <!-- RTM -->
