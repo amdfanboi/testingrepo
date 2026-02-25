@@ -1347,7 +1347,7 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" revision="d3e1676c7a73c8324cbe7289488696a4e56530a1" />
   <!-- RTM -->
   <project path="tools/test/graphicsbenchmark" name="platform/tools/test/graphicsbenchmark" groups="pdk" />
-  <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="5438cb13c5ebf005a5cc4fdd151a2cf55572ef4e" />
+  <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="a53f602ffcc767d3b14f201956020ecc1c287cab" />
   <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" revision="ff83b443830d2c92a43c55a62fa946806024a28a" />
   <!-- RTM -->
   <project path="tools/treble" name="platform/tools/treble" groups="tools,pdk" />
@@ -1357,6 +1357,3 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
-
-
-
