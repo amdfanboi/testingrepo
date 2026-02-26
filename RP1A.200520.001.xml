@@ -91,7 +91,7 @@
   <project path="device/google/crosshatch-sepolicy" name="device/google/crosshatch-sepolicy" groups="device,crosshatch,generic_fs" revision="8e68b314ee246cd7922036665b097124b3c85ff9" />
   <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="device,pdk" revision="4d65f01b7fd6698032728f3260e957bda1c44174" />
   <project path="device/google/cuttlefish_kernel" name="device/google/cuttlefish_kernel" groups="device,pdk" clone-depth="1" revision="ece470e33ea5cb5f9c1bf5cf5d6db9e3c3e1dfb3" />
-  <project path="device/google/cuttlefish_vmm" name="device/google/cuttlefish_vmm" groups="device,pdk" clone-depth="1" revision="488d7eb772faf0fa433a1f8b7496ff0ae0061726 />
+  <project path="device/google/cuttlefish_vmm" name="device/google/cuttlefish_vmm" groups="device,pdk" clone-depth="1" revision="488d7eb772faf0fa433a1f8b7496ff0ae0061726" />
   <!-- RTM -->
   <project path="device/google/fuchsia" name="device/google/fuchsia" groups="device" />
   <project path="device/google/muskie" name="device/google/muskie" groups="device,generic_fs,muskie" revision="cd210fb5434284f989df42416883f1d4ccb1851d" />
@@ -1337,5 +1337,6 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+
 
 </manifest>
