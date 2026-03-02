@@ -390,7 +390,7 @@
   <project path="external/okio" name="platform/external/okio" groups="pdk" revision="9591bd1f133e194a299f0eb8b2d14cd809a4e95c" />
   <project path="external/one-true-awk" name="platform/external/one-true-awk" groups="pdk" revision="dbf58590b5030712f796118608ef66f51e672586" />
   <project path="external/opencensus-java" name="platform/external/opencensus-java" groups="pdk,tradefed" revision="8d9ba3a321d6d71b97654d7980cd41e8fac34d35" />
-  <project path="external/OpenCL-CTS" name="platform/external/OpenCL-CTS" revision="f22e3a31d0a970e750b9c385870cfd23c45804ce" />
+  <!-- <project path="external/OpenCL-CTS" name="platform/external/OpenCL-CTS" revision="f22e3a31d0a970e750b9c385870cfd23c45804ce" /> -->
   <project path="external/OpenCSD" name="platform/external/OpenCSD" groups="pdk" revision="665cea2b264b57fc4a155b74f1c2c56a935fafb9" />
   <project path="external/openscreen" name="platform/external/openscreen" groups="pdk" revision="71d32ad4b83a339f42fd2c2c26758f5c9d5978f5" />
   <project path="external/openssh" name="platform/external/openssh" groups="pdk" revision="87f099a643bc1d2f497242bf77c02115a837d1b1" />
@@ -1149,3 +1149,4 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
