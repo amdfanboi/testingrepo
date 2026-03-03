@@ -1149,9 +1149,8 @@
   <!-- these don't exist in android-12.0.0_r1 branch, used android-s-preview-1 instead -->
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="30ef568c2bd147257522e9f424b1e86c4536895e" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="1cd99fa8c2bdc2346ad3bf1050e8918c0310568b" />
+  <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="d1104ecb1b15f2bd24322401b86b1eae815fdccf" />
   
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
-
-
