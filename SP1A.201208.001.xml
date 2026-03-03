@@ -650,7 +650,7 @@
   <project path="external/swiftshader" name="platform/external/swiftshader" groups="pdk" revision="8c6b8a8b6fcf22e643267182d8af3d8eebc26ce7" />
   <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk" revision="5d65cdc58460fe23ae29ebc061065030a7701dff" />
   <project path="external/tcpdump" name="platform/external/tcpdump" groups="pdk" revision="67b9d1e1f8d1dcbcf62e7372be7551b555c087ba" />
-  <project path="external/tensorflow" name="platform/external/tensorflow" groups="pdk" revision="c28356d6e09be879b823d4b3f3d970115d5eabde" />
+  <project path="external/tensorflow" name="platform/external/tensorflow" groups="pdk" revision="fcc2fbf951c03fcf9c0ed7940a02e0942f8924b7" />
   <project path="external/testng" name="platform/external/testng" groups="pdk" revision="f073a1ff45c557090790f170e98ec1b08028c9ad" />
   <project path="external/tflite-support" name="platform/external/tflite-support" groups="pdk" revision="ed73f2f75b75da3675b0a984dbfd195702855ed1" />
   <!-- RTM -->
