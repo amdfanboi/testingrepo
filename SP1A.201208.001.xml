@@ -409,7 +409,7 @@
   <project path="external/proguard" name="platform/external/proguard" groups="pdk" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" revision="eaf38b939882367bf35f70b8b51e12b00ee87deb" />
   <project path="external/psimd" name="platform/external/psimd" groups="pdk" revision="5bb5d77634952ac8e9b50404a8291687785a8794" />
-  <project path="external/pthreadpool" name="platform/external/pthreadpool" groups="pdk" revision="344531b40881b1ee41508a9c70c8fbbef3bd6cad" />
+  <project path="external/pthreadpool" name="platform/external/pthreadpool" groups="pdk" revision="27a8127a13105c7e131928eac4d9c58d08d47408" />
   <project path="external/puffin" name="platform/external/puffin" groups="pdk" revision="904c99a054b0e0ef2bc046cf61cde3fe5b6e6385" />
   <project path="external/python/apitools" name="platform/external/python/apitools" groups="pdk" revision="bfcc56062edac6c92d17f703236129143e77ebb3" />
   <project path="external/python/asn1crypto" name="platform/external/python/asn1crypto" groups="pdk" revision="02a25cb92841a90b19f9e007d71bc713fb966460" />
@@ -1153,4 +1153,5 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
 
