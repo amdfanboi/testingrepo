@@ -197,7 +197,7 @@
   <project path="external/ethtool" name="platform/external/ethtool" groups="pdk" revision="5f5c719eb1e1367fb149e9c67728ea12e38af6b9" />
   <project path="external/exoplayer" name="platform/external/exoplayer" groups="pdk" revision="bd39300ef444bb5c05efd9f92233e1c0cec18985" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" revision="85334f1d93ff62b3f2e0d9e4a7b10fb60b8b351c" />
-  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" groups="pdk" revision="457392a0325ab86808d8785269c9cc73745c9f8d" />
+  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" groups="pdk" revision="406ce4c8b8a509fe467fd88263417783d19a79f0" />
   <!-- RTM -->
   <project path="external/fastrpc" name="platform/external/fastrpc" groups="pdk" />
   <project path="external/fdlibm" name="platform/external/fdlibm" groups="pdk" revision="611d39a0198f549514e774e9de57f8951e71a468" />
@@ -1153,3 +1153,4 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
