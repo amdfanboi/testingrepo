@@ -170,9 +170,9 @@
   <project path="external/dagger2" name="platform/external/dagger2" groups="pdk" revision="ec5ff0fc10370006d4d3f291c32d5015fcc5c5d8" />
   <project path="external/deqp" name="platform/external/deqp" groups="pdk-fs" revision="10a213252cf95a86fe0cba0d5c63314510488f40" />
   <project path="external/deqp-deps/SPIRV-Headers" name="platform/external/deqp-deps/SPIRV-Headers" groups="pdk-fs" revision="785922a7149b9fa40eb78da7bca15dc6e3f326ce" />
-  <project path="external/deqp-deps/SPIRV-Tools" name="platform/external/deqp-deps/SPIRV-Tools" groups="pdk-fs" revision="b27b1afd12d05bf238ac7368bb49de73cd620a8e" />
+  <project path="external/deqp-deps/SPIRV-Tools" name="platform/external/deqp-deps/SPIRV-Tools" groups="pdk-fs" revision="946d0b46dd31cc8613d20c991ef33fe591e79a28" />
   <project path="external/deqp-deps/glslang" name="platform/external/deqp-deps/glslang" groups="pdk-fs" revision="a42deef3960504d4d0894299386a1a107a2d201b" />
-  <project path="external/deqp-deps/amber" name="platform/external/deqp-deps/amber" groups="pdk-fs" revision="758f918f2b49588ba8b1e58f08eaa833e96b2fa4" />
+  <project path="external/deqp-deps/amber" name="platform/external/deqp-deps/amber" groups="pdk-fs" revision="0bf923da39decddbfd59956f49226cf32cb4168b" />
   <project path="external/desugar" name="platform/external/desugar" groups="pdk" revision="a01bc49ac02c01a28b69db4d8fd3366bbf689e1d" />
   <project path="external/dexmaker" name="platform/external/dexmaker" groups="pdk" revision="26f1047578ebd418475e122f09d8d177e07dd4a7" />
   <!-- RTM -->
@@ -431,7 +431,7 @@
   <project path="external/python/parse_type" name="platform/external/python/parse_type" groups="vts,pdk" revision="8ca597571bee374bbbb2dff66febd0da282a6e58" />
   <project path="external/python/pyasn1" name="platform/external/python/pyasn1" groups="vts,pdk" revision="36a2602a8533089a1ee92889a013c045a476d060" />
   <project path="external/python/pyasn1-modules" name="platform/external/python/pyasn1-modules" groups="vts,pdk" revision="6fa713f2eb1fae46812174bface0fe39bf3d5ecf" />
-  <project path="external/python/pybind11" name="platform/external/python/pybind11" groups="pdk" revision="8290a5a0dafd6cb24ba327d25c4a4321c80bba0f" />
+  <project path="external/python/pybind11" name="platform/external/python/pybind11" groups="pdk" revision="2759b266d5f9820ab443a95d6229811ad0f581e8" />
   <project path="external/python/pycparser" name="platform/external/python/pycparser" groups="pdk" revision="9b205950d463a3432de2fcde2b3622dc4bac6461" />
   <project path="external/python/pyfakefs" name="platform/external/python/pyfakefs" groups="pdk" revision="294b5759f261e4131f2387ff1256e67c183e15aa" />
   <project path="external/python/pyopenssl" name="platform/external/python/pyopenssl" groups="pdk" revision="ac6868147999f98878e2237596f01bc771e80556" />
@@ -1154,3 +1154,4 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
