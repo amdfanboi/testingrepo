@@ -1145,7 +1145,9 @@
   <project path="tools/tradefederation/prebuilts" name="platform/tools/tradefederation/prebuilts" groups="pdk,tradefed" revision="a0d0bc39232a0d3f02bac93557bfe704402f81db" />
   <project path="tools/treble" name="platform/tools/treble" groups="tools,pdk" revision="8ab038eff3bebf7bf3eabc3dc47fdf1276c78cc5" />
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="b735f448e61c99f4c06101902ff76eee4e5496f1" />
-
+  <!-- adding this temporary for test, i may be stupid but who knows, maybe it'll work -->
+  <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="1cd99fa8c2bdc2346ad3bf1050e8918c0310568b" />
+  
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
