@@ -242,7 +242,7 @@
   <project path="external/google-java-format" name="platform/external/google-java-format" groups="pdk" revision="10a0d320023c2d75159d108b99afcb186a0976e1" />
   <!-- RTM -->
   <project path="external/google-styleguide" name="platform/external/google-styleguide" groups="pdk" />
-  <project path="external/googletest" name="platform/external/googletest" groups="pdk" revision="8779937dd05016e3a96e477d2bb1f94947486605" />
+  <project path="external/googletest" name="platform/external/googletest" groups="pdk" revision="97f2d0bf205654d4c369f5dea448d056a3a57c07" />
   <project path="external/gptfdisk" name="platform/external/gptfdisk" groups="pdk" revision="c9dc7a55cee0da9e6278f7a83127479c470a9c2c" />
   <project path="external/grpc-grpc" name="platform/external/grpc-grpc" groups="pdk,tradefed" revision="6453755eddd5fd9df3ce04212a693ac28e55b385" />
   <project path="external/grpc-grpc-java" name="platform/external/grpc-grpc-java" groups="pdk,tradefed" revision="a416c8bfd4c33ed2645e60b4b5841a86ff9e632b" />
