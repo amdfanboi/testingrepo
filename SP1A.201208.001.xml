@@ -167,7 +167,7 @@
   <project path="external/cros/system_api" name="platform/external/cros/system_api" groups="pdk" />
   <project path="external/crosvm" name="platform/external/crosvm" groups="pdk" revision="708573529916a3cfc727c543457fd17ea3b16d9f" />
   <project path="external/curl" name="platform/external/curl" groups="pdk" revision="0d8440960651ec0b74bebc7a06c526dbcb3812f9" />
-  <project path="external/dagger2" name="platform/external/dagger2" groups="pdk" revision="d3c17de9efdde85ab2d87b10c5438fa81c920c0f" />
+  <project path="external/dagger2" name="platform/external/dagger2" groups="pdk" revision="ec5ff0fc10370006d4d3f291c32d5015fcc5c5d8" />
   <project path="external/deqp" name="platform/external/deqp" groups="pdk-fs" revision="10a213252cf95a86fe0cba0d5c63314510488f40" />
   <project path="external/deqp-deps/SPIRV-Headers" name="platform/external/deqp-deps/SPIRV-Headers" groups="pdk-fs" revision="785922a7149b9fa40eb78da7bca15dc6e3f326ce" />
   <project path="external/deqp-deps/SPIRV-Tools" name="platform/external/deqp-deps/SPIRV-Tools" groups="pdk-fs" revision="b27b1afd12d05bf238ac7368bb49de73cd620a8e" />
@@ -1151,3 +1151,4 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
