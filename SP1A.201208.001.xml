@@ -681,7 +681,7 @@
   <project path="external/wayland" name="platform/external/wayland" groups="pdk" revision="757e8947eb20a19630be9c84f208b8ea9afb63d1" />
   <project path="external/wayland-protocols" name="platform/external/wayland-protocols" groups="pdk" revision="2be6a2661d0048b24e6ef7a7eff83f4f35f30236" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="a0e370dabe528802b06f92769b8434c67b88f3a7" />
-  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="cffe44453743da1d7e35f8dbf9ecb5f6ab8e8c5c" />
+  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="70dc8e547c2ddd9d0a912e7021f9e041a65c1c1e" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="a714abdc57800ce13fdea9daccb143e4e107a5f5" />
   <project path="external/wycheproof" name="platform/external/wycheproof" groups="pdk" revision="74e5640815a2e82e24166a5ef7be3dafb30d51ae" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk" revision="caf0a819bf2b1f8b94dd83bb50e16d5bfe657cac" />
