@@ -919,7 +919,7 @@
   <project path="packages/modules/Connectivity" name="platform/packages/modules/Connectivity" groups="pdk-cw-fs,pdk-fs" revision="683ac305153de1ec0da5e3dabba7eb53760fd340" />
   <project path="packages/modules/Cronet" name="platform/packages/modules/Cronet" groups="pdk-cw-fs,pdk-fs" revision="5ca7ab38735902c530011bcd48ae9381d8b3525b" />
   <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="97bac9e5124a27b0e51bfb664e6da14b27b28f47" />
-  <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" revision="f6861e00a2b7855a6f25c332f2051cca8054b42c" />
+  <!-- <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" revision="f6861e00a2b7855a6f25c332f2051cca8054b42c" /> -->
   <project path="packages/modules/Gki" name="platform/packages/modules/Gki" groups="pdk-cw-fs,pdk-fs" revision="aca09c7cc6dba5affbbaf9da321a3a2cbc329fee" />
   <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="752ce938ca857b95efb5ea2abcb5be228504e57b" />
   <project path="packages/modules/DnsResolver" name="platform/packages/modules/DnsResolver" groups="pdk-cw-fs,pdk-fs" revision="395cfeae9b3bc0c02ff03a0610e78b315d1d3f5b" />
@@ -936,7 +936,7 @@
   <project path="packages/modules/TestModule" name="platform/packages/modules/TestModule" />
   <project path="packages/modules/Virtualization" name="platform/packages/modules/Virtualization" groups="pdk" revision="4d3baefa6259d364923e51aaed12de196dc445b0" />
   <project path="packages/modules/vndk" name="platform/packages/modules/vndk" groups="pdk-cw-fs,pdk-fs" revision="1253cdf40e17e57fcdf35ef27c160565cfc6ebb1" />
-  <project path="packages/modules/Wifi" name="platform/packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs" revision="0c38735cfa3ca62b6710f00fee397b9bde3d040e" />
+  <!-- <project path="packages/modules/Wifi" name="platform/packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs" revision="0c38735cfa3ca62b6710f00fee397b9bde3d040e" /> -->
   <project path="packages/providers/BlockedNumberProvider" name="platform/packages/providers/BlockedNumberProvider" groups="pdk-fs" revision="629bf550293b4f24f56d3a04e3a22204aed3631a" />
   <project path="packages/providers/BookmarkProvider" name="platform/packages/providers/BookmarkProvider" groups="pdk-fs" revision="75406c38c1c5eb8de283105989d3f956850c740f" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" groups="pdk-cw-fs,pdk-fs" revision="5c0435370db9a1ebed2c97fa6d1eb404e4064c24" />
@@ -1149,4 +1149,3 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
-
