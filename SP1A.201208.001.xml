@@ -1045,7 +1045,7 @@
   <project path="system/hwservicemanager" name="platform/system/hwservicemanager" groups="pdk" revision="279c71cd2153bee6886a07e7cf76def6c92d0c45" />
   <project path="system/incremental_delivery" name="platform/system/incremental_delivery" groups="pdk" revision="b0c36f61061c1e1ddee6569e025c4d7be0d649a7" />
   <project path="system/iorap" name="platform/system/iorap" groups="pdk" revision="23c0f30abbca5fec466e239ffa682072ac9276f5" />
-  <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" revision="cccfc12f0e1b796abf6a22daf7813095eae435b6" />
+  <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" revision="568b2bb64608239641fe1e4ac61f43a5972683a0" />
   <project path="system/libartpalette" name="platform/system/libartpalette" groups="pdk" revision="acebf4b898f2524a37800dbd9c1c0d1995e0e8f0" />
   <project path="system/libbase" name="platform/system/libbase" groups="pdk" revision="6cbfa08d3cafbdeb891ff9cc421e464e2442a6a7" />
   <project path="system/libfmq" name="platform/system/libfmq" groups="pdk" revision="dce0d5da807addf1b5e17ac8b6ff6c3f651480e6" />
