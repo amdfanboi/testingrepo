@@ -1068,7 +1068,7 @@
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="d7b4c30a9f4f4478fee1ecd76b9b039c96f0d2dc" />
   <project path="system/nfc" name="platform/system/nfc" groups="pdk" revision="c7eb359bfa0bf67585275a699e2b4ee817367a17" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" revision="559fb5ba33c4288d79545c7abdd6d7368c0a1ce0" />
-  <project path="system/security" name="platform/system/security" groups="pdk" revision="c321c1e62236994f79122d4f1374cce4ab87e2e5" />
+  <project path="system/security" name="platform/system/security" groups="pdk" revision="51ada13fa1b07607308a9a1bfb52e37d6cd50d4a" />
   <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" revision="45a14dd919015757fdc0db4a22c6aa6bf22dafb2" />
   <project path="system/server_configurable_flags" name="platform/system/server_configurable_flags" groups="pdk" revision="5a32b1e34622abc1c2c40c59a98dff5e93200c81" />
   <project path="system/teeui" name="platform/system/teeui" groups="pdk" revision="91291ba9ad7ccc21fc032bfc3730042a02792e92" />
@@ -1157,4 +1157,3 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
-
