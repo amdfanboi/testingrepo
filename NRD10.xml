@@ -454,7 +454,7 @@
   <project path="external/shflags" name="platform/external/shflags" groups="pdk" />
   <!-- RTM -->
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk,qcom_msm8x26" />
-  <project path="external/skia" name="platform/external/skia" groups="pdk,qcom_msm8x26" revision="f7c89fd393453407abf76175eabccd482ffc9ddf" />
+  <project path="external/skia" name="platform/external/skia" groups="pdk,qcom_msm8x26" revision="07f86660d3144d7fb5e16320dc0b70b754a323a9" />
   <project path="external/sl4a" name="platform/external/sl4a" revision="4941393f5b2ad20110c9b1566ad5f4817e5de534" />
   <!-- RTM -->
   <project path="external/slf4j" name="platform/external/slf4j" groups="pdk-fs" />
