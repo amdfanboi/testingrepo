@@ -794,7 +794,7 @@
   <!-- RTM -->
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/bt" name="platform/system/bt" groups="pdk" revision="f100ea706c1dfdd4386cf4206f1c13b74ade33d9" />
-  <project path="system/core" name="platform/system/core" groups="pdk" revision="a2697fc5a97a14f3700649e1a099da8dc92a3805" />
+  <project path="system/core" name="platform/system/core" groups="pdk" revision="6bbf7967b4d2ffa3c5ea34b23466eca3e9d8dea0" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="c3d732995cb95ad04661e8161ee171b3712698a4" />
   <!-- RTM -->
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
