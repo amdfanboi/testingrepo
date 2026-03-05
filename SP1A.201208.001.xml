@@ -727,7 +727,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" revision="d35041194b5f5985296f0510d048209dbced0b50" />
   <project path="frameworks/opt/tv/tvsystem" name="platform/frameworks/opt/tv/tvsystem" groups="pdk-cw-fs,pdk-fs" revision="8f00b3c329486c8d3ab854b7018c4427a7e13466" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" revision="588b5ff80d964e411f96a880f2e6241ea0c13174" />
-  <project path="frameworks/proto_logging" name="platform/frameworks/proto_logging" groups="pdk-cw-fs,pdk-fs" revision="a77a61295d5275647d78c7eecd96b08d58694408" />
+  <!-- <project path="frameworks/proto_logging" name="platform/frameworks/proto_logging" groups="pdk-cw-fs,pdk-fs" revision="a77a61295d5275647d78c7eecd96b08d58694408" /> -->
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="2e254d803789bfe1634935ddd39c648492625f79" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs,pdk-fs" revision="8222aedfb35892e396c6a29394781ec901e8ffc9" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" revision="93062949fe89aab8464811c8e3d36f172eedf0ec" />
@@ -1157,3 +1157,4 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
