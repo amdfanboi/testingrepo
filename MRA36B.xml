@@ -802,7 +802,7 @@
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" revision="06b6da6ff18a28f7bfc74449902fe5fb8df1f679" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="451ca998f1eed36d5fefb5593ed43605c4d6c0bd" />
-  <project path="system/security" name="platform/system/security" groups="pdk" revision="b913aa5774c96fae83afe3dd1935394f0edcaaa9" />
+  <project path="system/security" name="platform/system/security" groups="pdk" revision="1d48298d6933e61f5f163ba92afe4bee0fb9b1f5" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" revision="3306a714f6bea0ead55ada5d08c5d290a3459da7" />
   <!-- empty repo -->
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
