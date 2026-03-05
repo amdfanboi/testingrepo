@@ -931,7 +931,7 @@
   <project path="packages/modules/RuntimeI18n" name="platform/packages/modules/RuntimeI18n" groups="pdk-cw-fs,pdk-fs" revision="689f4db42fd3ada23fa34cf6deb52cef1dac13ca" />
   <project path="packages/modules/Scheduling" name="platform/packages/modules/Scheduling" groups="pdk-cw-fs,pdk-fs" revision="c85ee1494c13694fae96f2bcacad2a435172ea45" />
   <project path="packages/modules/SdkExtensions" name="platform/packages/modules/SdkExtensions" groups="pdk-cw-fs,pdk-fs" revision="c81f8ed1dcb4b13adc8182fe810a45a126f4ffaa" />
-  <project path="packages/modules/StatsD" name="platform/packages/modules/StatsD" groups="pdk-cw-fs,pdk-fs" revision="969c1684553f496b6c87100e3349dacfeae6e3ca" />
+  <!-- <project path="packages/modules/StatsD" name="platform/packages/modules/StatsD" groups="pdk-cw-fs,pdk-fs" revision="969c1684553f496b6c87100e3349dacfeae6e3ca" /> -->
   <!-- RTM -->
   <project path="packages/modules/TestModule" name="platform/packages/modules/TestModule" />
   <project path="packages/modules/Virtualization" name="platform/packages/modules/Virtualization" groups="pdk" revision="4d3baefa6259d364923e51aaed12de196dc445b0" />
