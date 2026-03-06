@@ -234,7 +234,7 @@
   <project path="external/guice" name="platform/external/guice" groups="pdk" />
   <!-- RTM -->
   <project path="external/hamcrest" name="platform/external/hamcrest" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk,qcom_msm8x26" revision="00ea66f35754a1e6e4d3b7b139d611a9a623a9d1" />
+  <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk,qcom_msm8x26" revision="8d1e57ae2523769b9ff7e9d1344a256880cb5202" />
   <!-- RTM -->
   <project path="external/hyphenation-patterns" name="platform/external/hyphenation-patterns" groups="pdk-fs" />
   <project path="external/icu" name="platform/external/icu" groups="pdk" revision="2f0c8602df18d4cc8030b4198a8f835c867fe15d" />
