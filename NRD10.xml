@@ -558,7 +558,7 @@
   <project path="frameworks/opt/net/ethernet" name="platform/frameworks/opt/net/ethernet" groups="pdk-fs" revision="5b4baf7330e22b93fd32a44824b27f43e4f2a549" />
   <project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" revision="a4bfe09dceb7a8c6354eaebbfb09930156a52693" />
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" groups="pdk-cw-fs,pdk-fs" revision="093cefff35ed54faab718119252caf7c7c3a33b5" />
-  <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" groups="pdk" revision="f37079e3d8f4aca3242a971cbaef732fe1b75bde" />
+  <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" groups="pdk" revision="1d540dbd9ddeafc27dda51e26b0303df4a66914d" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" revision="93dc5578d3b87e1c336fd4532b77e06c063f6ec7" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" revision="22e7f820ce7314c6daee1f7493fa8249f258d0ed" />
   <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="d1b8810e2779ae5899b522dffdd305c06bc81cae" />
@@ -831,4 +831,3 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" revision="bdb5a87bf3b0a467a627974b3a810adadd0fa2d4" />
 
 </manifest>
-
