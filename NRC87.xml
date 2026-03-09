@@ -778,7 +778,7 @@
   <project path="system/media" name="platform/system/media" groups="pdk" revision="ef12cb90ce2e2e6aea01e3e308cc9c491e8f84b8" />
   <!-- RTM -->
   <project path="system/nativepower" name="platform/system/nativepower" />
-  <project path="system/netd" name="platform/system/netd" groups="pdk" revision="7fa41f337b9b1ecb7accc429ab7caea462482392" />
+  <project path="system/netd" name="platform/system/netd" groups="pdk" revision="94a7b43ecb13094313d5f1bdc2515be760a0b6be" />
   <!-- empty repo -->
   <project path="system/nvram" name="platform/system/nvram" />
   <project path="system/security" name="platform/system/security" groups="pdk" revision="7246de87434cc50783d0740d13455c6f9243410d" />
@@ -814,6 +814,5 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" revision="0526884e56140698f6af50387ead3d0558544a58" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" revision="d2485ddfc3a14dc8a84a1e7a0c930ea3c8ce2326" />
-
 
 </manifest>
