@@ -591,7 +591,7 @@
   <!-- RTM -->
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="c7d61ce81e54a54619758c1ae3feee69a374a2e7" />
-  <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" revision="b4c15199a9fa3c4f4fbe5908a92f7978f9e03f4a" />
+  <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" revision="cf5877a0d8321c6ed748fe0d17ad3a34045f4f90" />
   <!-- RTM -->
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt" />
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom,qcom_audio" revision="de4849cee04a23ae84da96487e344f75f93e5585" />
