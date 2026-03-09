@@ -694,7 +694,7 @@
   <!-- RTM -->
   <project path="packages/providers/BookmarkProvider" name="platform/packages/providers/BookmarkProvider" groups="pdk-fs" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" groups="pdk-cw-fs,pdk-fs" revision="840f8683ad0d1b4ec10d295f8a8fdcf5189b977f" />
-  <project path="packages/providers/CallLogProvider" name="platform/packages/providers/CallLogProvider" groups="pdk-fs" revision="7914bccda3fde840ae3a476baa9cf735ac962e46" />
+  <project path="packages/providers/CallLogProvider" name="platform/packages/providers/CallLogProvider" groups="pdk-fs" revision="a111fff1b5cba3b562b393d2e85e2de93ae29cf5" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" groups="pdk-cw-fs,pdk-fs" revision="96af0d2ec0e2e1a735fe9db016e8e1fb51c2b437" />
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" groups="pdk-cw-fs,pdk-fs" revision="633f5293d7d2318dc9abbda528ba1daf8c00901f" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" groups="pdk-cw-fs,pdk-fs" revision="395f33afeb84c34233456df3829410bdf70034d2" />
