@@ -649,7 +649,7 @@
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" groups="pdk-fs" revision="fc0d6167702c3d79124179e1e2d3bf70474c61a8" />
   <!-- RTM -->
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" />
-  <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" groups="pdk-fs" revision="8714f06db21f7db391db5e6d126bcac9447e6592" />
+  <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" groups="pdk-fs" revision="9686ec6f53fe1f59efb5781dbdb3b22a4b24d3a8" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" groups="pdk-fs" revision="cdbcfe0bfd7138ccb082d9b26dece6677c61e711" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" groups="pdk-fs" revision="f4c0f7d2505833fac1f5dad173282d8c73cbff5d" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" groups="pdk-fs" revision="8e2f0e48cb3d2209f1cf818b6cf8c4bd95645783" />
@@ -814,5 +814,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" revision="0526884e56140698f6af50387ead3d0558544a58" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" revision="d2485ddfc3a14dc8a84a1e7a0c930ea3c8ce2326" />
+
 
 </manifest>
