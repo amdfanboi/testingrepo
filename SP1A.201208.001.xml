@@ -709,7 +709,7 @@
   <project path="frameworks/libs/service_entitlement" name="platform/frameworks/libs/service_entitlement" groups="pdk" revision="2819bd5a84782a57ab062baf95a6a10568506c03" />
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" revision="32283d2c908bbe16ce96362444ff24c99643cbf6" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" revision="fb88013ac8dd1d8b86668bd7fc0744adb717826b" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="cdee4f3d464f1feb5a6e75bd5b7a1c12784a8438" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="2c3ad9bcb9caf23836e29a6afcb1897c12f0e94a" />
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" revision="e9850af1278e499e427d08dbf40244f3622bd6db" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs,pdk-fs" revision="6201723c8ea7753aada9ad8113deca443e603a0d" />
   <project path="frameworks/opt/car/services" name="platform/frameworks/opt/car/services" groups="pdk-fs" revision="cb11e21b5eab2184f22c38749bebba5eacd8bdde" />
