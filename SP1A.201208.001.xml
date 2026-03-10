@@ -742,7 +742,7 @@
   <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="caba31c61dc20ee13d614c5ca5f2dfb35e0faecd" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" revision="d2a49a13085bf3b12d5195e406fa0f6910139225" />
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="platform/hardware/knowles/athletico/sound_trigger_hal" groups="coral,generic_fs" revision="af1ea2f640f92094869b8bee57a698dd053fc2ee" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="33bdfd7247d037fbb0a90a21e6d4a1dbeb596685" />
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="b307854be18c9a1b3edff648a387759bdb944745" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" revision="974a7dcc730037f5cfe3a8467c862268c9bc666f" />
   <project path="hardware/nxp/nfc" name="platform/hardware/nxp/nfc" groups="pdk" revision="948e7711f1da4b1106cbfabfdad5d1fa45bbd56a" />
   <project path="hardware/nxp/secure_element" name="platform/hardware/nxp/secure_element" groups="pdk" revision="f5a78a6d7748643c1c91fa7688c92fca6a0f7789" />
