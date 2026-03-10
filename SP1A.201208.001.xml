@@ -197,7 +197,7 @@
   <project path="external/ethtool" name="platform/external/ethtool" groups="pdk" revision="5f5c719eb1e1367fb149e9c67728ea12e38af6b9" />
   <project path="external/exoplayer" name="platform/external/exoplayer" groups="pdk" revision="bd39300ef444bb5c05efd9f92233e1c0cec18985" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" revision="85334f1d93ff62b3f2e0d9e4a7b10fb60b8b351c" />
-  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" groups="pdk" revision="457392a0325ab86808d8785269c9cc73745c9f8d" />
+  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" groups="pdk" revision="406ce4c8b8a509fe467fd88263417783d19a79f0" />
   <!-- RTM -->
   <project path="external/fastrpc" name="platform/external/fastrpc" groups="pdk" />
   <project path="external/fdlibm" name="platform/external/fdlibm" groups="pdk" revision="611d39a0198f549514e774e9de57f8951e71a468" />
@@ -650,7 +650,7 @@
   <project path="external/swiftshader" name="platform/external/swiftshader" groups="pdk" revision="8c6b8a8b6fcf22e643267182d8af3d8eebc26ce7" />
   <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk" revision="5d65cdc58460fe23ae29ebc061065030a7701dff" />
   <project path="external/tcpdump" name="platform/external/tcpdump" groups="pdk" revision="67b9d1e1f8d1dcbcf62e7372be7551b555c087ba" />
-  <project path="external/tensorflow" name="platform/external/tensorflow" groups="pdk" revision="c28356d6e09be879b823d4b3f3d970115d5eabde" />
+  <project path="external/tensorflow" name="platform/external/tensorflow" groups="pdk" revision="fcc2fbf951c03fcf9c0ed7940a02e0942f8924b7" />
   <project path="external/testng" name="platform/external/testng" groups="pdk" revision="f073a1ff45c557090790f170e98ec1b08028c9ad" />
   <project path="external/tflite-support" name="platform/external/tflite-support" groups="pdk" revision="ed73f2f75b75da3675b0a984dbfd195702855ed1" />
   <!-- RTM -->
@@ -681,7 +681,7 @@
   <project path="external/wayland" name="platform/external/wayland" groups="pdk" revision="757e8947eb20a19630be9c84f208b8ea9afb63d1" />
   <project path="external/wayland-protocols" name="platform/external/wayland-protocols" groups="pdk" revision="2be6a2661d0048b24e6ef7a7eff83f4f35f30236" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="a0e370dabe528802b06f92769b8434c67b88f3a7" />
-  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="cffe44453743da1d7e35f8dbf9ecb5f6ab8e8c5c" />
+  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="70dc8e547c2ddd9d0a912e7021f9e041a65c1c1e" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="a714abdc57800ce13fdea9daccb143e4e107a5f5" />
   <project path="external/wycheproof" name="platform/external/wycheproof" groups="pdk" revision="74e5640815a2e82e24166a5ef7be3dafb30d51ae" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk" revision="caf0a819bf2b1f8b94dd83bb50e16d5bfe657cac" />
@@ -1152,3 +1152,4 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
