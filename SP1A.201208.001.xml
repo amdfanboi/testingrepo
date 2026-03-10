@@ -929,7 +929,7 @@
   <project path="packages/modules/NeuralNetworks" name="platform/packages/modules/NeuralNetworks" groups="pdk-cw-fs,pdk-fs" revision="f301d3966a389d80b80a427d42b78dec02d90cba" />
   <project path="packages/modules/Permission" name="platform/packages/modules/Permission" groups="pdk-cw-fs,pdk-fs" revision="47be7110c68c4ef522e81bbeaa587ba1a22c9dbc" />
   <project path="packages/modules/RuntimeI18n" name="platform/packages/modules/RuntimeI18n" groups="pdk-cw-fs,pdk-fs" revision="689f4db42fd3ada23fa34cf6deb52cef1dac13ca" />
-  <project path="packages/modules/Scheduling" name="platform/packages/modules/Scheduling" groups="pdk-cw-fs,pdk-fs" revision="741942e418a78c45287f0604c9d9aa962df1d77c" />
+  <project path="packages/modules/Scheduling" name="platform/packages/modules/Scheduling" groups="pdk-cw-fs,pdk-fs" revision="c85ee1494c13694fae96f2bcacad2a435172ea45" />
   <project path="packages/modules/SdkExtensions" name="platform/packages/modules/SdkExtensions" groups="pdk-cw-fs,pdk-fs" revision="c81f8ed1dcb4b13adc8182fe810a45a126f4ffaa" />
   <project path="packages/modules/StatsD" name="platform/packages/modules/StatsD" groups="pdk-cw-fs,pdk-fs" revision="969c1684553f496b6c87100e3349dacfeae6e3ca" />
   <!-- RTM -->
