@@ -331,7 +331,7 @@
   <project path="external/libphonenumber" name="platform/external/libphonenumber" groups="pdk" revision="0e5981f4e15d9534a38e3999b2aeb4c9e79af310" />
   <project path="external/libpng" name="platform/external/libpng" groups="pdk" revision="92de09dd6e87be26fc710664e2e3cb747c303055" />
   <project path="external/libprotobuf-mutator" name="platform/external/libprotobuf-mutator" groups="pdk" revision="9dfe2e12e12c1a6affd1bae2e10b16bc20c944bb" />
-  <project path="external/libsrtp2" name="platform/external/libsrtp2" groups="pdk" revision="4218075f7bfbf408579942d8503aca07e7a294c8" />
+  <project path="external/libsrtp2" name="platform/external/libsrtp2" groups="pdk" revision="fa31f794850fbfa2ae159a754262aadc2c6deccc" />
   <project path="external/libtextclassifier" name="platform/external/libtextclassifier" groups="pdk" revision="53186d36f20c81d4a8197cb61d2751db1ad62c06" />
   <project path="external/libusb" name="platform/external/libusb" groups="pdk" revision="f0286d5921875d6f7816b45c5376fc3809505885" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk" revision="5e94aa10a092d868a5857e7244af90bbe955870f" />
