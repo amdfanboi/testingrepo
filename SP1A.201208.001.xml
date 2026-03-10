@@ -723,7 +723,7 @@
   <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" groups="pdk" revision="76644879532e0fab82adacc4a0a7bcaaa3bc898f" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" revision="de3ddd4c3606e05b4422e8fa09614f1cce58994c" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" revision="caeeef13718d3d3de4dc675995257b7902132636" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="aa84850fae99465de74f2a3cad5e3b9ebf901974" />
+  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="ef98b513cf1405938efb87de3f6e74983e0eb6e7" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" revision="d35041194b5f5985296f0510d048209dbced0b50" />
   <project path="frameworks/opt/tv/tvsystem" name="platform/frameworks/opt/tv/tvsystem" groups="pdk-cw-fs,pdk-fs" revision="8f00b3c329486c8d3ab854b7018c4427a7e13466" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" revision="588b5ff80d964e411f96a880f2e6241ea0c13174" />
@@ -739,7 +739,7 @@
   <project path="hardware/google/interfaces" name="platform/hardware/google/interfaces" groups="pdk" revision="e47f90b59738bab30a2cbf7aa48739928bafffab" />
   <project path="hardware/google/pixel" name="platform/hardware/google/pixel" groups="generic_fs,pixel" revision="7e6709cdd70c11f6404b8276d986d7c9cd84feae" />
   <project path="hardware/google/pixel-sepolicy" name="platform/hardware/google/pixel-sepolicy" groups="generic_fs,pixel" revision="054904ef3455b82dff5b0e15977b33364cdf9aec" />
-  <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="442b21a247b8eea5fd257745f935104123986a5a" />
+  <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="caba31c61dc20ee13d614c5ca5f2dfb35e0faecd" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" revision="d2a49a13085bf3b12d5195e406fa0f6910139225" />
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="platform/hardware/knowles/athletico/sound_trigger_hal" groups="coral,generic_fs" revision="af1ea2f640f92094869b8bee57a698dd053fc2ee" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="33bdfd7247d037fbb0a90a21e6d4a1dbeb596685" />
@@ -1038,7 +1038,7 @@
   <project path="system/chre" name="platform/system/chre"  groups="pdk" revision="515b97015be44bfdae2782a9e501d1ce1930cb02" />
   <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" revision="fff26983a90b43ad2cd6e0eb82c7f0d2d667de1b" />
   <project path="system/core" name="platform/system/core" groups="pdk" revision="d4f1facb20af2492f770b6d2d431a63c9170e164" />
-  <project path="system/extras" name="platform/system/extras" groups="pdk" revision="78f95c1c04f7f8d881b59a69ebe3f76c1e50b450" />
+  <project path="system/extras" name="platform/system/extras" groups="pdk" revision="0056d8bccde040c4a28b2705f3fd47f000196ba2" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" revision="60b75b7a6735dd9139738b18fd831fb6c99d171f" />
   <project path="system/gsid" name="platform/system/gsid" groups="pdk" revision="97de6ac3c710e39703fea4b4b60d62d9ca394966" />
   <project path="system/hardware/interfaces" name="platform/system/hardware/interfaces" groups="pdk" revision="f8f9f2038ca558efd43b84c70f23596926cd6b25" />
