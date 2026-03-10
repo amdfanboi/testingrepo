@@ -462,7 +462,7 @@
   <project path="external/rust/crates/bindgen" name="platform/external/rust/crates/bindgen" groups="pdk" revision="a3bee6e208ddefc81a1d595a829483b427730959" />
   <project path="external/rust/crates/bitflags" name="platform/external/rust/crates/bitflags" groups="pdk" revision="293c356e413973a13729e58a7ce5d6343baafed7" />
   <project path="external/rust/crates/bstr" name="platform/external/rust/crates/bstr" groups="pdk" revision="9a565aa594c047b0553c5f1dd0be3c7aee131747" />
-  <project path="external/rust/crates/byteorder" name="platform/external/rust/crates/byteorder" groups="pdk" revision="9a726a08d128f74c0e89fdb95d5747be7ae0277a" />
+  <project path="external/rust/crates/byteorder" name="platform/external/rust/crates/byteorder" groups="pdk" revision="666b4679235fbd8a2024626abee625267a8fce29" />
   <project path="external/rust/crates/bytes" name="platform/external/rust/crates/bytes" groups="pdk" revision="4e28bd0c047e6c4d9836b937ef611f9f0ee6bb57" />
   <project path="external/rust/crates/cast" name="platform/external/rust/crates/cast" groups="pdk" revision="10b8f7c79571400b592bfadcbb5a52873872b7e4" />
   <project path="external/rust/crates/cexpr" name="platform/external/rust/crates/cexpr" groups="pdk" revision="27d538e6525c5a1e8ab6d99f65d0187f7ab64b0b" />
