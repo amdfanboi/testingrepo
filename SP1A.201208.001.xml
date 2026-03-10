@@ -656,7 +656,7 @@
   <!-- RTM -->
   <project path="external/timezone-boundary-builder" name="platform/external/timezone-boundary-builder" groups="pdk" clone-depth="2" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" groups="pdk" revision="17b13d32a55c09792bfb95aef9849c2d9ebab3a2" />
-  <project path="external/tinyalsa_new" name="platform/external/tinyalsa_new" groups="pdk" revision="31dcaff5d2fa8ec0c11bc5b5057a1cd0dde7e110" />
+  <!-- <project path="external/tinyalsa_new" name="platform/external/tinyalsa_new" groups="pdk" revision="31dcaff5d2fa8ec0c11bc5b5057a1cd0dde7e110" /> -->
   <project path="external/tinycompress" name="platform/external/tinycompress" groups="pdk" revision="b20355348c88643c1885828b06f570695a4e344d" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" revision="962778149f61c879b4c39e37926403388a2293bc" />
   <project path="external/toolchain-utils" name="platform/external/toolchain-utils" revision="18170ef7ce7637b7d6563950e951e37a715a8c16" />
@@ -919,7 +919,7 @@
   <project path="packages/modules/Connectivity" name="platform/packages/modules/Connectivity" groups="pdk-cw-fs,pdk-fs" revision="683ac305153de1ec0da5e3dabba7eb53760fd340" />
   <project path="packages/modules/Cronet" name="platform/packages/modules/Cronet" groups="pdk-cw-fs,pdk-fs" revision="5ca7ab38735902c530011bcd48ae9381d8b3525b" />
   <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="97bac9e5124a27b0e51bfb664e6da14b27b28f47" />
-  <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" revision="f6861e00a2b7855a6f25c332f2051cca8054b42c" />
+  <!-- <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" revision="f6861e00a2b7855a6f25c332f2051cca8054b42c" /> -->
   <project path="packages/modules/Gki" name="platform/packages/modules/Gki" groups="pdk-cw-fs,pdk-fs" revision="aca09c7cc6dba5affbbaf9da321a3a2cbc329fee" />
   <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="752ce938ca857b95efb5ea2abcb5be228504e57b" />
   <project path="packages/modules/DnsResolver" name="platform/packages/modules/DnsResolver" groups="pdk-cw-fs,pdk-fs" revision="395cfeae9b3bc0c02ff03a0610e78b315d1d3f5b" />
