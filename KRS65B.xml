@@ -412,7 +412,7 @@
   <!-- RTM -->
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="4d0815d694e5a2edb3ce48427de50f55d0f84c0b" />
-  <project path="frameworks/base" name="platform/frameworks/base" revision="6525084b4f0cc0992ae47d5e0a0c3e8cf050f119" />
+  <project path="frameworks/base" name="platform/frameworks/base" revision="f0abed57397c18f71efe47f02aa69a719390adb5" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="eab740276cffc3f762345018a9ab2472ccaa893d" />
   <!-- RTM -->
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
