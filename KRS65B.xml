@@ -507,7 +507,7 @@
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" revision="62c2257c31d73c9e220787593a0d97f36628c623" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" revision="189b0c8d7a5041bdae4fcddc72348268788cf602" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" revision="ca885613093630c495ed8a72a45685e21144c8d2" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" revision="8b3cd79082043a08c319f1550679d4078b7d509c" />
+  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" revision="10422434127f6e0e898ee4348769dc35ffabe418" />
   <!-- RTM -->
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" revision="482c6ceba50fbf443069213c389558ac072b0293" />
