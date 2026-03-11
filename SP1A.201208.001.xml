@@ -28,7 +28,7 @@
   </project>
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" revision="f0551e0e28b99a7263eeb196e794082993fc2411" />
   <project path="build/pesto" name="platform/build/pesto" groups="pdk" revision="2f57f750d6d89cd19fb44dc7548060be49ce6525" />
-  <project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" revision="1ea309c6bdda48319b17968458ff7e4ab187cad8" >
+  <project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" revision="365eb053640095dd63da84a4808dae76c09f1354" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
@@ -1157,4 +1157,5 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
+
 
