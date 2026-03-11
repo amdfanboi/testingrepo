@@ -737,7 +737,7 @@
   <project path="hardware/google/camera" name="platform/hardware/google/camera" groups="pdk" revision="078ecb8060c1f530d589c41aff9df2e97bfe361b" />
   <project path="hardware/google/easel" name="platform/hardware/google/easel" groups="pdk,easel" revision="f21d5f33b24d0382a1aa63ad8b15acdfe2265318" />
   <project path="hardware/google/interfaces" name="platform/hardware/google/interfaces" groups="pdk" revision="e47f90b59738bab30a2cbf7aa48739928bafffab" />
-  <project path="hardware/google/pixel" name="platform/hardware/google/pixel" groups="generic_fs,pixel" revision="7e6709cdd70c11f6404b8276d986d7c9cd84feae" />
+  <project path="hardware/google/pixel" name="platform/hardware/google/pixel" groups="generic_fs,pixel" revision="d05078de7feb75c7d984ee7ac77bee1a5b973086" />
   <project path="hardware/google/pixel-sepolicy" name="platform/hardware/google/pixel-sepolicy" groups="generic_fs,pixel" revision="054904ef3455b82dff5b0e15977b33364cdf9aec" />
   <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="5ed3eb7c40d384a9368cf1ffa42265f17924294f" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" revision="d2a49a13085bf3b12d5195e406fa0f6910139225" />
