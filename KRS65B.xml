@@ -445,7 +445,7 @@
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="9d24ae621bdfdaf09406b099a2ae055e33d1089a" />
   <project path="frameworks/support" name="platform/frameworks/support" revision="9699bdd2ece3a549a0329a0dd3e93460cbac6a68" />
   <project path="frameworks/testing" name="platform/frameworks/testing" revision="99937ceb604da144fd88c028d79fd3b2478f059d" />
-  <project path="frameworks/uiautomator" name="platform/frameworks/uiautomator" revision="911b8f36c1bca4a185be59827c618ac84d83ad00" />
+  <!-- <project path="frameworks/uiautomator" name="platform/frameworks/uiautomator" revision="911b8f36c1bca4a185be59827c618ac84d83ad00" /> -->
   <!-- RTM -->
   <project path="frameworks/volley" name="platform/frameworks/volley" />
   <project path="frameworks/webview" name="platform/frameworks/webview" revision="cec49a5fc777ca379bb59b1f6557a955e686bb18" />
