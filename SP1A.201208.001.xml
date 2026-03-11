@@ -952,7 +952,7 @@
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" groups="pdk-fs" revision="c7b345136102535a22a246330345669ff36ebc58" />
   <project path="packages/services/BuiltInPrintService" name="platform/packages/services/BuiltInPrintService" groups="pdk-cw-fs,pdk-fs" revision="244eede1ce6fc9e819697f73ef602f7319099646" />
   <project path="packages/services/AlternativeNetworkAccess" name="platform/packages/services/AlternativeNetworkAccess" groups="pdk-cw-fs,pdk-fs" revision="738c1a7da525579ce05940caed6b339b4e8bace5" />
-  <project path="packages/services/Car" name="platform/packages/services/Car" groups="pdk-cw-fs,pdk-fs" revision="37002e71ea4042f8f718380e6dc6178b2570b4c3" />
+  <project path="packages/services/Car" name="platform/packages/services/Car" groups="pdk-cw-fs,pdk-fs" revision="67757048ab6259397fb78da207ace7739c152ca4" />
   <project path="packages/services/Iwlan" name="platform/packages/services/Iwlan" groups="pdk-cw-fs,pdk-fs" revision="bc8610e04df6e59bb7f49299e8e5c1215e761255" />
   <project path="packages/services/Mms" name="platform/packages/services/Mms" groups="pdk-cw-fs,pdk-fs" revision="f709017f63e09d206bfb43008663a82b777355e7" />
   <project path="packages/services/Mtp" name="platform/packages/services/Mtp" groups="pdk-cw-fs,pdk-fs" revision="6d09ca3f766dab072f0dab946484f72e128e7523" />
