@@ -1048,7 +1048,7 @@
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" revision="568b2bb64608239641fe1e4ac61f43a5972683a0" />
   <project path="system/libartpalette" name="platform/system/libartpalette" groups="pdk" revision="acebf4b898f2524a37800dbd9c1c0d1995e0e8f0" />
   <project path="system/libbase" name="platform/system/libbase" groups="pdk" revision="6cbfa08d3cafbdeb891ff9cc421e464e2442a6a7" />
-  <project path="system/libfmq" name="platform/system/libfmq" groups="pdk" revision="dce0d5da807addf1b5e17ac8b6ff6c3f651480e6" />
+  <project path="system/libfmq" name="platform/system/libfmq" groups="pdk" revision="7e5fc6682348f1a4f12ad0ebfcf7e34e3a287125" />
   <project path="system/libhidl" name="platform/system/libhidl" groups="pdk" revision="317dca885c33b4ca71ce57880dbc05159b897e1b" />
   <project path="system/libhwbinder" name="platform/system/libhwbinder" groups="pdk" revision="9e847d7df2f1b137e74aa6ae9ab24000b0bee382" />
   <project path="system/libprocinfo" name="platform/system/libprocinfo" groups="pdk" revision="10efd51d3b4b69ebc02a77ee4279d7c8311ff149" />
