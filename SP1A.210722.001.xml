@@ -1751,7 +1751,7 @@
   <project path="prebuilts/module_sdk/conscrypt" name="platform/prebuilts/module_sdk/conscrypt" groups="pdk" clone-depth="1" revision="31b2b66bd380f32b2038a943e1b7f49cbb5a93cf" />
   <project path="prebuilts/module_sdk/Connectivity" name="platform/prebuilts/module_sdk/Connectivity" groups="pdk" clone-depth="1" revision="767db49c2ce2af4e97f9e978fc0f261cc32fd67f" />
   <project path="prebuilts/module_sdk/IPsec" name="platform/prebuilts/module_sdk/IPsec" groups="pdk" clone-depth="1" revision="cfd1e08747e83cbc8c8f4856bce3c19dbcca1640" />
-  <project path="prebuilts/module_sdk/Media" name="platform/prebuilts/module_sdk/Media" groups="pdk" clone-depth="1" revision="5726ea36225d382d6a8f35ffdbeeded8b95b6afc" />
+  <project path="prebuilts/module_sdk/Media" name="platform/prebuilts/module_sdk/Media" groups="pdk" clone-depth="1" revision="429d085b6954701c73408c63f28572a14a4481b9" />
   <project path="prebuilts/module_sdk/MediaProvider" name="platform/prebuilts/module_sdk/MediaProvider" groups="pdk" clone-depth="1" revision="59688560a43c7b7e2c36fc8bea31841cb012262d" />
   <project path="prebuilts/module_sdk/Permission" name="platform/prebuilts/module_sdk/Permission" groups="pdk" clone-depth="1" revision="9ee51edc765ddcc92e019e6194c46d2a479c8a32" />
   <project path="prebuilts/module_sdk/Scheduling" name="platform/prebuilts/module_sdk/Scheduling" groups="pdk" clone-depth="1" revision="f3234f41d6364f0d625039fd87df8a47e7e8151a" />
