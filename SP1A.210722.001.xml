@@ -569,8 +569,7 @@
   <project path="external/libprotobuf-mutator" name="platform/external/libprotobuf-mutator" groups="pdk" />
   <!-- RTM -->
   <project path="external/libsrtp2" name="platform/external/libsrtp2" groups="pdk" />
-  <!-- RTM -->
-  <project path="external/libtextclassifier" name="platform/external/libtextclassifier" groups="pdk" />
+  <project path="external/libtextclassifier" name="platform/external/libtextclassifier" groups="pdk" revision="487a7eb18f4d5e54ebcd623c2eeb97ff95dedd1a" />
   <!-- RTM -->
   <project path="external/libusb" name="platform/external/libusb" groups="pdk" />
   <!-- RTM -->
