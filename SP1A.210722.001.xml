@@ -238,7 +238,7 @@
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" />
   <!-- RTM -->
   <project path="external/connectedappssdk" name="platform/external/connectedappssdk" groups="pdk" />
-  <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk" revision="bb6449e003ac0d86b311d247073ed332fcd19c65" />
+  <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk" revision="7c386bb4ef7b33b8e51c7a22911526b311e527f8" />
   <!-- RTM -->
   <project path="external/cpu_features" name="platform/external/cpu_features" groups="pdk" />
   <!-- RTM -->
@@ -1748,7 +1748,7 @@
   <!-- RTM -->
   <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk" clone-depth="1" />
   <project path="prebuilts/module_sdk/art" name="platform/prebuilts/module_sdk/art" groups="pdk" clone-depth="1" revision="33c6752febaee8315f8173ed15878e8c02651bb3" />
-  <project path="prebuilts/module_sdk/conscrypt" name="platform/prebuilts/module_sdk/conscrypt" groups="pdk" clone-depth="1" revision="627e40f98dfd915bff88d36f24dfe57d648f512b" />
+  <project path="prebuilts/module_sdk/conscrypt" name="platform/prebuilts/module_sdk/conscrypt" groups="pdk" clone-depth="1" revision="31b2b66bd380f32b2038a943e1b7f49cbb5a93cf" />
   <project path="prebuilts/module_sdk/Connectivity" name="platform/prebuilts/module_sdk/Connectivity" groups="pdk" clone-depth="1" revision="767db49c2ce2af4e97f9e978fc0f261cc32fd67f" />
   <project path="prebuilts/module_sdk/IPsec" name="platform/prebuilts/module_sdk/IPsec" groups="pdk" clone-depth="1" revision="cfd1e08747e83cbc8c8f4856bce3c19dbcca1640" />
   <project path="prebuilts/module_sdk/Media" name="platform/prebuilts/module_sdk/Media" groups="pdk" clone-depth="1" revision="5726ea36225d382d6a8f35ffdbeeded8b95b6afc" />
