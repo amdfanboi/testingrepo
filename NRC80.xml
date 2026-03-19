@@ -408,8 +408,7 @@
   <project path="external/parameter-framework" name="platform/external/parameter-framework" groups="pdk-fs" revision="04859340dca73b7f0ebee593b0ea7ac6c5163aed" />
   <!-- RTM -->
   <project path="external/pcre" name="platform/external/pcre" groups="pdk" />
-  <!-- RTM -->
-  <project path="external/pdfium" name="platform/external/pdfium" groups="pdk" />
+  <project path="external/pdfium" name="platform/external/pdfium" groups="pdk" revision="ce97c597024da69c0238949f8e870aefe5f54422" />
   <project path="external/piex" name="platform/external/piex" revision="604b0cbada6d8ac46f1848a257a019b125dd9094" />
   <!-- RTM -->
   <project path="external/ppp" name="platform/external/ppp" groups="pdk-cw-fs,pdk-fs" />
