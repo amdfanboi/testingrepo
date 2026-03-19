@@ -188,7 +188,7 @@
   <project path="external/fec" name="platform/external/fec" />
   <!-- RTM -->
   <project path="external/fio" name="platform/external/fio" groups="pdk-fs" />
-  <project path="external/flac" name="platform/external/flac" groups="pdk" revision="6995c8473ccfc43848e179a060de8157d7d897c5" />
+  <project path="external/flac" name="platform/external/flac" groups="pdk" revision="093af41da9c2cef8e3bce26dd18cbbc517b2533b" />
   <!-- RTM -->
   <project path="external/fonttools" name="platform/external/fonttools" groups="pdk-fs" />
   <!-- RTM -->
