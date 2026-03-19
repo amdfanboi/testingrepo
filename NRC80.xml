@@ -14,7 +14,7 @@
 
   <!-- RTM -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
-  <project path="build/kati" name="platform/build/kati" groups="pdk,tradefed" revision="3ba41fdc57cf558d367ba900b8128c64da860e80" />
+  <project path="build/kati" name="platform/build/kati" groups="pdk,tradefed" revision="795f789c6a52503812c3af2178ea7b63779250e9" />
   <project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" revision="dc5d28ad1736d31787da910627a3711c4df2a588" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
