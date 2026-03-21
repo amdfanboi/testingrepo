@@ -8,6 +8,7 @@
            sync-j="4" />
 
   <!-- Android N build NRC62 Manifest -->
+  <!-- As of 21st March 2026, it crashes on API check -->
   <project path="build" name="platform/build" groups="pdk,tradefed" revision="8da192c022476573782ed51d31e5534a14a0affe" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
