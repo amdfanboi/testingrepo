@@ -493,7 +493,7 @@
   <!-- RTM -->
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="ebf560fb8954caab42b87572d8ad31d28d2221f2" />
-  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" revision="bb354f8f8ba394300630982b97aaa9029c9507fd" />
+  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" revision="3102c87a74de330855c4ce69eb95145f619db04b" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="47557ec62f0ac1971ff16871d2c785075e8c5225" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="a4e968f7c0528fb5bc8d80d83ae0b061f965f2b1" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" revision="6c323cc29a7584caf8015a6060570a457a43ce56" />
