@@ -289,7 +289,7 @@
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
   <!-- RTM -->
   <project path="external/libhevc" name="platform/external/libhevc" groups="pdk-fs" />
-  <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" groups="pdk" revision="83a8b415ea3dfa7b5c584c4239dd39b56f2bf6e0" />
+  <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" groups="pdk" revision="0ef076fb7b326dc201b4ab3bd30fefd4e35ad1c4" />
   <!-- RTM -->
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
   <!-- RTM -->
