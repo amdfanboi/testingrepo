@@ -513,7 +513,7 @@
   <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" groups="pdk-cw-fs,pdk-fs" revision="ced8b4edb87c940be0269d259f3e6c69e276e5ea" />
   <!-- RTM -->
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/chips" name="platform/frameworks/opt/chips" groups="pdk-cw-fs,pdk-fs" revision="c4da98ae5163692b343b3f4c034a79840b1f3995" />
+  <project path="frameworks/opt/chips" name="platform/frameworks/opt/chips" groups="pdk-cw-fs,pdk-fs" revision="b4064d3544317fada54da14bd13472d7a61dd0ac" />
   <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" groups="pdk-cw-fs,pdk-fs" revision="242eb54672dec468b9ec670c73aed5e4275721cb" />
   <project path="frameworks/opt/datetimepicker" name="platform/frameworks/opt/datetimepicker" groups="pdk-cw-fs,pdk-fs" revision="401e2787c5787bc35162d000da990d8fc141f698" />
   <!-- RTM -->
