@@ -124,7 +124,7 @@
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk-fs" revision="9cd85c95c26feade07c003c2942d31a035e32f0b" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" revision="11c2fbcfb91714e0aac1b2e53db3a4490c89a091" />
-  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" revision="9eceeb6882b9d16a1d32db98aec57d24d43b34bc" />
+  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" revision="ac04adaca994bb0bab39e2cb5feefb2da1d28874" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" revision="574b9e18c787103e70b7c4f2eb225fbeffcfd476" />
   <!-- RTM -->
   <project path="external/cmockery" name="platform/external/cmockery" groups="pdk-fs" />
