@@ -124,7 +124,7 @@
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk-fs" revision="9cd85c95c26feade07c003c2942d31a035e32f0b" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" revision="11c2fbcfb91714e0aac1b2e53db3a4490c89a091" />
-  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" revision="ac04adaca994bb0bab39e2cb5feefb2da1d28874" />
+  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" revision="a9031c91c9a428f18bdd9e52429a31484976fc54" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" revision="574b9e18c787103e70b7c4f2eb225fbeffcfd476" />
   <!-- RTM -->
   <project path="external/cmockery" name="platform/external/cmockery" groups="pdk-fs" />
@@ -498,7 +498,7 @@
   <!-- RTM -->
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="0f9e6ea8036b9978c13cad84bfd5d7478720cd39" />
-  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" revision="454c67b82898a4d86a1574a002a6e994e1bf6bf2" />
+  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" revision="3df6390d2bdf12aaad2465dbe004f8ce84d44389" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="47557ec62f0ac1971ff16871d2c785075e8c5225" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="a4e968f7c0528fb5bc8d80d83ae0b061f965f2b1" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" revision="0d5c5de4491e2e385f09620259a6541e430028eb" />
