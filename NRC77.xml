@@ -746,7 +746,7 @@
   <!-- RTM -->
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" revision="d0f353ea04ce0006882b068e8be7dda0ca456b7a" />
-  <project path="system/media" name="platform/system/media" groups="pdk" revision="b2336df5e3b79b4fe18d46da5391a72ea7feeec5" />
+  <project path="system/media" name="platform/system/media" groups="pdk" revision="0cfd2b6668de02f7d44b4707ae306f1ac944dd22" />
   <!-- RTM -->
   <project path="system/nativepower" name="platform/system/nativepower" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="e4851dede1dd24bbd80ffd30c4e89c7753fed121" />
