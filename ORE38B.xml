@@ -367,7 +367,7 @@
   <!-- RTM -->
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" />
   <project path="external/seccomp-tests" name="platform/external/seccomp-tests" groups="pdk" revision="ca3de3bbbe674ebd974516092785bbf4e78e14f3" />
-  <project path="external/selinux" name="platform/external/selinux" groups="pdk" revision="1a35302ee2dc07a3e53828bbc4bca925e08cdd4f" />
+  <project path="external/selinux" name="platform/external/selinux" groups="pdk" revision="edfef6ce3520df44d3330a0b6ce3abc1f3826d19" />
   <!-- RTM -->
   <project path="external/shflags" name="platform/external/shflags" groups="pdk" />
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk,qcom_msm8x26" revision="b18b09b6114b9b7fe6fc2f96d8b15e8a72f66916" />
