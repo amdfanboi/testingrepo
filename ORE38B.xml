@@ -244,7 +244,7 @@
   <!-- RTM -->
   <project path="external/libconstrainedcrypto" name="platform/external/libconstrainedcrypto" groups="pdk" />
   <!-- <project path="external/libcups" name="platform/external/libcups" groups="pdk-cw-fs,pdk-fs" /> -->
-  <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" revision="eeae30ead0fedb3f34a1d7bcc70f7004682cf24e" />
+  <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" revision="9ee859d59000e820d4d021153c46b9978ade292c" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" revision="eace9ece8ae60cdc2508fd2041324870bb129902" />
   <!-- RTM -->
   <project path="external/libdivsufsort" name="platform/external/libdivsufsort" groups="pdk" />
