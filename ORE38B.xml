@@ -347,7 +347,7 @@
   <!-- RTM -->
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk" />
   <project path="external/parameter-framework" name="platform/external/parameter-framework" groups="pdk" revision="77d4cd081c89dd7cf322c034e4203ff72b1c5cf4" />
-  <project path="external/pcre" name="platform/external/pcre" groups="pdk" revision="112c9cce7a03099c5620701c16edfd8042e91f0b" />
+  <project path="external/pcre" name="platform/external/pcre" groups="pdk" revision="628f611904d2380df56e103281e8e8a8dd6035e6" />
   <project path="external/pdfium" name="platform/external/pdfium" groups="pdk" revision="a9593b7dca28ebc0535bea042a899b0888b6c8d7" />
   <project path="external/piex" name="platform/external/piex" groups="pdk" revision="d1f05a56ede6d8e914e5a476a085323fce311d6c" />
   <project path="external/ppp" name="platform/external/ppp" groups="pdk" revision="d9aeba443abce801cd696b3921a559cab88e1e74" />
