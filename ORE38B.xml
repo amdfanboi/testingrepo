@@ -112,7 +112,7 @@
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk" />
   <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" revision="6abdfc34e795735026a2ce376b804246be194248" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" revision="bc592d18a60451c6381fbd8af73b04643be56779" />
-  <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" revision="2eea58f169079ecb113cb3b292462a775263df69" />
+  <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" revision="0231f8ae917c4d27d076d2d17defd747d090ea7c" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" revision="9ab9d8598abab75d34286274520815fe454252a9" />
   <project path="external/c-ares" name="platform/external/c-ares" groups="pdk" revision="de2cd886042f484dc8694e614c3ac16298f93514" />
   <project path="external/caliper" name="platform/external/caliper" groups="pdk" revision="a67e4782f7f5bc2d7b3f9de6836fc333ef0e1bd1" />
