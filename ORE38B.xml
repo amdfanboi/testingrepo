@@ -110,7 +110,7 @@
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <!-- RTM -->
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk" />
-  <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" revision="6abdfc34e795735026a2ce376b804246be194248" />
+  <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" revision="4ea69f8a15e9e90bf67e92e9878aa79230828d2e" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" revision="bc592d18a60451c6381fbd8af73b04643be56779" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" revision="2eea58f169079ecb113cb3b292462a775263df69" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" revision="9ab9d8598abab75d34286274520815fe454252a9" />
