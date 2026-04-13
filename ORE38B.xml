@@ -411,7 +411,7 @@
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" revision="35cb5f6a5120844d9c17c44b5b7db301bb149ef4" />
   <project path="external/vogar" name="platform/external/vogar" groups="pdk" revision="93c1c247bdb17431c12ac70f44bad5d049f450a4" />
   <project path="external/volley" name="platform/external/volley" groups="pdk" revision="bae16a533a1bf98eb86b3a7971fc410249748325" />
-  <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="111f7b1e913ebc843e8fd741140648ae8d87cc8a" />
+  <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="326df0dc0c4361377b90e4240693b736e7bde0f0" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="4944caac4ad3c3aeb0edcd636100c1e5cecde5d3" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="84bc2b9bf32284092d6b676e9a98a6056fd30e9a" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="fa798f237b995b3cd8a0dee7179287cf5423c158" />
