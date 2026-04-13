@@ -110,7 +110,7 @@
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <!-- RTM -->
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk" />
-  <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" revision="4ea69f8a15e9e90bf67e92e9878aa79230828d2e" />
+  <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" revision="6abdfc34e795735026a2ce376b804246be194248" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" revision="bc592d18a60451c6381fbd8af73b04643be56779" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" revision="2eea58f169079ecb113cb3b292462a775263df69" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" revision="9ab9d8598abab75d34286274520815fe454252a9" />
@@ -195,7 +195,7 @@
   <!-- RTM -->
   <project path="external/google-fonts/dancing-script" name="platform/external/google-fonts/dancing-script" groups="pdk" />
   <project path="external/google-tv-pairing-protocol" name="platform/external/google-tv-pairing-protocol" groups="pdk" revision="1ba55756f3bb3f093dc8f7035fc48852276abf0b" />
-  <project path="external/googletest" name="platform/external/googletest" groups="pdk" revision="04bf31856b1f78c1f9ff32f6fbb27c8c03f4f309" />
+  <project path="external/googletest" name="platform/external/googletest" groups="pdk" revision="69ab970c6946798c04e4bf4bbd2311e08a69051f" />
   <project path="external/gptfdisk" name="platform/external/gptfdisk" groups="pdk" revision="2c2deeb032f6c158cf4f782e1765a4a21af88cb3" />
   <project path="external/guava" name="platform/external/guava" groups="pdk" revision="ae1f8a73e84b105f2cc2c6f7c00be59b5bd48184" />
   <project path="external/guice" name="platform/external/guice" groups="pdk" revision="fd8df403022aae344c43f854fca2f71df772d6b9" />
