@@ -533,7 +533,7 @@
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" revision="310f96ed002219067d2e652e27d64d256e315832" />
   <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" revision="773266c09d8df8db35c50f5b726445c7b130b85c" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" groups="pdk-fs" revision="a0e57cde68fa5f14a877d497d81acf4d24ecaded" />
-  <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" revision="6d6ccf0ea9cb4b0360b2f9cd0ea6bd8eef1bd613" />
+  <!-- <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" revision="6d6ccf0ea9cb4b0360b2f9cd0ea6bd8eef1bd613" /> -->
   <project path="packages/apps/Email" name="platform/packages/apps/Email" groups="pdk-fs" revision="514917ba09f95649e8c8c9748bce0e94c21a9dc1" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" revision="e577fee26f7e66e162cc9b0a18fd20c0b53c777c" />
   <project path="packages/apps/ExactCalculator" name="platform/packages/apps/ExactCalculator" groups="pdk-fs" revision="8a6505c6231b02dd5d35f6233f8191c810b4df85" />
