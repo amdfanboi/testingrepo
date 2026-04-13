@@ -491,7 +491,7 @@
   <!-- <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" /> -->
   <!-- RTM -->
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="59d9fb4f881a7d3aa313ee49fca1ca35ccd81b0d" />
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="e7ade1f3b920faf1fd46e271a6875f0cf7c1ec53" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" revision="8c03fcdcc7bb3636556008973b58a32caabe3df0" />
   <!-- RTM -->
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt,pdk" />
