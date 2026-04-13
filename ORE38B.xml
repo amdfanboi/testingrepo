@@ -254,7 +254,7 @@
   <!-- <project path="external/libese" name="platform/external/libese" groups="pdk" /> -->
   <!-- RTM -->
   <project path="external/libdaemon" name="platform/external/libdaemon" groups="pdk" />
-  <project path="external/libevent" name="platform/external/libevent" groups="pdk" revision="a5dd84c71082d993bd8273d674daf89e4e9853a7" />
+  <project path="external/libevent" name="platform/external/libevent" groups="pdk" revision="5e51bca0936809440c8c94e463682a8c31c69399" />
   <!-- RTM -->
   <project path="external/libexif" name="platform/external/libexif" groups="pdk" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" revision="2f66c771f18317147e446fab5a95082d18a6db20" />
