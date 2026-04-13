@@ -438,7 +438,7 @@
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" revision="e6adb66ae92eff5c72e9504634dd6020c5130173" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" revision="a3ed11d4346bb6a5aa5908054d499d8c14cc3704" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" revision="1a4ad1022fabdf8fbf03cc939d14752eea78efaa" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="502623dcff83432791e268792323b42934eb5306" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="98051e00c8eadf6d6077c287f7b8ac64c4551852" />
   <!-- RTM -->
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" />
   <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" groups="pdk-cw-fs,pdk-fs" revision="93950391efc45d502f003a81bfa7471880d53574" />
