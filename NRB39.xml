@@ -399,7 +399,7 @@
   <project path="external/vogar" name="platform/external/vogar" groups="pdk" revision="9e776dbd9e2bdc6232adf99b1a7dad30f434f0cb" />
   <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" revision="1a85aa1824a4122e2a735d96205adc139c58ac23" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="17ffa7696526f8ffb1972bef914ab609d4825684" />
-  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="7da9a4b85efbd52518781d61b924d36e0f1fcb2b" />
+  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="3681b90ba4fe7a27232dd3e27897d5d7ed9d651c" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="d80a401aed31d06f261efd19223cf55d1a2a8228" />
   <!-- RTM -->
   <project path="external/xmlrpcpp" name="platform/external/xmlrpcpp" groups="pdk" />
