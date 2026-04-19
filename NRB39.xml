@@ -670,4 +670,7 @@
   <!-- <project path="tools/test/connectivity" name="platform/tools/test/connectivity" /> -->
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" revision="b889a609c4b7c0268dd99e4275c2780d87072f49" />
 
+  <!-- doesn't exist in RTM -->
+  <project path="external/jpeg" name="platform/external/jpeg" groups="pdk" revision="1126ef46236557ad7557a42898461acef33d8fac" />
+  
 </manifest>
