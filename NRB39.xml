@@ -228,7 +228,7 @@
   <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" revision="9d5f9edc224d18a8b42f83c596d7fa1ce76a1724" />
   <!-- RTM -->
   <project path="external/libdivsufsort" name="platform/external/libdivsufsort" groups="pdk" />
-  <project path="external/libdrm" name="platform/external/libdrm" groups="pdk" revision="ce3185d3455c7711bffa3762ad32adee2537b773" />
+  <project path="external/libdrm" name="platform/external/libdrm" groups="pdk" revision="93b1c6466800f6b1b1621b12256913d615175d26" />
   <!-- RTM -->
   <project path="external/libedit" name="platform/external/libedit" groups="pdk-fs" />
   <!-- RTM -->
