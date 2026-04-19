@@ -672,5 +672,6 @@
 
   <!-- doesn't exist in RTM -->
   <project path="external/jpeg" name="platform/external/jpeg" groups="pdk" revision="1126ef46236557ad7557a42898461acef33d8fac" />
+  <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" groups="pdk-fs" revision="2b0a16a9b89af3fdb54e3e8046a2e647a149a58c" />
   
 </manifest>
