@@ -185,7 +185,7 @@
   <project path="external/guice" name="platform/external/guice" groups="pdk" revision="5a209e98e0dedf3dbb2cc657514e7daf1707296c" />
   <!-- RTM -->
   <project path="external/hamcrest" name="platform/external/hamcrest" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk,qcom_msm8x26" revision="d5f0d7c9fb14255388ab616f56e178cb7ca10ec2" />
+  <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk,qcom_msm8x26" revision="8fd88f21f3589a7f88ebfbe9cceff24d2b8de84d" />
   <project path="external/hyphenation-patterns" name="platform/external/hyphenation-patterns" groups="pdk-fs" revision="0a33441f2f7ebb00497d1df6f62a53b8931c4223" />
   <project path="external/icu" name="platform/external/icu" groups="pdk" revision="17bdb07540c1328e0ae04e25d1673c44875b843c" />
   <project path="external/iproute2" name="platform/external/iproute2" groups="pdk" revision="08e7872ea806b86673d0c65b277f03bbb078e89c" />
