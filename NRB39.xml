@@ -355,7 +355,7 @@
   <project path="external/selinux" name="platform/external/selinux" groups="pdk" revision="42ddc842253006cfa66fe8f500070223d33c0e24" />
   <project path="external/shflags" name="platform/external/shflags" groups="pdk" revision="af8d27d01bf074e06bf1326d4d9c5da9851d084e" />
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk,qcom_msm8x26" revision="e7b6cf46d0e0f6a07ecffa85b176a51f75dd68af" />
-  <project path="external/skia" name="platform/external/skia" groups="pdk,qcom_msm8x26" revision="583cec11a8d88b4531878b286d7a4afa27a29e9e" />
+  <project path="external/skia" name="platform/external/skia" groups="pdk,qcom_msm8x26" revision="ba7d93fad9b248bedd11999f509044575f7781f3" />
   <!-- <project path="external/sl4a" name="platform/external/sl4a" /> -->
   <!-- RTM -->
   <project path="external/slf4j" name="platform/external/slf4j" groups="pdk-fs" />
