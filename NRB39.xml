@@ -589,7 +589,7 @@
   <!-- <project path="packages/services/Car" name="platform/packages/services/Car" groups="adp8064,pdk-cw-fs,pdk-fs" /> -->
   <project path="packages/services/Mms" name="platform/packages/services/Mms" groups="pdk-cw-fs,pdk-fs" revision="41ad26b144f6dde7d205947aa54d5b1578f4d295" />
   <project path="packages/services/Telecomm" name="platform/packages/services/Telecomm" groups="pdk-cw-fs,pdk-fs" revision="88f900a518e2e5a21d39958793d2123962923172" />
-  <project path="packages/services/Telephony" name="platform/packages/services/Telephony" groups="pdk-cw-fs,pdk-fs" revision="4c300f7dcd462a72dc89dbb4bca99820a0ec6e13" />
+  <project path="packages/services/Telephony" name="platform/packages/services/Telephony" groups="pdk-cw-fs,pdk-fs" revision="edb2cb19bebfe5e56faf0030822f4c1771118bd4" />
   <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" groups="pdk-fs" revision="ffe926286a92666127f6bd8105c37ed5f3ee076a" />
   <!-- RTM -->
   <project path="pdk" name="platform/pdk" groups="pdk" />
