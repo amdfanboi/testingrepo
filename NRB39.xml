@@ -449,7 +449,7 @@
   <project path="frameworks/data-binding" name="platform/frameworks/data-binding" groups="pdk-cw-fs,pdk-fs" revision="fccc888b6465488b9ad74f4ca0b58c85502ae089" />
   <project path="frameworks/volley" name="platform/frameworks/volley" groups="pdk-cw-fs,pdk-fs" revision="53e20b65ebd073947958393308120c186075b115" />
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs,pdk-fs" revision="9f2a5948f495fc46cb55b7fb853008b9d14a5160" />
-  <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs,pdk-fs" revision="aae88e79e307072d05047186fc0d8b1a77c8a188" />
+  <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs,pdk-fs" revision="c4dbb71c2f3476d1455424d41aa7e01bfb2270d9" />
   <!-- RTM -->
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" revision="4d75480bc85d414e65e25622e1aadad11777f9bb" />
