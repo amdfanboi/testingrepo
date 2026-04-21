@@ -445,7 +445,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" revision="9b4c83e56ea0055c1371796317a64cf0e568ea7f" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" revision="600d08e46f52d510598ffe382bf83f576f7ab8a6" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="d9c7436ae6d5942d52eb3a500f297cf1301b3174" />
-  <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs,pdk-fs" revision="f79417e198124e78457517ec69bf7a9f48c953ce" />
+  <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs,pdk-fs" revision="066b48a289fc660e3f73c51560b5f55750bcbe00" />
   <project path="frameworks/data-binding" name="platform/frameworks/data-binding" groups="pdk-cw-fs,pdk-fs" revision="fccc888b6465488b9ad74f4ca0b58c85502ae089" />
   <project path="frameworks/volley" name="platform/frameworks/volley" groups="pdk-cw-fs,pdk-fs" revision="53e20b65ebd073947958393308120c186075b115" />
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs,pdk-fs" revision="9f2a5948f495fc46cb55b7fb853008b9d14a5160" />
