@@ -545,7 +545,7 @@
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" groups="pdk-fs" revision="08457a37c2c2557a84cddb33f98a2c401be428ea" />
   <!-- RTM -->
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" groups="pdk-fs" />
-  <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" groups="pdk-cw-fs,pdk-fs" revision="8c31fb1405f04a39172fabf0e69b412ad2f6f90a" />
+  <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" groups="pdk-cw-fs,pdk-fs" revision="1586562095fed327edb35a4e0dcf1b7148ab982b" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" groups="pdk-fs" revision="ec5d268260d97499dd45849e29e8c4f5e75dd539" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" revision="78ca0db658fe6253d506916e36319e620476f809" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" groups="pdk-fs" revision="0cb6f8f42df13209ae708c165d1213bb5c614853" />
