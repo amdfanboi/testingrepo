@@ -543,7 +543,7 @@
   <project path="libcore" name="platform/libcore" groups="pdk" revision="fb99b2131a823b1687e651d6fe0e1545dee66701" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" revision="afd3a633ab30cb17758543b4bbf2e8165812ce7c" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" revision="8281f09e9caf11ff24159e232e01e098085df430" />
-  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs,pdk-fs" revision="81166b5bd3f1974951763ffd3ce09f0c070d5887" />
+  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs,pdk-fs" revision="efa43b24231b280cb8137008bf1c2a5557435d56" />
   <project path="packages/apps/Browser2" name="platform/packages/apps/Browser2" groups="pdk-fs" revision="9484cbe1f997fa4ed60ec2f37b628d0ef1cfc23b" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" groups="pdk-fs" revision="956525423e51315015d6902e3b9487e72e9f4885" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" groups="pdk-fs" revision="2c9296e1f7052c04d5b07788ba3929d2244d7624" />
@@ -674,7 +674,7 @@
   <project path="prebuilts/maven_repo/android" name="platform/prebuilts/maven_repo/android" groups="pdk-cw-fs,pdk-fs" clone-depth="1" revision="d0ed4fd4cba074be6eda7460bef4c79dbda99df6" />
   <project path="prebuilts/maven_repo/bumptech" name="platform/prebuilts/maven_repo/bumptech" groups="pdk-cw-fs,pdk-fs" clone-depth="1" revision="b43676b89fa091655158b52053f1fecd99ef0953" />
   <!-- <project path="prebuilts/maven_repo/google-play-service-client-libraries-3p" name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" clone-depth="1" /> -->
-  <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk" clone-depth="1" revision="98ed83252fe5c2fcaeb836c3fecd9e8f61a8fc98" />
+  <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk" clone-depth="1" revision="642359aa453555755f402f984405fa31048a1646" />
   <project path="prebuilts/ndk" name="platform/prebuilts/ndk" groups="pdk" clone-depth="1" revision="e779e31468999c7ef69f424a2b8271969833df28" />
   <project path="prebuilts/ktlint" name="platform/prebuilts/ktlint" groups="pdk" clone-depth="1" revision="0760cb5263781d857b80a72d6407b5dadd67b186" />
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux,pdk,pdk-cw-fs,pdk-fs" clone-depth="1" revision="ec1a0b3abe08fb9a3952e8f48231cda1f6d9b1f3" />
