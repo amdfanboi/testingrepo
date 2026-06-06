@@ -674,7 +674,7 @@
   <project path="prebuilts/maven_repo/android" name="platform/prebuilts/maven_repo/android" groups="pdk-cw-fs,pdk-fs" clone-depth="1" revision="d0ed4fd4cba074be6eda7460bef4c79dbda99df6" />
   <project path="prebuilts/maven_repo/bumptech" name="platform/prebuilts/maven_repo/bumptech" groups="pdk-cw-fs,pdk-fs" clone-depth="1" revision="b43676b89fa091655158b52053f1fecd99ef0953" />
   <!-- <project path="prebuilts/maven_repo/google-play-service-client-libraries-3p" name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" clone-depth="1" /> -->
-  <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk" clone-depth="1" revision="642359aa453555755f402f984405fa31048a1646" />
+  <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk" clone-depth="1" revision="98ed83252fe5c2fcaeb836c3fecd9e8f61a8fc98" />
   <project path="prebuilts/ndk" name="platform/prebuilts/ndk" groups="pdk" clone-depth="1" revision="e779e31468999c7ef69f424a2b8271969833df28" />
   <project path="prebuilts/ktlint" name="platform/prebuilts/ktlint" groups="pdk" clone-depth="1" revision="0760cb5263781d857b80a72d6407b5dadd67b186" />
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux,pdk,pdk-cw-fs,pdk-fs" clone-depth="1" revision="ec1a0b3abe08fb9a3952e8f48231cda1f6d9b1f3" />
