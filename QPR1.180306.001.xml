@@ -193,7 +193,7 @@
   <project path="external/guava" name="platform/external/guava" groups="pdk" revision="02d2262de864064cce2aee612ac744c33c2b7706" />
   <project path="external/guice" name="platform/external/guice" groups="pdk" revision="6b5f4edc87e719e7780ef0690e4058dcd3d0129d" />
   <project path="external/hamcrest" name="platform/external/hamcrest" groups="pdk" revision="eef13fef2f0d8915ac0f74e2c168353432cc6492" />
-  <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk,qcom_msm8x26" revision="b4ba71ea7ccce70e24138373774741c7f03dd24e" />
+  <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk,qcom_msm8x26" revision="1d0833bed54f3550267ee63fbeb9609b6873cfdc" />
   <project path="external/honggfuzz" name="platform/external/honggfuzz" groups="pdk" revision="db81f8c99acdec313c4caf3ee6204077c04f4976" />
   <project path="external/hyphenation-patterns" name="platform/external/hyphenation-patterns" groups="pdk" revision="a41e5636de6ca516121f08dbc7f129e2f71fc408" />
   <project path="external/icu" name="platform/external/icu" groups="pdk" revision="0012ad2e9d2b3b624c308a20ae8dd26c8338d69d" />
@@ -418,7 +418,7 @@
   <project path="external/syzkaller" name="platform/external/syzkaller" groups="projectarch,pdk" revision="aef0b7921ba0a2770c978d2ccd4babb4c5ac998e" />
   <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk" revision="5e97d924bcc1145b016d2811c7b6785d52c77a3d" />
   <project path="external/tcpdump" name="platform/external/tcpdump" groups="pdk" revision="a58ca44a2d1d0e2b6da9b6d929dc8b63c809ab32" />
-  <project path="external/tensorflow" name="platform/external/tensorflow" groups="pdk" revision="c6a12c77a50778e28de3590f4618bc2b62f3ecab" />
+  <project path="external/tensorflow" name="platform/external/tensorflow" groups="pdk" revision="a985778bc2e948fa07ef12a9159ff028cb991762" />
   <project path="external/testng" name="platform/external/testng" groups="pdk" revision="cd8b530058890295787a313f57813381ed966047" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" groups="pdk" revision="7b58ac704a9188d70f351d5abb95dfddc64e83e0" />
   <project path="external/tinycompress" name="platform/external/tinycompress" groups="pdk" revision="aa1240808a348338b295c93317770f175168a1a7" />
