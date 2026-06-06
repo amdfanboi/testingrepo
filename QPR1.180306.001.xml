@@ -782,6 +782,7 @@
 
   <!-- this repo is needed for this build to compile -->
   <project path="external/annotation-tools" name="platform/external/annotation-tools" groups="pdk" revision="4aaa13fa86ebd895d501584cdf7d4984799575ac" />
+  <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" revision="bba672d937d1f6f0ded8a69f9aec0e097cd2d236" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" revision="4d492393733cfae4dd97fbc8971207905b37ff75" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" groups="pdk-fs" revision="65d7d8d5a908771bd122db686b34d6cb5de1dd99" />
   <!-- glibc 2.17 didn't exist when this build was tagged so (i guess) 2.15 needs to be used in this case -->
