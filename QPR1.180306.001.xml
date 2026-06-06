@@ -588,7 +588,7 @@
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" groups="pdk-fs" revision="9411665588638077ed6bdf081dfe08811954e428" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" revision="102e0355bb77d69f8e8c05fd80a9b644321afcc6" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" groups="pdk-fs" revision="7199bf8994aeb41bafd65c12cfe089ad579a7b74" />
-  <project path="packages/apps/PermissionController" name="platform/packages/apps/PackageInstaller" groups="pdk-cw-fs,pdk-fs" revision="32a84ffc93ec541ed4a4dbeaf0bf91e23d5bad05" />
+  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" groups="pdk-cw-fs,pdk-fs" revision="32a84ffc93ec541ed4a4dbeaf0bf91e23d5bad05" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" groups="pdk-cw-fs,pdk-fs" revision="3777a2824fbc46ba8f7790746de874521f4912fd" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" groups="pdk-fs" revision="1e5d8a500dce6530a99cb952681889042dcfb63a" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" revision="fb412f61067b791902c0313bca2d23e9697b0d8c" />
