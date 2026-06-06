@@ -456,7 +456,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" revision="76d7da2a87daf777c20078f647f78f776d981fd0" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" revision="fef49afe4875503e16db11ac40c964a8b6dfa702" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="554f586a8f37d43e3a1936527143c5e0bcf654ac" />
-  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" revision="c857d887b4c13b65355f96331ef6b19b65a12122" />
+  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" revision="65777e4b61868280c7dc90de6ed0ddadbaad9494" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="3c296976df7acb5a0cc4887e6ad08c3dc1eaddbe" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="84b34b244b6bae8c1855bf763e676f10e5eb3d91" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" revision="fbd286e312c808e3257d4a2df039ff5bbc3d27e3" />
@@ -466,7 +466,7 @@
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" revision="8d6b3dcb32533d129c5ea35e7fb38cdaad385646" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="4fc41d1be0ae0d695f2b06e608eefcdc064802e7" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" revision="f9c982c0ab9bb5ae6840791f92f2e9f828989e64" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="d037b79ed51da14990cd9e7552623d77ff1b6de5" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="745f59516c240e0dab94afb48a0133dab7e096ce" />
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" revision="fb45f26be0033b7b5e4e07bd0abf5ae0c58fbbd3" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs,pdk-fs" revision="ecfba85ff17b25e635e1ee4c87688e63c6dedbe2" />
   <project path="frameworks/opt/car/services" name="platform/frameworks/opt/car/services" groups="pdk-fs" revision="331fea87a921fe9c55488c6d79779b4710ecaabf" />
@@ -726,7 +726,7 @@
   <!-- system/tools/xsdc didn't exist when this build was tagged -->
   <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" revision="70741e492de9efb7495efd3ea5cbf14db40d24b0" />
   <!-- system/ucontainer didn't exist when this build was tagged -->
-  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="eb850f93ab056c05cd949ada794c4dab42027a3c" />
+  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="a838863d77c68752a9b96894a487ac2c86907246" />
   <project path="test/framework" name="platform/test/framework" groups="vts,projectarch,pdk" revision="d51c56f1c5727aa1535da4b3385abb3e6e764353" />
   <!-- test/mlts/benchmark didn't exist when this build was tagged -->
   <!-- test/mlts/models didn't exist when this build was tagged -->
