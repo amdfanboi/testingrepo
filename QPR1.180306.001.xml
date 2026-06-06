@@ -494,7 +494,7 @@
   <project path="hardware/google/easel" name="platform/hardware/google/easel" groups="pdk,easel" revision="0824db9ef0067d85ba76ec088c6c3b175ccaf0ef" />
   <project path="hardware/google/interfaces" name="platform/hardware/google/interfaces" groups="pdk" revision="3a7364fb902306d01b93454e49e8d75b9bef8aea" />
   <!-- hardware/google/pixel didn't exist when this build was tagged -->
-  <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="7ecf7d56ed52d421a99f9ba0d68f04d13d2d0b26" />
+  <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="6db53bc1cfba9758e0760f8daf7939c8eb881442" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" revision="480c5e3483d60988c7ed6051ff9beebcfa6f83e3" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="0af393b3d9b82f9a8cd1a47a6f863fd0eb32481b" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" revision="c7eea9aac84c74003ff5c3babbd08accbf4b0ad9" />
