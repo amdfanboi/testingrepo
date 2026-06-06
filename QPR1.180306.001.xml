@@ -149,7 +149,7 @@
   <project path="external/drrickorang" name="platform/external/drrickorang" groups="pdk" revision="f69dd03c45a6e4ccc1f404b7e8c7fa94425818e4" />
   <project path="external/dtc" name="platform/external/dtc" groups="pdk" revision="41aa53c880f5efa03a2b58d42a3f0a45a6a4e00d" />
   <!-- external/dynamic_depth didn't exist when this build was tagged -->
-  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" groups="pdk" revision="918d9a54fe732709519208245354597807682877" />
+  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" groups="pdk" revision="ca21ef5b9f5069a3e0a5ecc9f6a88aa2156d2778" />
   <project path="external/easymock" name="platform/external/easymock" groups="pdk" revision="42a7137514551168b222d6afc738067ea0483066" />
   <project path="external/eigen" name="platform/external/eigen" groups="pdk" revision="fc6eb85c15c53931e2b35079523ad788aa228b67" />
   <project path="external/elfutils" name="platform/external/elfutils" groups="pdk" revision="af52a279d51e62ac98b4699f53635115ab8d4ecd" />
