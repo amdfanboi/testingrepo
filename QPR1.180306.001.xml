@@ -527,7 +527,7 @@
   <project path="hardware/qcom/sdm845/bt" name="platform/hardware/qcom/sdm845/bt" groups="qcom_sdm845" revision="acdbff3764abb238394cb203f691d137ed52c13b" />
   <project path="hardware/qcom/sdm845/data/ipacfg-mgr" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="vendor,qcom_sdm845" revision="c1e636065bda4ff45b6d63d60c74df5bbf9f4f95" >
     <linkfile src="os_pickup.mk" dest="hardware/qcom/sdm845/Android.mk" />
-    <linkfile src="os_pickup.bp" dest="hardware/qcom/sdm845/Android.bp" />
+    <!-- <linkfile src="os_pickup.bp" dest="hardware/qcom/sdm845/Android.bp" /> -->
   </project>
   <project path="hardware/qcom/sdm845/display" name="platform/hardware/qcom/sdm845/display" groups="qcom_sdm845" revision="2c8463b606993b95a8f6eb3bb736bdc4f0e71992" />
   <project path="hardware/qcom/sdm845/gps" name="platform/hardware/qcom/sdm845/gps" groups="qcom_sdm845" revision="7d1352c9840a460214b2e1b519549dcb552c5713" />
