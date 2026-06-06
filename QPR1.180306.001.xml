@@ -782,6 +782,7 @@
 
   <!-- this repo is needed for this build to compile -->
   <project path="external/annotation-tools" name="platform/external/annotation-tools" groups="pdk" revision="4aaa13fa86ebd895d501584cdf7d4984799575ac" />
+  <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" revision="4d492393733cfae4dd97fbc8971207905b37ff75" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" groups="pdk-fs" revision="65d7d8d5a908771bd122db686b34d6cb5de1dd99" />
   <!-- glibc 2.17 didn't exist when this build was tagged so (i guess) 2.15 needs to be used in this case -->
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" groups="pdk,linux" clone-depth="1" revision="2ccb38af8c940f1feef62ff5986f4bbc5d899e66" />
