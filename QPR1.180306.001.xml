@@ -617,7 +617,7 @@
   <project path="packages/apps/WallpaperPicker2" name="platform/packages/apps/WallpaperPicker2" groups="pdk-fs" revision="8645c70118ac5e1386f09a1fa9f6d8965ce25c0f" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" groups="pdk-fs" revision="51479a7e893dc4e42c7d1c2d69adcae335549c05" />
   <!-- <project path="packages/modules/CaptivePortalLogin" name="platform/packages/modules/CaptivePortalLogin" groups="pdk-cw-fs,pdk-fs" revision="cec78bd1de3f143a461bc0a5b5ab87a4f96ec063" /> -->
-  <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="8e124f0681685a49edc7816fa2f05ad8f188a787" />
+  <!-- <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="8e124f0681685a49edc7816fa2f05ad8f188a787" /> -->
   <!-- packages/modules/ModuleMetadata didn't exist when this build was tagged -->
   <!-- packages/modules/NetworkPermissionConfig didn't exist when this build was tagged -->
   <!-- packages/modules/NetworkStack didn't exist when this build was tagged -->
