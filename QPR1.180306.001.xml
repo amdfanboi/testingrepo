@@ -586,7 +586,7 @@
   <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" revision="7e3b13bac438064ae64a6896b94383c26708e758" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" groups="pdk-fs" revision="25485ff75bba1a82a98f6788eb60dd06c561b68a" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" groups="pdk-fs" revision="9411665588638077ed6bdf081dfe08811954e428" />
-  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" revision="102e0355bb77d69f8e8c05fd80a9b644321afcc6" />
+  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" revision="9e3ccfbeee1f67057dfc90eee73427809ce22414" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" groups="pdk-fs" revision="7199bf8994aeb41bafd65c12cfe089ad579a7b74" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" groups="pdk-cw-fs,pdk-fs" revision="32a84ffc93ec541ed4a4dbeaf0bf91e23d5bad05" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" groups="pdk-cw-fs,pdk-fs" revision="3777a2824fbc46ba8f7790746de874521f4912fd" />
@@ -711,7 +711,7 @@
   <!-- system/linkerconfig didn't exist when this build was tagged -->
   <project path="system/media" name="platform/system/media" groups="pdk" revision="b173a834328bdffba1d4e435b562e1ac5c885079" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="06c73643008a049b53417116a279139b93b394d4" />
-  <project path="system/nfc" name="platform/system/nfc" groups="pdk" revision="8ef771191b99d8b61a653ac4289698069209b0b1" />
+  <project path="system/nfc" name="platform/system/nfc" groups="pdk" revision="7fbc86bb7920ee7bf968fea247d6bfd4209b696a" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" revision="50b3b5a665a5d3e278a506cadf5344cae05fe983" />
   <project path="system/security" name="platform/system/security" groups="pdk" revision="7d6a15532df64f639a5a00a4c71e38c423d52d82" />
   <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" revision="bfa95fcdf04cdbe3f13ab7e52315067f7908d160" />
