@@ -282,7 +282,7 @@
   <project path="external/lzma" name="platform/external/lzma" groups="pdk" revision="db6f69a8a1ba3fedbd403a03667f3dd6460ab9bb" />
   <project path="external/markdown" name="platform/external/markdown" groups="pdk" revision="06a8f8b914d477183f68b84424bce8ff4dae7e84" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" groups="pdk" revision="db81698cd11ec31a2313bdb9216435aff1f4df59" />
-  <project path="external/mesa3d" name="platform/external/mesa3d" groups="pdk-cw-fs,pdk-fs" revision="5b6b4e4f3871f9d3ba64ea2ca2921c3d722b47cd" />
+  <project path="external/mesa3d" name="platform/external/mesa3d" groups="pdk-cw-fs,pdk-fs" revision="48d0b9cbac5325966984cb48d9771057a44070ea" />
   <project path="external/Microsoft-GSL" name="platform/external/Microsoft-GSL" groups="pdk" revision="60538504c8521d25f7639f36a36bb15a7232d206" />
   <project path="external/minigbm" name="platform/external/minigbm" groups="pdk" revision="23e006a90b51589a7515a66777477398ee20c576" />
   <project path="external/minijail" name="platform/external/minijail" groups="pdk" revision="05f180fbc4271c8c632b7488fa50221ce97ba6b6" />
@@ -780,7 +780,6 @@
 
   <!-- this repo is needed for this build to compile -->
   <project path="external/annotation-tools" name="platform/external/annotation-tools" groups="pdk" revision="4aaa13fa86ebd895d501584cdf7d4984799575ac" />
-  <project path="external/drm_gralloc" name="platform/external/drm_gralloc" groups="pdk" revision="5a1d7decd7bf60ba0c389687d2fc9210363eb922" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" revision="bba672d937d1f6f0ded8a69f9aec0e097cd2d236" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" revision="4d492393733cfae4dd97fbc8971207905b37ff75" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" groups="pdk-cw-fs,pdk-fs" revision="990fcb1a6dbb5d1204cc8ec86e4bc3f691f4aeeb" />
