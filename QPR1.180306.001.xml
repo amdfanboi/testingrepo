@@ -427,7 +427,7 @@
   <project path="external/toolchain-utils" name="platform/external/toolchain-utils" revision="dd8675b7f86bf1c70fc1b954b49af2c9c109d1a8" />
   <project path="external/toybox" name="platform/external/toybox" groups="pdk" revision="75e7f8ff48782e878f8e72c229be972d1e39b6e3" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" revision="3455c9b4448cd6230d269f2d541fcdc7435727f6" />
-  <project path="external/turbine" name="platform/external/turbine" groups="pdk" revision="fdf5ba9682da33dcb5544e19f1511685c1bfa817" />
+  <project path="external/turbine" name="platform/external/turbine" groups="pdk" revision="ed471295f00e80562a38981123acc375ecc8cc20" />
   <project path="external/u-boot" name="platform/external/u-boot" groups="pdk" revision="5fba532954fe0363bcaa802ba4990e9466dc7d8c" />
   <project path="external/unicode" name="platform/external/unicode" groups="pdk" revision="1d15b7695581bf8fca39b4486615b014e7b72ce6" />
   <project path="external/universal-tween-engine" name="platform/external/universal-tween-engine" revision="8ae491dca8fda09d271dd66230f51c7e70fbfff2" />
@@ -781,7 +781,6 @@
   <!-- these repos are backported from a9 / master branch as they no longer exist in a10 -->
   <project path="external/annotation-tools" name="platform/external/annotation-tools" groups="pdk" revision="4aaa13fa86ebd895d501584cdf7d4984799575ac" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" revision="bba672d937d1f6f0ded8a69f9aec0e097cd2d236" />
-  <project path="external/turbine" name="platform/external/turbine" groups="pdk" revision="ed471295f00e80562a38981123acc375ecc8cc20" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" revision="4d492393733cfae4dd97fbc8971207905b37ff75" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" groups="pdk-cw-fs,pdk-fs" revision="990fcb1a6dbb5d1204cc8ec86e4bc3f691f4aeeb" />
   <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs,pdk-fs" revision="2675ea2013d612d90f8d483dfea9eb01bc4061ca" />
