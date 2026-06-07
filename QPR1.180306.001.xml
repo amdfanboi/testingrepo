@@ -711,7 +711,7 @@
   <!-- system/linkerconfig didn't exist when this build was tagged -->
   <project path="system/media" name="platform/system/media" groups="pdk" revision="b173a834328bdffba1d4e435b562e1ac5c885079" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="06c73643008a049b53417116a279139b93b394d4" />
-  <project path="system/nfc" name="platform/system/nfc" groups="pdk" revision="f4064156514df9631c110ec54bfd1639984537bf" />
+  <project path="system/nfc" name="platform/system/nfc" groups="pdk" revision="7fbc86bb7920ee7bf968fea247d6bfd4209b696a" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" revision="50b3b5a665a5d3e278a506cadf5344cae05fe983" />
   <project path="system/security" name="platform/system/security" groups="pdk" revision="7d6a15532df64f639a5a00a4c71e38c423d52d82" />
   <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" revision="bfa95fcdf04cdbe3f13ab7e52315067f7908d160" />
