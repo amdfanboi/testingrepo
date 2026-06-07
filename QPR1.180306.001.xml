@@ -684,9 +684,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" clone-depth="1" revision="f33c3f049ed25c563fc94184ee812c4536a57b27" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="cc1d78a552c2f5d250ee6612004853f1e65c94d7" />
   <!-- prebuilts/vndk/v28 didn't exist when this build was tagged -->
-  <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" revision="22a206c33836f8040e3f02513939e2f06b4d373b" >
-    <linkfile src="current/androidx-README.md" dest="frameworks/support/README.md" />
-  </project>
+  <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" revision="22a206c33836f8040e3f02513939e2f06b4d373b" />
   <!-- system/apex didn't exist when this build was tagged -->
   <!-- system/ashmemd didn't exist when this build was tagged -->
   <project path="system/bt" name="platform/system/bt" groups="pdk" revision="d6e9d8780d33485967fe6c978abb5820ccac3972" />
