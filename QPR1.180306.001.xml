@@ -614,7 +614,7 @@
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" groups="pdk-fs" revision="19f26a15d3e7a519a6761baae038ea205c24cd3a" />
   <!-- packages/apps/UniversalMediaPlayer didn't exist when this build was tagged -->
   <project path="packages/apps/WallpaperPicker" name="platform/packages/apps/WallpaperPicker" groups="pdk-fs" revision="db3426b874c2b6ad67770309b5e26291193a9ace" />
-  <project path="packages/apps/WallpaperPicker2" name="platform/packages/apps/WallpaperPicker2" groups="pdk-fs" revision="8645c70118ac5e1386f09a1fa9f6d8965ce25c0f" />
+  <!-- <project path="packages/apps/WallpaperPicker2" name="platform/packages/apps/WallpaperPicker2" groups="pdk-fs" revision="8645c70118ac5e1386f09a1fa9f6d8965ce25c0f" /> -->
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" groups="pdk-fs" revision="51479a7e893dc4e42c7d1c2d69adcae335549c05" />
   <!-- <project path="packages/modules/CaptivePortalLogin" name="platform/packages/modules/CaptivePortalLogin" groups="pdk-cw-fs,pdk-fs" revision="cec78bd1de3f143a461bc0a5b5ab87a4f96ec063" /> -->
   <!-- <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="8e124f0681685a49edc7816fa2f05ad8f188a787" /> -->
@@ -780,8 +780,11 @@
 
   <!-- this repo is needed for this build to compile -->
   <project path="external/annotation-tools" name="platform/external/annotation-tools" groups="pdk" revision="4aaa13fa86ebd895d501584cdf7d4984799575ac" />
+  <project path="external/drm_gralloc" name="platform/external/drm_gralloc" groups="pdk" revision="5a1d7decd7bf60ba0c389687d2fc9210363eb922" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" revision="bba672d937d1f6f0ded8a69f9aec0e097cd2d236" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" revision="4d492393733cfae4dd97fbc8971207905b37ff75" />
+  <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" groups="pdk-cw-fs,pdk-fs" revision="990fcb1a6dbb5d1204cc8ec86e4bc3f691f4aeeb" />
+  <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs,pdk-fs" revision="2675ea2013d612d90f8d483dfea9eb01bc4061ca" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" groups="pdk-fs" revision="65d7d8d5a908771bd122db686b34d6cb5de1dd99" />
   <!-- glibc 2.17 didn't exist when this build was tagged so (i guess) 2.15 needs to be used in this case -->
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" groups="pdk,linux" clone-depth="1" revision="2ccb38af8c940f1feef62ff5986f4bbc5d899e66" />
