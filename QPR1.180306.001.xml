@@ -680,7 +680,7 @@
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux,pdk,pdk-cw-fs,pdk-fs" clone-depth="1" revision="ec1a0b3abe08fb9a3952e8f48231cda1f6d9b1f3" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" groups="pdk" clone-depth="1" revision="6e2e0105fdc63edece67f0ef2cc29dac68f835a2" />
   <project path="prebuilts/r8" name="platform/prebuilts/r8" groups="pdk" clone-depth="1" revision="589e992dabd1d0fb998d7380131b42eacfd00f90" />
-  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" clone-depth="1" revision="5093521bd5b361d1b9c48f88df93de51358838f4" />
+  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" clone-depth="1" revision="95b1bff698bbc7484566d018003b74545a21bc01" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" clone-depth="1" revision="f33c3f049ed25c563fc94184ee812c4536a57b27" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="cc1d78a552c2f5d250ee6612004853f1e65c94d7" />
   <!-- prebuilts/vndk/v28 didn't exist when this build was tagged -->
