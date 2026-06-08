@@ -724,7 +724,7 @@
   <!-- system/tools/xsdc didn't exist when this build was tagged -->
   <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" revision="70741e492de9efb7495efd3ea5cbf14db40d24b0" />
   <!-- system/ucontainer didn't exist when this build was tagged -->
-  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="eb850f93ab056c05cd949ada794c4dab42027a3c" />
+  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="17eb03abe10761edca416a3d3a71e68af8cc427f" />
   <project path="test/framework" name="platform/test/framework" groups="vts,projectarch,pdk" revision="d51c56f1c5727aa1535da4b3385abb3e6e764353" />
   <!-- test/mlts/benchmark didn't exist when this build was tagged -->
   <!-- test/mlts/models didn't exist when this build was tagged -->
