@@ -59,9 +59,9 @@
   <!-- RTM -->
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" />
   <project path="device/google/atv" name="device/google/atv" groups="device,broadcom_pdk,generic_fs,pdk" revision="d96dc7018637110feba6589904b2710240070b84" />
-  <project path="device/google/bonito" name="device/google/bonito" groups="device,bonito" revision="87cbae5002a3b2fc0dc51dff37511cbd088ce720" />
+  <!-- <project path="device/google/bonito" name="device/google/bonito" groups="device,bonito" revision="87cbae5002a3b2fc0dc51dff37511cbd088ce720" /> -->
   <!-- device/google/bonito-kernel didn't exist when this build was tagged -->
-  <project path="device/google/bonito-sepolicy" name="device/google/bonito-sepolicy" groups="device,bonito" revision="87cbae5002a3b2fc0dc51dff37511cbd088ce720" />
+  <!-- <project path="device/google/bonito-sepolicy" name="device/google/bonito-sepolicy" groups="device,bonito" revision="87cbae5002a3b2fc0dc51dff37511cbd088ce720" /> -->
   <project path="device/google/contexthub" name="device/google/contexthub" groups="device,marlin,pdk" revision="475ff2101826bb689b7d175dbedcf9d81e672c9b" />
   <project path="device/google/crosshatch" name="device/google/crosshatch" groups="device,crosshatch,generic_fs" revision="d96cfcc391364c269c2bee9631ed25c8d9a47aaf" />
   <project path="device/google/crosshatch-kernel" name="device/google/crosshatch-kernel" groups="device,crosshatch,generic_fs" clone-depth="1" revision="20541384800a6ae65b1bd6214c6643364f13e6dc" />
