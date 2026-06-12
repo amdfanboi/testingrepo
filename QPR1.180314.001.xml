@@ -723,7 +723,7 @@
   <!-- system/tools/xsdc didn't exist when this build was tagged -->
   <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" revision="6f433a6b2f864f4ef11c5021c85e44bbb1bb1f49" />
   <!-- system/ucontainer didn't exist when this build was tagged -->
-  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="8b9a5b344e9f467621f07040567e5231da413f46" />
+  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="0649108e2ae7a1c36b3cac4b284f0dc83e03419a" />
   <project path="test/framework" name="platform/test/framework" groups="vts,projectarch,pdk" revision="f5326c4f8328315e47dd89089a3a8a664bd4ae34" />
   <!-- test/mlts/benchmark didn't exist when this build was tagged -->
   <!-- test/mlts/models didn't exist when this build was tagged -->
@@ -778,6 +778,7 @@
   <!-- tools/trebuchet didn't exist when this build was tagged -->
 
   <!-- these repos are backported from a9 / master branch as they no longer exist in a10 -->
+  <project path="external/annotation-tools" name="platform/external/annotation-tools" groups="pdk" revision="4aaa13fa86ebd895d501584cdf7d4984799575ac" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" groups="pdk-fs" revision="534034fe222db05f914a414ef6598009db305a19" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" groups="pdk,linux" clone-depth="1" revision="2ccb38af8c940f1feef62ff5986f4bbc5d899e66" />
 
