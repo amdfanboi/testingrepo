@@ -426,7 +426,7 @@
   <project path="external/toolchain-utils" name="platform/external/toolchain-utils" revision="c45f3483271dc6c543af6ef12d353697e2b30b46" />
   <project path="external/toybox" name="platform/external/toybox" groups="pdk" revision="9c960c7a5a8923adcc6a2068acfd8a27e074206a" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" revision="3455c9b4448cd6230d269f2d541fcdc7435727f6" />
-  <project path="external/turbine" name="platform/external/turbine" groups="pdk" revision="5081441ed92b73dacbbf1a33f95a1495f0e831ec" />
+  <project path="external/turbine" name="platform/external/turbine" groups="pdk" revision="ed471295f00e80562a38981123acc375ecc8cc20" />
   <project path="external/u-boot" name="platform/external/u-boot" groups="pdk" revision="341c05865478e259c1c9d889c74c43dcd5192cc0" />
   <project path="external/unicode" name="platform/external/unicode" groups="pdk" revision="1d15b7695581bf8fca39b4486615b014e7b72ce6" />
   <project path="external/universal-tween-engine" name="platform/external/universal-tween-engine" revision="8ae491dca8fda09d271dd66230f51c7e70fbfff2" />
