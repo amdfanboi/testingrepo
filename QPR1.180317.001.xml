@@ -51,7 +51,7 @@
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" revision="258706fc0ddcf2c9be48967f4766ec90efb736a5" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" revision="65d59e2be2cfd713513a05d80a0f75794ab60579" />
   <project path="device/generic/mini-emulator-x86_64" name="device/generic/mini-emulator-x86_64" groups="pdk" revision="b62205d75073783e171fbcd5f675e25e57833479" />
-  <project path="device/generic/opengl-transport" name="device/generic/opengl-transport" groups="pdk" revision="182e4691d1c5e724fc60ed94b6de8a3356018cb6" />
+  <!-- <project path="device/generic/opengl-transport" name="device/generic/opengl-transport" groups="pdk" revision="182e4691d1c5e724fc60ed94b6de8a3356018cb6" /> -->
   <project path="device/generic/qemu" name="device/generic/qemu" groups="pdk" revision="e528f0693ef4af00644d540c81085352eeb32506" />
   <!-- device/generic/trusty didn't exist when this build was tagged -->
   <project path="device/generic/uml" name="device/generic/uml" groups="device,pdk" revision="68fd8b897bf915fbf6017d23e24053effe3426c9" />
