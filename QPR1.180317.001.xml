@@ -313,7 +313,7 @@
   <project path="external/one-true-awk" name="platform/external/one-true-awk" groups="pdk" revision="b221ebdcd9ade2e830f3fba17bdffbc2747e9aa9" />
   <project path="external/opencensus-java" name="platform/external/opencensus-java" groups="pdk,tradefed" revision="afd18e36232e74823c867f0a13b3d39ac313221d" />
   <project path="external/openssh" name="platform/external/openssh" groups="pdk" revision="86f43bbab579905db6b6c8f9d583fd8737aafc55" />
-  <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk" revision="bbfb25464ff30c5a62dce351d719a8c533afb2a3 />
+  <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk" revision="bbfb25464ff30c5a62dce351d719a8c533afb2a3" />
   <project path="external/parameter-framework" name="platform/external/parameter-framework" groups="pdk" revision="7e4bda0dfab9cc5894003df3bc9cffc222ff438a" />
   <project path="external/pcre" name="platform/external/pcre" groups="pdk" revision="98ab71ee53a87339c1807bf06813024ef559f750" />
   <project path="external/pdfium" name="platform/external/pdfium" groups="pdk" revision="faef83d72fb8e321d87b9a67f5aec1630cd8476a" />
