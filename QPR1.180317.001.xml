@@ -23,7 +23,7 @@
 
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" revision="c2b27288ab99c7a1dac24365a4a7c0cda06fe15d" />
   <project path="build/kati" name="platform/build/kati" groups="pdk,tradefed" revision="17da287661100ee95f6f7b16c86afbdd78243dc5" />
-  <project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" revision="24e716e60367e1e1ac2953f48491717c7e364703" >
+  <project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" revision="065bd344a44d6ef8e5203da6506626a2fd58af3d" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
