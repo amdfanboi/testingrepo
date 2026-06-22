@@ -431,7 +431,7 @@
   <project path="external/unicode" name="platform/external/unicode" groups="pdk" revision="1d15b7695581bf8fca39b4486615b014e7b72ce6" />
   <project path="external/universal-tween-engine" name="platform/external/universal-tween-engine" revision="8ae491dca8fda09d271dd66230f51c7e70fbfff2" />
   <!-- external/ukey2 didn't exist when this build was tagged -->
-  <project path="external/v4l2_codec2" name="platform/external/v4l2_codec2" groups="pdk" revision="2de07a890c383a2ee8701c2b063fa50ddaab5579" />
+  <project path="external/v4l2_codec2" name="platform/external/v4l2_codec2" groups="pdk" revision="e9584c961c148be2a5c9d6e42eb0552868ffb4e7" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" revision="1f31521f4ba2a8200edaac92be63f0d1d2af0598" />
   <project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot,pdk-fs" revision="b790eeed75ecb920fc94d5b9b8528fd33b755e6a" />
   <project path="external/virglrenderer" name="platform/external/virglrenderer" groups="pdk" revision="26a7ca8fade3ff32cadd0f7b9f4b21382d6e9361" />
@@ -778,6 +778,7 @@
   <!-- tools/trebuchet didn't exist when this build was tagged -->
 
   <!-- these repos are backported from a9 / master branch as they no longer exist in a10 -->
+  <project path="external/annotation-tools" name="platform/external/annotation-tools" groups="pdk" revision="4aaa13fa86ebd895d501584cdf7d4984799575ac" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" groups="pdk-fs" revision="534034fe222db05f914a414ef6598009db305a19" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" groups="pdk,linux" clone-depth="1" revision="2ccb38af8c940f1feef62ff5986f4bbc5d899e66" />
 
