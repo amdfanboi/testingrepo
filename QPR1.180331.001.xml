@@ -432,7 +432,7 @@
   <project path="external/universal-tween-engine" name="platform/external/universal-tween-engine" revision="8ae491dca8fda09d271dd66230f51c7e70fbfff2" />
   <!-- external/ukey2 didn't exist when this build was tagged -->
   <project path="external/v4l2_codec2" name="platform/external/v4l2_codec2" groups="pdk" revision="db63bb5903d3cf26868a9a2ab15e38b48dfaa291" />
-  <project path="external/v8" name="platform/external/v8" groups="pdk" revision="1f31521f4ba2a8200edaac92be63f0d1d2af0598" />
+  <project path="external/v8" name="platform/external/v8" groups="pdk" revision="0935ae95304a3d29c96c94750a41c3b41cae04fe" />
   <project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot,pdk-fs" revision="b790eeed75ecb920fc94d5b9b8528fd33b755e6a" />
   <project path="external/virglrenderer" name="platform/external/virglrenderer" groups="pdk" revision="b199ddde9dc1833d8ab2a7635b2401b051b350de" />
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" revision="7dc0e57d89c07733ce7f2fa35c151e03e9370dd4" />
