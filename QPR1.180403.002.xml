@@ -172,7 +172,7 @@
   <project path="external/glide" name="platform/external/glide" groups="pdk" revision="df1712d45695aadc8a3741ad3294e4961835506e" />
   <project path="external/golang-protobuf" name="platform/external/golang-protobuf" groups="pdk" revision="cd48dbf68638ca5e663d5f99f59e890189fe76fb" />
   <project path="external/google-benchmark" name="platform/external/google-benchmark" groups="pdk" revision="2bac64b5f5ad0e7b79ab48e82ef76088549b165a" />
-  <project path="external/google-breakpad" name="platform/external/google-breakpad" groups="pdk-fs" revision="45fffffa044d245ca435abbaeaeec479375ed860"{ />
+  <project path="external/google-breakpad" name="platform/external/google-breakpad" groups="pdk-fs" revision="45fffffa044d245ca435abbaeaeec479375ed860" />
   <!-- external/google-fonts/arbutus-slab didn't exist when this build was tagged -->
   <!-- external/google-fonts/arvo didn't exist when this build was tagged -->
   <project path="external/google-fonts/carrois-gothic-sc" name="platform/external/google-fonts/carrois-gothic-sc" groups="pdk" revision="0062a10458d4c357f3082d66bcb129d11913aaae" />
