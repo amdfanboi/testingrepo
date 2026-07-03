@@ -732,7 +732,7 @@
   <!-- test/mlts/benchmark didn't exist when this build was tagged -->
   <!-- test/mlts/models didn't exist when this build was tagged -->
   <!-- <project path="test/mts" name="platform/test/mts" /> -->
-  <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="6d0fcb32d305f465cdb186fd85f6daed22d7e2dd" />
+  <!-- <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="6d0fcb32d305f465cdb186fd85f6daed22d7e2dd" /> -->
   <!-- <project path="test/vti/alert" name="platform/test/vti/alert" groups="vts,projectarch,pdk" /> -->
   <project path="test/vti/dashboard" name="platform/test/vti/dashboard" groups="vts,projectarch,pdk" revision="8d8a0915d097e44d728112b353286faa7849e19e" />
   <project path="test/vti/fuzz_test_serving" name="platform/test/vti/fuzz_test_serving" groups="vts,projectarch,pdk" revision="23cec7e065fdc6568b4bfa10fac3d9dce19cee06" />
