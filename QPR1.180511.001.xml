@@ -120,7 +120,7 @@
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" revision="a1e337cffceff2280e47756cf9e1f15c94335de7" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" revision="58f86bc3cb04a95bdf32f6a7f16e118ae8f45b14" />
   <project path="external/caliper" name="platform/external/caliper" groups="pdk" revision="6c497e02a737a943486cf6d58e83c122c46eb321" />
-  <project path="external/capstone" name="platform/external/capstone" groups="pdk" revision="6c497e02a737a943486cf6d58e83c122c46eb321" />
+  <project path="external/capstone" name="platform/external/capstone" groups="pdk" revision="0537e9c5d95846c6ce5eaade40d20aeb3e78593c" />
   <project path="external/catch2" name="platform/external/catch2" groups="pdk" revision="c32365848333543c92bc596f5441a63e69adb7fe" />
   <project path="external/cblas" name="platform/external/cblas" groups="pdk" revision="7fa0d561afbe104fd0e70ef2366792cace5fd712" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" revision="8c47eebd81c996f17198edb2fa504c04d48d567e" />
