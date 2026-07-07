@@ -238,7 +238,7 @@
   <project path="external/kmod" name="platform/external/kmod" groups="pdk" revision="65a885df5f6f15222b44fd695c5eaca17e837a14" />
   <project path="external/ksoap2" name="platform/external/ksoap2" groups="pdk" revision="f13853ff0fa5eb65afc847176e55ca6db293eb3c" />
   <project path="external/libavc" name="platform/external/libavc" groups="pdk" revision="3bf81d2270881a8f7be1012dcff609cd56ccdd02" />
-  <project path="external/libbrillo" name="platform/external/libbrillo" groups="pdk" revision="733e6febbc18cb308d20abb77a449bf1f954316f" />
+  <project path="external/libbrillo" name="platform/external/libbrillo" groups="pdk" revision="40b34f9e27573fafda61f96637e2112b14cd57c2" />
   <project path="external/libcap" name="platform/external/libcap" groups="pdk" revision="3700f13bf8798fc82815e6142a114e93bcc04cd8" />
   <!-- RTM -->
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk" />
