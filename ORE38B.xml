@@ -177,7 +177,7 @@
   <project path="external/flatbuffers" name="platform/external/flatbuffers" groups="pdk" revision="73d5bf46b47faed8fc88515be9a899e6d6c21d9c" />
   <!-- RTM -->
   <project path="external/fonttools" name="platform/external/fonttools" groups="pdk" />
-  <project path="external/fmtlib" name="platform/external/fmtlib" groups="pdk" revision="12a6027b40ee0fa9e744d1d25333a2650fd9aed7" />
+  <!-- <project path="external/fmtlib" name="platform/external/fmtlib" groups="pdk" revision="12a6027b40ee0fa9e744d1d25333a2650fd9aed7" /> -->
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" revision="7feecf3cc2974f049ffbd3b403b06acf956d8bf5" />
   <!-- RTM -->
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" groups="pdk" />
