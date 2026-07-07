@@ -721,6 +721,7 @@
   <!-- <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" /> -->
 
   <!-- these repos have been backported from a7 / master as they don't exist in a8 -->
+  <project path="external/gmock" name="platform/external/gmock" groups="pdk" revision="2e692fb5c370dbeaacea20af872a2318666b9f22" />
   <project path="external/gtest" name="platform/external/gtest" groups="pdk" revision="a4878e0add37000db9ca3264418f6c2ff9439440" />
   <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" revision="d9b1cd0f900f85574b535e8c3d0352970ebc9fd8" />
   
