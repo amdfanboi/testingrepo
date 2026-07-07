@@ -114,7 +114,7 @@
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk" />
   <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" revision="6abdfc34e795735026a2ce376b804246be194248" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" revision="bc592d18a60451c6381fbd8af73b04643be56779" />
-  <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" revision="0231f8ae917c4d27d076d2d17defd747d090ea7c" />
+  <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" revision="2eea58f169079ecb113cb3b292462a775263df69" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" revision="9ab9d8598abab75d34286274520815fe454252a9" />
   <project path="external/c-ares" name="platform/external/c-ares" groups="pdk" revision="de2cd886042f484dc8694e614c3ac16298f93514" />
   <project path="external/caliper" name="platform/external/caliper" groups="pdk" revision="a67e4782f7f5bc2d7b3f9de6836fc333ef0e1bd1" />
@@ -197,7 +197,7 @@
   <!-- RTM -->
   <project path="external/google-fonts/dancing-script" name="platform/external/google-fonts/dancing-script" groups="pdk" />
   <project path="external/google-tv-pairing-protocol" name="platform/external/google-tv-pairing-protocol" groups="pdk" revision="1ba55756f3bb3f093dc8f7035fc48852276abf0b" />
-  <project path="external/googletest" name="platform/external/googletest" groups="pdk" revision="69ab970c6946798c04e4bf4bbd2311e08a69051f" />
+  <project path="external/googletest" name="platform/external/googletest" groups="pdk" revision="04bf31856b1f78c1f9ff32f6fbb27c8c03f4f309" />
   <project path="external/gptfdisk" name="platform/external/gptfdisk" groups="pdk" revision="2c2deeb032f6c158cf4f782e1765a4a21af88cb3" />
   <project path="external/guava" name="platform/external/guava" groups="pdk" revision="ae1f8a73e84b105f2cc2c6f7c00be59b5bd48184" />
   <project path="external/guice" name="platform/external/guice" groups="pdk" revision="fd8df403022aae344c43f854fca2f71df772d6b9" />
@@ -246,8 +246,8 @@
   <!-- RTM -->
   <project path="external/libconstrainedcrypto" name="platform/external/libconstrainedcrypto" groups="pdk" />
   <!-- <project path="external/libcups" name="platform/external/libcups" groups="pdk-cw-fs,pdk-fs" /> -->
-  <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" revision="9ee859d59000e820d4d021153c46b9978ade292c" />
-  <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" revision="a3000b275afd1c99454e581afe45f1801855eb0e" />
+  <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" revision="eeae30ead0fedb3f34a1d7bcc70f7004682cf24e" />
+  <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" revision="eace9ece8ae60cdc2508fd2041324870bb129902" />
   <!-- RTM -->
   <project path="external/libdivsufsort" name="platform/external/libdivsufsort" groups="pdk" />
   <project path="external/libdrm" name="platform/external/libdrm" groups="pdk" revision="ce429d08fb5d8eb20c9029746f018de9a508c065" />
@@ -256,7 +256,7 @@
   <!-- <project path="external/libese" name="platform/external/libese" groups="pdk" /> -->
   <!-- RTM -->
   <project path="external/libdaemon" name="platform/external/libdaemon" groups="pdk" />
-  <project path="external/libevent" name="platform/external/libevent" groups="pdk" revision="5e51bca0936809440c8c94e463682a8c31c69399" />
+  <project path="external/libevent" name="platform/external/libevent" groups="pdk" revision="a5dd84c71082d993bd8273d674daf89e4e9853a7" />
   <!-- RTM -->
   <project path="external/libexif" name="platform/external/libexif" groups="pdk" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" revision="2f66c771f18317147e446fab5a95082d18a6db20" />
@@ -349,7 +349,7 @@
   <!-- RTM -->
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk" />
   <project path="external/parameter-framework" name="platform/external/parameter-framework" groups="pdk" revision="77d4cd081c89dd7cf322c034e4203ff72b1c5cf4" />
-  <project path="external/pcre" name="platform/external/pcre" groups="pdk" revision="112c9cce7a03099c5620701c16edfd8042e91f0b" />
+  <project path="external/pcre" name="platform/external/pcre" groups="pdk" revision="628f611904d2380df56e103281e8e8a8dd6035e6" />
   <project path="external/pdfium" name="platform/external/pdfium" groups="pdk" revision="a9593b7dca28ebc0535bea042a899b0888b6c8d7" />
   <project path="external/piex" name="platform/external/piex" groups="pdk" revision="d1f05a56ede6d8e914e5a476a085323fce311d6c" />
   <project path="external/ppp" name="platform/external/ppp" groups="pdk" revision="d9aeba443abce801cd696b3921a559cab88e1e74" />
@@ -369,7 +369,7 @@
   <!-- RTM -->
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" />
   <project path="external/seccomp-tests" name="platform/external/seccomp-tests" groups="pdk" revision="ca3de3bbbe674ebd974516092785bbf4e78e14f3" />
-  <project path="external/selinux" name="platform/external/selinux" groups="pdk" revision="edfef6ce3520df44d3330a0b6ce3abc1f3826d19" />
+  <project path="external/selinux" name="platform/external/selinux" groups="pdk" revision="d2424c6c984ff6ed792487cb12dee4689cbf781c" />
   <!-- RTM -->
   <project path="external/shflags" name="platform/external/shflags" groups="pdk" />
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk,qcom_msm8x26" revision="b18b09b6114b9b7fe6fc2f96d8b15e8a72f66916" />
@@ -413,7 +413,7 @@
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" revision="35cb5f6a5120844d9c17c44b5b7db301bb149ef4" />
   <project path="external/vogar" name="platform/external/vogar" groups="pdk" revision="93c1c247bdb17431c12ac70f44bad5d049f450a4" />
   <project path="external/volley" name="platform/external/volley" groups="pdk" revision="bae16a533a1bf98eb86b3a7971fc410249748325" />
-  <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="a87ef7614124aa7918940ae3e8bca2f491d4e298" />
+  <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="111f7b1e913ebc843e8fd741140648ae8d87cc8a" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="4944caac4ad3c3aeb0edcd636100c1e5cecde5d3" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="84bc2b9bf32284092d6b676e9a98a6056fd30e9a" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="fa798f237b995b3cd8a0dee7179287cf5423c158" />
@@ -440,7 +440,7 @@
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" revision="e6adb66ae92eff5c72e9504634dd6020c5130173" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" revision="a3ed11d4346bb6a5aa5908054d499d8c14cc3704" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" revision="1a4ad1022fabdf8fbf03cc939d14752eea78efaa" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="98051e00c8eadf6d6077c287f7b8ac64c4551852" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="502623dcff83432791e268792323b42934eb5306" />
   <!-- RTM -->
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" />
   <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" groups="pdk-cw-fs,pdk-fs" revision="93950391efc45d502f003a81bfa7471880d53574" />
@@ -463,7 +463,7 @@
   <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="372989357e7a32de613a592b9646eac0d6117411" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" revision="e361b3d05bc1a716811f2754e474a5ed89b8be71" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" revision="03bfa415fab150deb666b1b5aad5913511bd7d33" />
-  <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="c619e32616d4f6f02fb4bc74a6e6907270fc7c4e" />
+  <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="bd1a87ff8fb975e34debbe11adb774e161129ccc" />
   <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs,pdk-fs" revision="45d07c8efb62ee378db48884989e5b05b5494981" />
   <project path="frameworks/data-binding" name="platform/frameworks/data-binding" groups="pdk-cw-fs,pdk-fs" revision="21e875bc1a74fac4a3d6999cafbb3e7ddcd14818" />
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs,pdk-fs" revision="0274e1e45fae5ffa19949c7ab67b7311c6e41893" />
@@ -493,7 +493,7 @@
   <!-- <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" /> -->
   <!-- RTM -->
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="e7ade1f3b920faf1fd46e271a6875f0cf7c1ec53" />
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="59d9fb4f881a7d3aa313ee49fca1ca35ccd81b0d" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" revision="8c03fcdcc7bb3636556008973b58a32caabe3df0" />
   <!-- RTM -->
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt,pdk" />
@@ -535,7 +535,7 @@
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" revision="310f96ed002219067d2e652e27d64d256e315832" />
   <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" revision="773266c09d8df8db35c50f5b726445c7b130b85c" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" groups="pdk-fs" revision="a0e57cde68fa5f14a877d497d81acf4d24ecaded" />
-  <!-- <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" revision="6d6ccf0ea9cb4b0360b2f9cd0ea6bd8eef1bd613" /> -->
+  <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" revision="6d6ccf0ea9cb4b0360b2f9cd0ea6bd8eef1bd613" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" groups="pdk-fs" revision="514917ba09f95649e8c8c9748bce0e94c21a9dc1" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" revision="e577fee26f7e66e162cc9b0a18fd20c0b53c777c" />
   <project path="packages/apps/ExactCalculator" name="platform/packages/apps/ExactCalculator" groups="pdk-fs" revision="8a6505c6231b02dd5d35f6233f8191c810b4df85" />
@@ -666,7 +666,7 @@
   <!-- <project path="system/connectivity/wifilogd" name="platform/system/connectivity/wifilogd" groups="pdk" /> -->
   <!-- <project path="system/chre" name="platform/system/chre" groups="pdk" /> -->
   <project path="system/core" name="platform/system/core" groups="pdk" revision="47763c3a09e8581338c307c5a5de4ae359c3b6e7" />
-  <project path="system/extras" name="platform/system/extras" groups="pdk" revision="de4dc4a0230fa2834b4d2f97b178f821bdc6a3d1" />
+  <project path="system/extras" name="platform/system/extras" groups="pdk" revision="95c00594e51bbfaf08d2f4bd05862a8e5df464fe" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" revision="91460330ebb054b3171d40a16d51bb71346941e6" />
   <!-- <project path="system/hardware/interfaces" name="platform/system/hardware/interfaces" groups="pdk" /> -->
   <project path="system/hwservicemanager" name="platform/system/hwservicemanager" groups="pdk" revision="e09e6b11976c7111018fb5e5ce92465df89b4235" />
@@ -720,9 +720,6 @@
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="4ff71385e1d9ae9082f70d2cce9d8b8992b5b349" />
   <!-- <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" /> -->
 
-  <!-- these repos have been backported from a7 / master as they don't exist in a8 -->
-  <project path="external/gtest" name="platform/external/gtest" groups="pdk" revision="a4878e0add37000db9ca3264418f6c2ff9439440" />
-  
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
