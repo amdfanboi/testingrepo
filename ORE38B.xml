@@ -720,6 +720,9 @@
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="4ff71385e1d9ae9082f70d2cce9d8b8992b5b349" />
   <!-- <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" /> -->
 
+  <!-- these repos have been backported from a7 / master as they don't exist in a8 -->
+  <project path="external/gtest" name="platform/external/gtest" groups="pdk" revision="a4878e0add37000db9ca3264418f6c2ff9439440" />
+  
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
