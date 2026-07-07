@@ -713,7 +713,7 @@
   <project path="system/libvintf" name="platform/system/libvintf" groups="pdk" revision="59b2ec7b23773eb495e6b1531091a8fdd2447483" />
   <!-- system/linkerconfig didn't exist when this build was tagged -->
   <project path="system/media" name="platform/system/media" groups="pdk" revision="01b5efb2a4ce4a3fd24606eab4a8b369debdaa15" />
-  <project path="system/netd" name="platform/system/netd" groups="pdk" revision="a7895e5aba7fc7e66a86bb4119fdd38a167104a2" />
+  <project path="system/netd" name="platform/system/netd" groups="pdk" revision="76cee65bc5000743046b249859235a8e23fe774c" />
   <project path="system/nfc" name="platform/system/nfc" groups="pdk" revision="f6c16dfb0f66023531c9afd4b8d10ab1f7481554" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" revision="50b3b5a665a5d3e278a506cadf5344cae05fe983" />
   <project path="system/security" name="platform/system/security" groups="pdk" revision="a1737637e3166f9e9621d077ffd950b248bfd7fb" />
