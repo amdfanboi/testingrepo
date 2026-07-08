@@ -1,3 +1,5 @@
+<!-- As of 8th July 2026, it fails on android-support-v14_percent being missing -->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
