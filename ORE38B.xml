@@ -355,7 +355,7 @@
   <project path="external/ppp" name="platform/external/ppp" groups="pdk" revision="d9aeba443abce801cd696b3921a559cab88e1e74" />
   <!-- RTM -->
   <project path="external/proguard" name="platform/external/proguard" groups="pdk" />
-  <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" revision="f1a7debb039971bcd4adc8ad594fef3984afafe8" />
+  <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" revision="48b07ad0a7d451a1a12e021b09ec15db58172e81" />
   <!-- RTM -->
   <project path="external/regex-re2" name="platform/external/regex-re2" groups="pdk" />
   <project path="external/replicaisland" name="platform/external/replicaisland" groups="pdk" revision="374426a588bfffc7d0657bffe05b65660b438007" />
