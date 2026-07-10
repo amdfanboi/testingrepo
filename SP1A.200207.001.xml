@@ -1039,7 +1039,7 @@
   <project path="test/mlts/models" name="platform/test/mlts/models" groups="pdk" revision="a92852efb52754926c69e9cdbe651de935f55349" />
   <project path="test/app_compat/csuite" name="platform/test/app_compat/csuite" revision="2c607e112e87edad721e654ef4308ee5daeb37a1" />
   <!-- test/cts-root didn't exist when this build was tagged -->
-  <!-- <project path="test/mts" name="platform/test/mts" revision="15e5b133d22cebd7bcc910514e01b211abd57799" /> -->
+  <project path="test/mts" name="platform/test/mts" revision="15e5b133d22cebd7bcc910514e01b211abd57799" />
   <!-- RTM -->
   <project path="test/vti/dashboard" name="platform/test/vti/dashboard" groups="vts,projectarch,pdk" />
   <!-- RTM -->
@@ -1064,7 +1064,7 @@
   <project path="tools/apifinder" name="platform/tools/apifinder" groups="pdk,tools" revision="9e80a32fa0ed448d526aa788e0b9599195935d56" />
   <project path="tools/apksig" name="platform/tools/apksig" groups="pdk,tradefed" revision="a85d2b7ca37e1607baa680dc347f4e64d9570e2b" />
   <project path="tools/apkzlib" name="platform/tools/apkzlib" groups="pdk,tradefed" revision="b855432e74c0b3764a154da97670f9ffe6981d06" />
-  <!-- <project path="tools/asuite" name="platform/tools/asuite" groups="pdk" revision="8f6967a9e7d3c1ba682af776e3d11901292782bc" /> -->
+  <project path="tools/asuite" name="platform/tools/asuite" groups="pdk" revision="8f6967a9e7d3c1ba682af776e3d11901292782bc" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" revision="e5707a5b9fc46b6ea63eeece879fb996bde27e75" />
   <project path="tools/build" name="platform/tools/build" groups="notdefault,tools" revision="2ebbd9c932a80710fc7eaec6ced3a13f0b72888e" />
   <!-- tools/carrier_settings didn't exist when this build was tagged -->
@@ -1095,6 +1095,7 @@
   <!-- these repos are backported from a11 / master branch as they no longer exist in a12 -->
   <project path="hardware/qcom/sm7150/display" name="platform/hardware/qcom/sm7150/display" groups="qcom_sm7150" revision="8366779010dd007cf302dca14695ca34e4c62661" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="1ab20db3e87e22209bf9e00971346a199c2d07c8" />
+  <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="68903a30ba4d8ba979a0897128da375c1aedab72" />
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="34a71355e5f4b6700f16a9c578b2f985ac80020f" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
