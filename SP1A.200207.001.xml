@@ -1092,7 +1092,8 @@
   <project path="tools/treble" name="platform/tools/treble" groups="tools,pdk" revision="204300217392907db76d9db472c01deccd3065c3" />
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="b735f448e61c99f4c06101902ff76eee4e5496f1" />
 
-  <!-- these repos are backported from a11 as they no longer exist in a12 -->
+  <!-- these repos are backported from a11 / master branch as they no longer exist in a12 -->
+  <project path="hardware/qcom/sm7150/display" name="platform/hardware/qcom/sm7150/display" groups="qcom_sm7150" revision="8366779010dd007cf302dca14695ca34e4c62661" />
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="34a71355e5f4b6700f16a9c578b2f985ac80020f" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
