@@ -700,7 +700,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" revision="9d1c0505711f34af6dafe215868f2fc1945cef64" />
   <!-- frameworks/opt/tv/tvsystem didn't exist when this buid was tagged -->
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" revision="5ac4ffa08dea95d2c25356a9471ef8f735a442f3" />
-  <project path="frameworks/proto_logging" name="platform/frameworks/proto_logging" groups="pdk-cw-fs,pdk-fs" revision="1efdfbed042ead9b667869bbc7acd8a858763e73" />
+  <!-- <project path="frameworks/proto_logging" name="platform/frameworks/proto_logging" groups="pdk-cw-fs,pdk-fs" revision="1efdfbed042ead9b667869bbc7acd8a858763e73" /> -->
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="16ad2184467c2ab589b8b4ad756943fbc18d90b3" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs,pdk-fs" revision="5cac10234f2d00da72c3c41f82fbd26e5fb4467d" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" revision="a7191619f320c9c48c0cfc376996ca2836c7a799" />
@@ -891,12 +891,12 @@
   <project path="packages/modules/Permission" name="platform/packages/modules/Permission" groups="pdk-cw-fs,pdk-fs" revision="105d8fba5b16024a54bf1f4b7a90f7bda7d304a2" />
   <!-- packages/modules/RuntimeI18n didn't exist when this build was tagged -->
   <!-- packages/modules/Scheduling didn't exist when this build was tagged -->
-  <project path="packages/modules/SdkExtensions" name="platform/packages/modules/SdkExtensions" groups="pdk-cw-fs,pdk-fs" revision="6e7f328fa140fc2893fc01345d8cacecb714b978" />
-  <project path="packages/modules/StatsD" name="platform/packages/modules/StatsD" groups="pdk-cw-fs,pdk-fs" revision="cb467b773c15e83031d20624174d2c93edf146a5" />
+  <!-- <project path="packages/modules/SdkExtensions" name="platform/packages/modules/SdkExtensions" groups="pdk-cw-fs,pdk-fs" revision="6e7f328fa140fc2893fc01345d8cacecb714b978" /> -->
+  <!-- <project path="packages/modules/StatsD" name="platform/packages/modules/StatsD" groups="pdk-cw-fs,pdk-fs" revision="cb467b773c15e83031d20624174d2c93edf146a5" /> -->
   <!-- <project path="packages/modules/TestModule" name="platform/packages/modules/TestModule" /> -->
   <!-- packages/modules/Virtualization didn't exist when this build was tagged -->
   <project path="packages/modules/vndk" name="platform/packages/modules/vndk" groups="pdk-cw-fs,pdk-fs" revision="b8e4517bf255fb7ac9c681d3724ab9609a576a61" />
-  <project path="packages/modules/Wifi" name="platform/packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs" revision="8b027abbf050d69933e65f43b5a55e2ced0fde4e" />
+  <!-- <project path="packages/modules/Wifi" name="platform/packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs" revision="8b027abbf050d69933e65f43b5a55e2ced0fde4e" /> -->
   <project path="packages/providers/BlockedNumberProvider" name="platform/packages/providers/BlockedNumberProvider" groups="pdk-fs" revision="98c2050df3427f84b02f60c26333985ad5afe301" />
   <project path="packages/providers/BookmarkProvider" name="platform/packages/providers/BookmarkProvider" groups="pdk-fs" revision="0506b68a4f23e7639c470b075fdf547347bad810" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" groups="pdk-cw-fs,pdk-fs" revision="8897a25115a78edd4357bb6f1962d4fac52d3ae1" />
