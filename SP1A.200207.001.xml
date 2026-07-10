@@ -1094,7 +1094,7 @@
 
   <!-- these repos are backported from a11 / master branch as they no longer exist in a12 -->
   <project path="hardware/qcom/sm7150/display" name="platform/hardware/qcom/sm7150/display" groups="qcom_sm7150" revision="8366779010dd007cf302dca14695ca34e4c62661" />
-  <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="34a71355e5f4b6700f16a9c578b2f985ac80020f" />
+  <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="9c49f1308253954d2a9f3296dd35f348ba8377cb" />
   <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" revision="11449ec96becf064e4ea498d7221ee52eee33c2d" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
