@@ -870,14 +870,14 @@
   <project path="packages/apps/WallpaperPicker2" name="platform/packages/apps/WallpaperPicker2" groups="pdk-fs" revision="d88d1d7a8cb855a18448239b1bdaea720b2d3490" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" groups="pdk-fs" revision="f82d822b420ecfc54a4954e75b864525b1a5171d" />
   <project path="packages/inputmethods/LeanbackIME" name="platform/packages/inputmethods/LeanbackIME" groups="pdk-fs" revision="1667592ee5924122e43b611fa813c8f894087cd6" />
-  <project path="packages/modules/adb" name="platform/packages/modules/adb" groups="pdk" revision="6c2a01e1ddd3044cf0d8ee70bd3f9c4f08cb3233" />
+  <!-- <project path="packages/modules/adb" name="platform/packages/modules/adb" groups="pdk" revision="6c2a01e1ddd3044cf0d8ee70bd3f9c4f08cb3233" /> -->
   <!-- <project path="packages/modules/ArtPrebuilt" name="platform/packages/modules/ArtPrebuilt" groups="pdk" clone-depth="1" /> -->
   <!-- packages/modules/BootPrebuilt/5.4/arm64 didn't exist when this build was tagged -->
   <!-- packages/modules/BootPrebuilt/5.10/arm64 didn't exist when this build was tagged -->
   <project path="packages/modules/CaptivePortalLogin" name="platform/packages/modules/CaptivePortalLogin" groups="pdk-cw-fs,pdk-fs" revision="6c7a93f4a1ff7ed98f6f13bf8250727b80298749" />
   <project path="packages/modules/CellBroadcastService" name="platform/packages/modules/CellBroadcastService" groups="pdk" revision="ad966df17c2751b3b7bdb9f5cc62215833b1e74a" />
   <!-- packages/modules/common didn't exist when this build was tagged -->
-  <project path="packages/modules/Connectivity" name="platform/packages/modules/Connectivity" groups="pdk-cw-fs,pdk-fs" revision="f309abe044085c993228018864024a98911de218" />
+  <!-- <project path="packages/modules/Connectivity" name="platform/packages/modules/Connectivity" groups="pdk-cw-fs,pdk-fs" revision="f309abe044085c993228018864024a98911de218" /> -->
   <project path="packages/modules/Cronet" name="platform/packages/modules/Cronet" groups="pdk-cw-fs,pdk-fs" revision="69accc0487c204bf60f867cd8828964608394814" />
   <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="e1ffd442f328408b38cab067f5664d77f0c941b6" />
   <!-- <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" /> -->
@@ -999,17 +999,17 @@
   <project path="system/iorap" name="platform/system/iorap" groups="pdk" revision="973f65abc3c78d1c5deb876e488211ecddeaadb7" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" revision="21e846127fe85733e5ffe06f0daa76f746bb90d6" />
   <project path="system/libartpalette" name="platform/system/libartpalette" groups="pdk" revision="3468f55d442bf980af9c3e675e0edf2efe2cff11" />
-  <project path="system/libbase" name="platform/system/libbase" groups="pdk" revision="f37173d5bb4167a4b13cbbe18917d9189a848d7c" />
+  <!-- <project path="system/libbase" name="platform/system/libbase" groups="pdk" revision="f37173d5bb4167a4b13cbbe18917d9189a848d7c" /> -->
   <project path="system/libfmq" name="platform/system/libfmq" groups="pdk" revision="83d6535ac0558daf820af69b621c8caf1aa05d78" />
   <project path="system/libhidl" name="platform/system/libhidl" groups="pdk" revision="e7813eab6a60eb4ce6673a8c3dc61bfc43501c65" />
   <project path="system/libhwbinder" name="platform/system/libhwbinder" groups="pdk" revision="93377763616ded42e54ebfaa98017a03e485f090" />
-  <project path="system/libprocinfo" name="platform/system/libprocinfo" groups="pdk" revision="32e3e70ba9271ca198148e3f5dd748fe5e2c012a" />
+  <!-- <project path="system/libprocinfo" name="platform/system/libprocinfo" groups="pdk" revision="32e3e70ba9271ca198148e3f5dd748fe5e2c012a" /> -->
   <project path="system/libsysprop" name="platform/system/libsysprop" groups="pdk" revision="246f6991fa9d38cc17989c12f71e394ec205a263" />
   <project path="system/libufdt" name="platform/system/libufdt" groups="pdk" revision="715ca232a5b4b870968eceedc332eb84cf312963" />
   <project path="system/libvintf" name="platform/system/libvintf" groups="pdk" revision="71cf08bdec36c9c2a0af2af7a797385ad7560da2" />
-  <project path="system/libziparchive" name="platform/system/libziparchive" groups="pdk" revision="d6dfe3f54e07be2b8e61fd569954ce7b844403c9" />
+  <!-- <project path="system/libziparchive" name="platform/system/libziparchive" groups="pdk" revision="d6dfe3f54e07be2b8e61fd569954ce7b844403c9" /> -->
   <project path="system/linkerconfig" name="platform/system/linkerconfig" groups="pdk" revision="c99eaba4da75d8f3ed073e19db26a67aa2679fa9" />
-  <project path="system/logging" name="platform/system/logging" groups="pdk" revision="1eed8e5f6eff9dca5d3720d4f0c17387e13fef67" />
+  <!-- <project path="system/logging" name="platform/system/logging" groups="pdk" revision="1eed8e5f6eff9dca5d3720d4f0c17387e13fef67" />v -->
   <project path="system/media" name="platform/system/media" groups="pdk" revision="c7a284942b263f1da7aaa6fd72aa8a5dbcf65a59" />
   <project path="system/memory/libion" name="platform/system/memory/libion" groups="pdk" revision="04b5246c993f441c9538a0561ef35c68d561a81a" />
   <!-- system/memory/libdmabufheap didn't exist when this build was tagged -->
@@ -1031,7 +1031,7 @@
   <project path="system/tools/mkbootimg" name="platform/system/tools/mkbootimg" groups="pdk" revision="5e77ec64b0f404c491ebbae8b088a34ea822f31e" />
   <project path="system/tools/sysprop" name="platform/system/tools/sysprop" groups="pdk" revision="433576eb59d6e713b6aee1269b7be768e56a31a8" />
   <project path="system/tools/xsdc" name="platform/system/tools/xsdc" groups="pdk" revision="30cb617e544121cf4e34bf3b22f5450435f187ce" />
-  <project path="system/unwinding" name="platform/system/unwinding" groups="pdk" revision="ad0dae7b0bb823eaee9d0360d28d9e5c05ddfdc6" />
+  <!-- <project path="system/unwinding" name="platform/system/unwinding" groups="pdk" revision="ad0dae7b0bb823eaee9d0360d28d9e5c05ddfdc6" /> -->
   <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" revision="4daca5c68a95290e375a1707edcc7fa9a7147e03" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" revision="99fe90d9c0f98156897b501ceac22086410cc739" />
   <project path="test/framework" name="platform/test/framework" groups="vts,projectarch,pdk" revision="38cf0cfe3a6f4279d1a1ea8bc50aae451e739e66" />
