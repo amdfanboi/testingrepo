@@ -366,7 +366,7 @@
   <!-- external/okio didn't exist when this build was tagged -->
   <project path="external/one-true-awk" name="platform/external/one-true-awk" groups="pdk" revision="c55d3b6808ee724814e54ec00ab2faba04519855" />
   <project path="external/opencensus-java" name="platform/external/opencensus-java" groups="pdk,tradefed" revision="610a17c2139830070c0dc56540d35aeb64222ec7" />
-  <project path="external/OpenCL-CTS" name="platform/external/OpenCL-CTS" revision="eea081ae20d7bc57365ce51dc7cac11d45081039" />
+  <!-- <project path="external/OpenCL-CTS" name="platform/external/OpenCL-CTS" revision="eea081ae20d7bc57365ce51dc7cac11d45081039" /> -->
   <project path="external/OpenCSD" name="platform/external/OpenCSD" groups="pdk" revision="a15849b7c7e9cd35e43b8432b133739a4dd75640" />
   <project path="external/openscreen" name="platform/external/openscreen" groups="pdk" revision="db1b1221f6f1734da7d7a1c4e79209b6b52a0e0c" />
   <project path="external/openssh" name="platform/external/openssh" groups="pdk" revision="cb697871c774d360cc895c9bd22da5c8449a5187" />
