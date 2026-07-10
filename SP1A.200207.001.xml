@@ -62,9 +62,9 @@
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" revision="506952733fdebb5a2ef086b519ceebe86a95ae31" />
   <project path="device/generic/vulkan-cereal" name="device/generic/vulkan-cereal" groups="pdk" revision="ea978cef5a41c292dd9bd0ce9bf08648e76ca030" />
   <project path="device/google/atv" name="device/google/atv" groups="device,broadcom_pdk,generic_fs,pdk" revision="9ba3d4bf9743b1abfdf108d6c6580d5f9b0d08ab" />
-  <-- device/google/barbet didn't exist when this build was tagged -->
-  <-- device/google/barbet-kernel didn't exist when this build was tagged -->
-  <-- device/google/barbet-sepolicy didn't exist when this build was tagged -->
+  <!-- device/google/barbet didn't exist when this build was tagged -->
+  <!-- device/google/barbet-kernel didn't exist when this build was tagged -->
+  <!-- device/google/barbet-sepolicy didn't exist when this build was tagged -->
   <project path="device/google/bonito" name="device/google/bonito" groups="device,bonito" revision="4e2960b605ed54a94bb983049ffa6e3edad09e33" />
   <project path="device/google/bonito-kernel" name="device/google/bonito-kernel" groups="device,bonito" clone-depth="1" revision="d7412785c364248f3489b86fb8a6e70ed989002a" />
   <project path="device/google/bonito-sepolicy" name="device/google/bonito-sepolicy" groups="device,bonito" revision="3b98c36bbac5ef1d93f7c98799827822003d51b4" />
@@ -75,7 +75,7 @@
   <project path="device/google/coral-kernel" name="device/google/coral-kernel" groups="device,coral,generic_fs" clone-depth="1" revision="649b62f9a4a44a31d5537ddb4cc0c1e078578b9d" />
   <project path="device/google/coral-sepolicy" name="device/google/coral-sepolicy" groups="device,coral,generic_fs" revision="968798a3658513abf0ce120fe7c33ebc19320024" />
   <project path="device/google/redbull" name="device/google/redbull" groups="device,redbull" revision="3d0a3e3107aef6a460c11f693a3332f423925a08" />
-  <-- device/google/redbull-kernel didn't exist when this build was tagged -->
+  <!-- device/google/redbull-kernel didn't exist when this build was tagged -->
   <project path="device/google/redbull-sepolicy" name="device/google/redbull-sepolicy" groups="device,redbull" revision="05b97108a8a8d81bbf731c0e0d8bafe24612c277" />
   <project path="device/google/redfin" name="device/google/redfin" groups="device,redfin" revision="c1799dc575aa3d66167223f851b99df1a421cc7e" />
   <project path="device/google/redfin-sepolicy" name="device/google/redfin-sepolicy" groups="device,redfin" revision="66afdd3000fd9770b358ff4968009bd39a3956dd" />
@@ -86,7 +86,7 @@
   <project path="device/google/crosshatch-kernel" name="device/google/crosshatch-kernel" groups="device,crosshatch,generic_fs" clone-depth="1" revision="13d7487881e31d3fdd05fe17ef23e7a333fbd19a" />
   <project path="device/google/crosshatch-sepolicy" name="device/google/crosshatch-sepolicy" groups="device,crosshatch,generic_fs" revision="c1e8d34efc494b2ab448bdd9178931f6135ef8c1" />
   <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="device,pdk" revision="26fb298bfc91901db63f89d74be8ca1009036fea" />
-  <-- device/google/cuttlefish_prebuilts didn't exist when this build was tagged -->
+  <!-- device/google/cuttlefish_prebuilts didn't exist when this build was tagged -->
   <project path="device/google/fuchsia" name="device/google/fuchsia" groups="device" revision="3f47343af243f81c2497abf48a8b16333cff8712" />
   <project path="device/google/trout" name="device/google/trout" groups="device,trout,gull,pdk" revision="6656dc775d3dbfdc9fc258e369735935e519650b" />
   <project path="device/google/vrservices" name="device/google/vrservices" groups="pdk" revision="19240f7c55a1fbaa721b265f76cacf7bf21109d7" />
