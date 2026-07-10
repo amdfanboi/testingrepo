@@ -1045,7 +1045,7 @@
   <!-- RTM -->
   <project path="test/vti/fuzz_test_serving" name="platform/test/vti/fuzz_test_serving" groups="vts,projectarch,pdk" />
   <project path="test/vti/test_serving" name="platform/test/vti/test_serving" groups="vts,projectarch,pdk" revision="bdaf2327fefdb061abb03896d0eed6e776a7d6d7" />
-  <!-- <project path="test/vts" name="platform/test/vts" groups="vts,pdk" revision="9f057514e75f685f4cd5206a9e8bb3380f749f09" /> -->
+  <project path="test/vts" name="platform/test/vts" groups="vts,pdk" revision="9f057514e75f685f4cd5206a9e8bb3380f749f09" />
   <project path="test/vts-testcase/fuzz" name="platform/test/vts-testcase/fuzz" groups="vts,projectarch,pdk" revision="8102a550117c2e513de6689af05eabc110250dfa" />
   <project path="test/vts-testcase/hal" name="platform/test/vts-testcase/hal" groups="vts,pdk" revision="ef77926cab2265b07c1a0e864654cf8339a08013" />
   <!-- RTM -->
