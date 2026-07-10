@@ -253,7 +253,7 @@
   <project path="external/javaparser" name="platform/external/javaparser" groups="pdk" revision="1151cfe383321b5d71dd3d32e595ffaa28bca7db" />
   <project path="external/javapoet" name="platform/external/javapoet" groups="pdk" revision="b3ebb5d8c63cdda55bb74b23d436a36a55191f68" />
   <project path="external/javasqlite" name="platform/external/javasqlite" groups="pdk" revision="c093f72b18ff45bd66c8884ef667399aa5891b9f" />
-  <project path="external/javassist" name="platform/external/javassist" groups="pdk" revision="f7c4b954072e563b75f6910c25bb689bbf38a3d1 />
+  <project path="external/javassist" name="platform/external/javassist" groups="pdk" revision="f7c4b954072e563b75f6910c25bb689bbf38a3d1" />
   <project path="external/jcommander" name="platform/external/jcommander" groups="pdk" revision="c4d97985b3787276d6b391510250246c9ca94541" />
   <project path="external/jdiff" name="platform/external/jdiff" groups="pdk" revision="8cfae805e056320128cc7e506c8eae24daccac0b" />
   <project path="external/jemalloc_new" name="platform/external/jemalloc_new" groups="pdk" revision="91f65f46593dd87b272773bba1f6cc5fe1fbf8c4" />
