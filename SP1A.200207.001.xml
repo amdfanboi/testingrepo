@@ -1096,6 +1096,7 @@
   <project path="hardware/qcom/sm7150/display" name="platform/hardware/qcom/sm7150/display" groups="qcom_sm7150" revision="8366779010dd007cf302dca14695ca34e4c62661" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="1ab20db3e87e22209bf9e00971346a199c2d07c8" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="68903a30ba4d8ba979a0897128da375c1aedab72" />
+  <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="d58ebe460ec3b9605d827353ef17184a6bbac62b" />
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="34a71355e5f4b6700f16a9c578b2f985ac80020f" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
