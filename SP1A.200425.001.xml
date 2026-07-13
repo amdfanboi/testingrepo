@@ -1084,7 +1084,7 @@
   <project path="tools/metalava" name="platform/tools/metalava" groups="pdk,tools" revision="1a2cc84b992ab684b723feb48f7caaa03e33d15d" />
   <!-- RTM -->
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
-  <!-- tools/platform-compat doesn't exist in AOSP (why is it even the manifest?) -->
+  <project path="tools/platform-compat" name="tools/platform-compat" groups="pdk-cw-fs,pdk-fs,pdk" revision="8f8f6f053ce3c23237419ac28b92203aa68130b6" />
   <project path="tools/ndkports" name="platform/tools/ndkports" groups="pdk" revision="07b1972462a5cb65c7494d96c66f9e67745502bc" />
   <project path="tools/repohooks" name="platform/tools/repohooks"  groups="adt-infra,cts,developers,motodev,pdk,tools,tradefed" revision="dbc4ec0cb2aeef384e64c7c4905bb3ac9c52631a" />
   <project path="tools/security" name="platform/tools/security" groups="pdk,tools" revision="3679381da49d970c24278bf2a70ca73f95691865" />
