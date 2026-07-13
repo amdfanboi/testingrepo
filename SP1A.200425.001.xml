@@ -518,7 +518,7 @@
   <!-- external/rust/crates/oorandom didn't exist when this build was tagged -->
   <!-- external/rust/crates/parking_lot didn't exist when this build was tagged -->
   <!-- external/rust/crates/parking_lot_core didn't exist when this build was tagged -->
-  <project path="external/rust/crates/paste" name="platform/external/rust/crates/paste" groups="pdk" revision="06a3ae5f1ac481aaed32986d875e245b5647ef9c" />
+  <!-- <project path="external/rust/crates/paste" name="platform/external/rust/crates/paste" groups="pdk" revision="06a3ae5f1ac481aaed32986d875e245b5647ef9c" /> -->
   <project path="external/rust/crates/peeking_take_while" name="platform/external/rust/crates/peeking_take_while" groups="pdk" revision="5fdfedd4c15a4bb6dffa38a0987a5359b1d637aa" />
   <!-- external/rust/crates/percent-encoding didn't exist when this build was tagged -->
   <!-- external/rust/crates/pin-project didn't exist when this build was tagged -->
