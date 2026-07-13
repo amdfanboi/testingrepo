@@ -77,8 +77,8 @@
   <project path="device/google/redbull" name="device/google/redbull" groups="device,redbull" revision="676cf28f26480db58e5b71a4d3fa621941913989" />
   <!-- device/google/redbull-kernel didn't exist when this build was tagged -->
   <project path="device/google/redbull-sepolicy" name="device/google/redbull-sepolicy" groups="device,redbull" revision="62e1ea125e0f0f4aeac2079ccecdb997d7ec55e7" />
-  <project path="device/google/redfin" name="device/google/redfin" groups="device,redfin" revision="4ab5b5819a250b307e4cf109e2fdcae8a9ab9bd4" />
-  <project path="device/google/redfin-sepolicy" name="device/google/redfin-sepolicy" groups="device,redfin" revision="be3abc519f3c0aabd169f2e6ccf0a2e3518d342c" />
+  <!-- <project path="device/google/redfin" name="device/google/redfin" groups="device,redfin" revision="4ab5b5819a250b307e4cf109e2fdcae8a9ab9bd4" /> -->
+  <!-- <project path="device/google/redfin-sepolicy" name="device/google/redfin-sepolicy" groups="device,redfin" revision="be3abc519f3c0aabd169f2e6ccf0a2e3518d342c" /> -->
   <project path="device/google/sunfish" name="device/google/sunfish" groups="device,sunfish" revision="e0cdfd421de1247395dddadf830e12a4d790d857" />
   <project path="device/google/sunfish-kernel" name="device/google/sunfish-kernel" groups="device,sunfish" clone-depth="1" revision="50f5c3baf88dbbe8b059ecfad34192ed6a77f260" />
   <project path="device/google/sunfish-sepolicy" name="device/google/sunfish-sepolicy" groups="device,sunfish" revision="35b8a9ddc2f00389550515d6066d4aefbdece85d" />
@@ -888,7 +888,7 @@
   <project path="packages/modules/ModuleMetadata" name="platform/packages/modules/ModuleMetadata" groups="pdk" revision="bf198f3182e53f3d1dc9d061f558656e59f5d4c8" />
   <project path="packages/modules/NetworkPermissionConfig" name="platform/packages/modules/NetworkPermissionConfig" groups="pdk-cw-fs,pdk-fs" revision="f88f12a74464b47f115b52f210e8f23762429dd4" />
   <project path="packages/modules/NetworkStack" name="platform/packages/modules/NetworkStack" groups="pdk-cw-fs,pdk-fs" revision="f7aebdec558fd8ce22e6852ce096a16b8151d376" />
-  <project path="packages/modules/NeuralNetworks" name="platform/packages/modules/NeuralNetworks" groups="pdk-cw-fs,pdk-fs" revision="0c26e0103a053509eb94004b77b28d21e388949a" />
+  <!-- <project path="packages/modules/NeuralNetworks" name="platform/packages/modules/NeuralNetworks" groups="pdk-cw-fs,pdk-fs" revision="0c26e0103a053509eb94004b77b28d21e388949a" /> -->
   <project path="packages/modules/Permission" name="platform/packages/modules/Permission" groups="pdk-cw-fs,pdk-fs" revision="2beb6fcb13bda94358a64e468ed6bc255ed33970" />
   <!-- <project path="packages/modules/RuntimeI18n" name="platform/packages/modules/RuntimeI18n" groups="pdk-cw-fs,pdk-fs" /> -->
   <!-- packages/modules/Scheduling didn't exist when this build was tagged -->
@@ -1104,6 +1104,7 @@
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="f01e2c69a555165b2f5b36160c95b6de9218d5cc" />
   <project path="external/rust/crates/paste-impl" name="platform/external/rust/crates/paste-impl" groups="pdk" revision="30938b47d3d8ed46791dd6ca96e8ec910dfb84ee" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" revision="11783deb534f697f9c79708900437a11e26d9662" />
+  <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="541ecfebbfc9b48b45c402d76c5f8a39d10ce2a1" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="4c604f3d8725cc323a8dc2b722a7caef55d4b592" />
   <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="4d8ebc7d489f9c670b7ed9b95c0c2413f0448f25" />
