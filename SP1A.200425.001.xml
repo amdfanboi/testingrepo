@@ -664,7 +664,7 @@
   <project path="external/xz-java" name="platform/external/xz-java" groups="pdk" revision="bd7892bb8927360cd34805bc332039154a2110e0" />
   <project path="external/XNNPACK" name="platform/external/XNNPACK" groups="pdk" revision="aba59729160bf0cace6136e836c2c17a8566a5a1" />
   <project path="external/yapf" name="platform/external/yapf" groups="vts,projectarch,pdk" revision="45d923c40605a71867d174abcd04a1db76945651" />
-  <project path="external/zlib" name="platform/external/zlib" groups="pdk" revision="ae385786edb15f57e992c5e9dd9464e376d69399" />
+  <project path="external/zlib" name="platform/external/zlib" groups="pdk" revision="69a01de7f209d4291e5366b64e2fb19ba467c1e4" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" revision="4e42ccafb7c571f502a23177bca2d3cfc209035c" />
   <project path="external/zstd" name="platform/external/zstd" groups="pdk" revision="6b4a3e019f8eeb3423065f7b24d790358e8cbc59" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" revision="65193280855e46d11bf5b44f1a7e49ec0c7bd57e" />
@@ -1099,6 +1099,7 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="b735f448e61c99f4c06101902ff76eee4e5496f1" />
 
   <!-- these repos are backported from a11 / master branch as they no longer exist in a12 -->
+  <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" revision="ae88e3df0e2d2779c1b8c7ff9a17ef34c0bf23e6" />
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="cd9c49e35dd8ca20f97dedea4bb3332647f33478" />
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="f01e2c69a555165b2f5b36160c95b6de9218d5cc" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
