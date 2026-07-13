@@ -642,7 +642,7 @@
   <project path="external/unicode" name="platform/external/unicode" groups="pdk" revision="817a8988887473fbd4e28448c391e422f646a684" />
   <project path="external/universal-tween-engine" name="platform/external/universal-tween-engine" revision="049cac16975ab5401d65680d613539f145875d8f" />
   <project path="external/ukey2" name="platform/external/ukey2" groups="pdk" revision="59a7acdba28ab42c5b6722d9f9696346067441ae" />
-  <project path="external/usrsctp" name="platform/external/usrsctp" groups="pdk" revision="858d2f73019f73bd2c1691bab75c2022640b82e7 />
+  <project path="external/usrsctp" name="platform/external/usrsctp" groups="pdk" revision="858d2f73019f73bd2c1691bab75c2022640b82e7" />
   <project path="external/v4l2_codec2" name="platform/external/v4l2_codec2" groups="pdk" revision="32bcfbbe7da20199d2c4c1f390126b2ae15e22a6" />
   <project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot,pdk-fs" revision="f9f9dfedeb6d705f619883fa5d4a137576e53d91" />
   <project path="external/virglrenderer" name="platform/external/virglrenderer" groups="pdk" revision="a0cbe16282e54a9c3415ea2b5c497d152ea4709e" />
