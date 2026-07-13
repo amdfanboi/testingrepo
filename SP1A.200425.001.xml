@@ -60,7 +60,7 @@
   <project path="device/generic/uml" name="device/generic/uml" groups="device,pdk" revision="b1e2b0f06b7884f75b94433c14ed339dcefdf4ed" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" revision="7a73a1f8e9fd691cb8f45aa9de303f3c39c3837a" />
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" revision="506952733fdebb5a2ef086b519ceebe86a95ae31" />
-  <project path="device/generic/vulkan-cereal" name="device/generic/vulkan-cereal" groups="pdk" revision="ea978cef5a41c292dd9bd0ce9bf08648e76ca030" />
+  <!-- <project path="device/generic/vulkan-cereal" name="device/generic/vulkan-cereal" groups="pdk" revision="ea978cef5a41c292dd9bd0ce9bf08648e76ca030" /> -->
   <project path="device/google/atv" name="device/google/atv" groups="device,broadcom_pdk,generic_fs,pdk" revision="20b24e536c37b057ff07e301e994d9a5de450304" />
   <!-- device/google/barbet didn't exist when this build was tagged -->
   <!-- device/google/barbet-kernel didn't exist when this build was tagged -->
