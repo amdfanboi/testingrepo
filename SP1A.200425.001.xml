@@ -518,7 +518,7 @@
   <!-- external/rust/crates/oorandom didn't exist when this build was tagged -->
   <!-- external/rust/crates/parking_lot didn't exist when this build was tagged -->
   <!-- external/rust/crates/parking_lot_core didn't exist when this build was tagged -->
-  <!-- <project path="external/rust/crates/paste" name="platform/external/rust/crates/paste" groups="pdk" revision="06a3ae5f1ac481aaed32986d875e245b5647ef9c" /> -->
+  <project path="external/rust/crates/paste" name="platform/external/rust/crates/paste" groups="pdk" revision="06a3ae5f1ac481aaed32986d875e245b5647ef9c" />
   <project path="external/rust/crates/peeking_take_while" name="platform/external/rust/crates/peeking_take_while" groups="pdk" revision="5fdfedd4c15a4bb6dffa38a0987a5359b1d637aa" />
   <!-- external/rust/crates/percent-encoding didn't exist when this build was tagged -->
   <!-- external/rust/crates/pin-project didn't exist when this build was tagged -->
@@ -1102,6 +1102,7 @@
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" revision="ae88e3df0e2d2779c1b8c7ff9a17ef34c0bf23e6" />
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="cd9c49e35dd8ca20f97dedea4bb3332647f33478" />
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="f01e2c69a555165b2f5b36160c95b6de9218d5cc" />
+  <project path="external/rust/crates/paste-impl" name="platform/external/rust/crates/paste-impl" groups="pdk" revision="30938b47d3d8ed46791dd6ca96e8ec910dfb84ee" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" revision="11783deb534f697f9c79708900437a11e26d9662" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="4c604f3d8725cc323a8dc2b722a7caef55d4b592" />
