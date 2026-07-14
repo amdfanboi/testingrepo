@@ -317,7 +317,7 @@
   <project path="external/libusb" name="platform/external/libusb" groups="pdk" revision="aec765326339b6597517119977e41f122dbf4c8d" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk" revision="e2018dd204968c5ac554bd5909366aaa0ade5e0f" />
   <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" revision="497d664afd252f9c303bee276351e9abb2df9efa" />
-  <project path="external/libwebm" name="platform/external/libwebm" groups="pdk" revision="9690075dccb7cbe25201bc74a467cdc6e3f41e7b" />
+  <!-- <project path="external/libwebm" name="platform/external/libwebm" groups="pdk" revision="9690075dccb7cbe25201bc74a467cdc6e3f41e7b" /> -->
   <project path="external/libwebsockets" name="platform/external/libwebsockets" groups="pdk" revision="942c75833fbb02a59c830282f12322102f13a773" />
   <project path="external/libxaac" name="platform/external/libxaac" groups="pdk" revision="dcb7239e16cb5337d21f617e87cfef9e53d8b29b" />
   <project path="external/libxkbcommon" name="platform/external/libxkbcommon" groups="pdk" revision="a75013a9ea22a80f059a95506a31b2772190e21e" />
