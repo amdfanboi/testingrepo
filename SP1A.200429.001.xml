@@ -714,7 +714,7 @@
   <project path="hardware/google/interfaces" name="platform/hardware/google/interfaces" groups="pdk" revision="05b1a20329f6a3494e55988f3e9f5aef841cc91f" />
   <project path="hardware/google/pixel" name="platform/hardware/google/pixel" groups="generic_fs,pixel" revision="69a14100e281c543663c7280f358187ddd719661" />
   <project path="hardware/google/pixel-sepolicy" name="platform/hardware/google/pixel-sepolicy" groups="generic_fs,pixel" revision="e7faf1fb148a36a58bc77d2ec826c0fef514decc" />
-  <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="45c033b8f3283e825c79ebfe785be75cd481fa87" />
+  <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="ad68cd4bf071572f9b3fc5700c770c4322a03fe1" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" revision="a51c32c7d16d32462fcd2d3fc61474bb0ec56864" />
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="platform/hardware/knowles/athletico/sound_trigger_hal" groups="coral,generic_fs" revision="2cee7d5d45e412d0cf9b8abdf9f1ff3524127dab" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="94e877b9d14b49d8120a00ca453ead9897017630" />
