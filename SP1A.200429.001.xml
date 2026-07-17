@@ -775,7 +775,7 @@
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" revision="0d83291bcb6cc0a5d73017143738d64b4b2da9b5" />
   <project path="hardware/st/nfc" name="platform/hardware/st/nfc" groups="pdk" revision="5c44c3e5b38f5404c6b6cad5a763f8e90fad91c8" />
   <project path="hardware/st/secure_element" name="platform/hardware/st/secure_element" groups="pdk" revision="50b52d7d6bbdfd7eb0ba083b0c8c35e0252538f1" />
-  <project path="hardware/st/secure_element2" name="platform/hardware/st/secure_element2" groups="pdk" revision="91df98f7467a0a269dca9632bdfe24d5884603da" />
+  <!-- <project path="hardware/st/secure_element2" name="platform/hardware/st/secure_element2" groups="pdk" revision="91df98f7467a0a269dca9632bdfe24d5884603da" /> -->
   <!-- hardware/samsung/nfc didn't exist when this build was tagged -->
   <project path="hardware/ti/am57x" name="platform/hardware/ti/am57x" groups="pdk" revision="0822c2dfa30bd1549b34d43707b994ef9d99b812" />
   <project path="kernel/configs" name="kernel/configs" groups="vts,pdk" revision="bbfc17c6259c7cfd8ecaa523d994f5826a86fbc8" />
