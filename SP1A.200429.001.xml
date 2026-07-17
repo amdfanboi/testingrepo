@@ -884,7 +884,7 @@
   <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="1c915d5feb684aec60ac089a8ff9259a073aaf9b" />
   <!-- <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" /> -->
   <!-- packages/modules/Gki didn't exist when this build was tagged -->
-  <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="ccfe20c93d7478cb2e8f6e4aaa385ed11ebbd895" />
+  <!-- <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="ccfe20c93d7478cb2e8f6e4aaa385ed11ebbd895" /> -->
   <project path="packages/modules/DnsResolver" name="platform/packages/modules/DnsResolver" groups="pdk-cw-fs,pdk-fs" revision="e51cb0c874dca0fa45a863bc5c78bbabf4822203" />
   <project path="packages/modules/ModuleMetadata" name="platform/packages/modules/ModuleMetadata" groups="pdk" revision="bf198f3182e53f3d1dc9d061f558656e59f5d4c8" />
   <project path="packages/modules/NetworkPermissionConfig" name="platform/packages/modules/NetworkPermissionConfig" groups="pdk-cw-fs,pdk-fs" revision="f88f12a74464b47f115b52f210e8f23762429dd4" />
