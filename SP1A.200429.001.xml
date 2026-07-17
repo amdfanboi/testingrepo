@@ -1104,6 +1104,7 @@
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="b3b7b55254c3e09ec6c64a892fc10b6a142c5202" />
   <project path="external/rust/crates/paste-impl" name="platform/external/rust/crates/paste-impl" groups="pdk" revision="eeaf47fc4dddcea4f6b4e0d4e3247f11c477e284" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="c6f5a41c72428c1450879572dd4f9682b1acccb0" />
+  <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="82c8bb40f619ce8b199b7ad08e72e03c58b49986" />
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="5f12e540b5c6f12e33577692d2d82fb838c764e0" />
 
