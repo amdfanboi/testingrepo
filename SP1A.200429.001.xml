@@ -995,7 +995,7 @@
   <project path="system/bpfprogs" name="platform/system/bpfprogs" groups="pdk" revision="20dc21d01c09eac88b59ecbcf8b76628795bc9e1" />
   <project path="system/ca-certificates" name="platform/system/ca-certificates" groups="pdk" revision="cdcf0feafaedf844390522b81cd2c48ec2b08d7d" />
   <project path="system/chre" name="platform/system/chre"  groups="pdk" revision="f620e10d8c5ee91f45cfa3a8898067837930fc67" />
-  <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" revision="ef13bd99b3316f0f82669297f73a9405f150f907" />
+  <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" revision="2f8de540dc93aec667837b2e37e17f672258e3e3" />
   <project path="system/core" name="platform/system/core" groups="pdk" revision="0ad5bd96cb2bd343ca5d2a431659f09b7fbf1f61" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="f4905aa1549364d4d30e23facc293d2eda11855c" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" revision="dd73a85fb461d6b6732fed1096ebd7b3e4619691" />
