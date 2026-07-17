@@ -884,7 +884,7 @@
   <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="1c915d5feb684aec60ac089a8ff9259a073aaf9b" />
   <!-- <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" /> -->
   <!-- packages/modules/Gki didn't exist when this build was tagged -->
-  <!-- <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="ccfe20c93d7478cb2e8f6e4aaa385ed11ebbd895" /> -->
+  <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="ccfe20c93d7478cb2e8f6e4aaa385ed11ebbd895" />
   <project path="packages/modules/DnsResolver" name="platform/packages/modules/DnsResolver" groups="pdk-cw-fs,pdk-fs" revision="e51cb0c874dca0fa45a863bc5c78bbabf4822203" />
   <project path="packages/modules/ModuleMetadata" name="platform/packages/modules/ModuleMetadata" groups="pdk" revision="bf198f3182e53f3d1dc9d061f558656e59f5d4c8" />
   <project path="packages/modules/NetworkPermissionConfig" name="platform/packages/modules/NetworkPermissionConfig" groups="pdk-cw-fs,pdk-fs" revision="f88f12a74464b47f115b52f210e8f23762429dd4" />
@@ -1106,7 +1106,6 @@
   <project path="external/rust/crates/paste-impl" name="platform/external/rust/crates/paste-impl" groups="pdk" revision="eeaf47fc4dddcea4f6b4e0d4e3247f11c477e284" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" revision="11783deb534f697f9c79708900437a11e26d9662" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="c6f5a41c72428c1450879572dd4f9682b1acccb0" />
-  <project path="frameworks/opt/net/ike" name="platform/frameworks/opt/net/ike" groups="pdk" revision="775083d9c698ebf9f2b618441cf77a137817487a" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="82c8bb40f619ce8b199b7ad08e72e03c58b49986" />
   <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="4d8ebc7d489f9c670b7ed9b95c0c2413f0448f25" />
