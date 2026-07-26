@@ -799,7 +799,7 @@
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" revision="9f029ae180bec9b097cfe5e9824e0550f20f80fe" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs,pdk-fs" revision="1c64e3798d1dc8c940d77d5a0d5325402959a2e7" />
   <project path="packages/apps/Browser2" name="platform/packages/apps/Browser2" groups="pdk-fs" revision="37652f79d1a115bc2d920a68ad6846a23107c660" />
-  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" groups="pdk-fs" revision="5bb52db23412f18235376a07c6771b6c5a3059d9" />
+  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" groups="pdk-fs" revision="d77ff08f4deef1b0a7db7009b0b0f1c5297f4423" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" groups="pdk-fs" revision="d59050fd864a68b21a26df51a05c0d557b66ebda" />
   <!-- packages/apps/Car/Calendar didn't exist when this build was tagged -->
   <!-- packages/apps/Car/SystemUI didn't exist when this build was tagged -->
@@ -826,14 +826,14 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" revision="49585c2f7a727a1a41bc8d1f8d8d3b0a9cb8d07b" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs,pdk-fs" revision="38561b6602d28886f83fd62707a8ffed0046e2c0" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" groups="pdk-fs" revision="d9d811219997e8faa01d111a7055f40718649eaf" />
-  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" revision="801275c945a7b0e7d0aa82fa5b1a7015eb86633b" />
+  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" revision="aeab50a5592aceed00b5af0d05053a86de94ec5d" />
   <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" revision="d148d3a70242fc8d2975e83946f7b8b2927ab3e7" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" groups="pdk-fs" revision="ef0506c85ff194d840fd796d995a96d3eddcd9f5" />
   <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" revision="892e3e06f5193fa082783ebc4fb273e0aff86bde" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" revision="f179bf05fc38e047836a03a2d26022f47b34f99e" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" groups="pdk-fs" revision="ab14daba010c9306faa76b83bd3b2170e6055259" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" groups="pdk-fs" revision="7852b8b19a04984945cd55baf6490ccdd2af7d7b" />
-  <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" revision="adc14d2b2f729a73f1f6d356c6aad6a3ee8e075b" />
+  <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" revision="99a584e0dfa30cd45d7957b470e127ca6a758ab7" />
   <!-- packages/apps/ImsServiceEntitlement didn't exist when this build was tagged -->
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" groups="pdk-fs" revision="76bbbfeb1658db7174ff2da3a65f63ce1a910313" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" groups="pdk-fs" revision="d3e53cfa78039059d65e1f2c2c8198f5e1922939" />
@@ -848,10 +848,10 @@
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" groups="pdk-cw-fs,pdk-fs" revision="2946bfdc89713dc167b182e26bbd0faea069f190" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" groups="pdk-fs" revision="277f2db1a9099d5aaf96d4f3ca8daaeeeeef4e6f" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" revision="393dbe8741a67b1276aaef93a49eb953d0d89741" />
-  <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" groups="pdk-fs" revision="02f666e05296ac01e91535e5cf6841f18322f7b2" />
+  <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" groups="pdk-fs" revision="e4cfbe279dd82ed587a20ab599f3ae6f55c4fc1f" />
   <project path="packages/apps/QuickAccessWallet" name="platform/packages/apps/QuickAccessWallet" groups="pdk-fs" revision="29c920ec7b37983ef6c2f5ea47c52de0719bbb1c" />
   <!-- packages/apps/RemoteProvisioner didn't exist when this build was tagged -->
-  <project path="packages/apps/SafetyRegulatoryInfo" name="platform/packages/apps/SafetyRegulatoryInfo" groups="pdk-fs" revision="6dd60735ce53a9afbc39c3950fac75bd866dbf7a" />
+  <project path="packages/apps/SafetyRegulatoryInfo" name="platform/packages/apps/SafetyRegulatoryInfo" groups="pdk-fs" revision="c42a19dc13f4e6fd0a30b62c1a42841189520ff9" />
   <project path="packages/apps/SampleLocationAttribution" name="platform/packages/apps/SampleLocationAttribution" groups="pdk-fs" revision="c7952bab7ab6127649d0f4e2d9d67f4af014fb82" />
   <project path="packages/apps/SecureElement" name="platform/packages/apps/SecureElement" groups="apps_se,pdk-fs" revision="f555493d518af3f220bf7b170ed7fe9a4d26acc8" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" groups="pdk-fs" revision="87b3253e71e73a7398c7ab64ef3575d4608b7dfe" />
@@ -862,7 +862,7 @@
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" groups="pdk-fs" revision="56e5099a8c0f1221294d655fe9c8fa32eb0c4445" />
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" groups="pdk" revision="e047b1fc64673bf0f69998c9f29a7ed129e5a100" />
   <project path="packages/apps/TimeZoneData" name="platform/packages/apps/TimeZoneData" groups="pdk" revision="7d36d96066086206e39ab0f834fe7023ab92813d" />
-  <project path="packages/apps/TimeZoneUpdater" name="platform/packages/apps/TimeZoneUpdater" groups="pdk" revision="2b43180a0b5293c92debc32316e7fe6be7ce28b1" />
+  <project path="packages/apps/TimeZoneUpdater" name="platform/packages/apps/TimeZoneUpdater" groups="pdk" revision="d35f3ff06673ac8517e248dc3b87b5970445d240" />
   <project path="packages/apps/ThemePicker" name="platform/packages/apps/ThemePicker" groups="pdk-fs" revision="03ef2639116d2b42ea65ed80324a55a26658fe43" />
   <project path="packages/apps/Traceur" name="platform/packages/apps/Traceur" groups="pdk-fs" revision="1d99d3dac895967cae2256978213ec49952057e0" />
   <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" groups="pdk-fs" revision="326499c5288a45cd4d9c5fc72141e4d0e5a348a3" />
