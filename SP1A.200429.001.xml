@@ -857,7 +857,7 @@
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" groups="pdk-fs" revision="87b3253e71e73a7398c7ab64ef3575d4608b7dfe" />
   <project path="packages/apps/SettingsIntelligence" name="platform/packages/apps/SettingsIntelligence" groups="pdk-fs" revision="f1bfcf0c3a34b6d8ce2ee79f4e3bebd83911ca14" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" groups="pdk-fs" revision="f3d46ceeecd71c5555939f32643c18c78ae7909f" />
-  <project path="packages/apps/Stk" name="platform/packages/apps/Stk" groups="apps_stk,pdk-fs" revision="f1b918b975d4510ff224b10feabcbbfe62afe6fe" />
+  <project path="packages/apps/Stk" name="platform/packages/apps/Stk" groups="apps_stk,pdk-fs" revision="31dad572a33c7adeeee1728f5b90a872a9ee1609" />
   <project path="packages/apps/StorageManager" name="platform/packages/apps/StorageManager" groups="pdk-fs" revision="5e3c630f82e8208677425ba39b3ca771528e7ff7" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" groups="pdk-fs" revision="56e5099a8c0f1221294d655fe9c8fa32eb0c4445" />
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" groups="pdk" revision="e047b1fc64673bf0f69998c9f29a7ed129e5a100" />
