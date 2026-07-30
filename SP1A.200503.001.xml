@@ -889,7 +889,7 @@
   <project path="packages/modules/Cronet" name="platform/packages/modules/Cronet" groups="pdk-cw-fs,pdk-fs" revision="37cad9335ec9796567190dba729b81c3856cbfcc" />
   <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="0927908300be37222407951621c5bb5ed312a52e" />
   <!-- <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" /> -->
-  <project path="packages/modules/Gki" name="platform/packages/modules/Gki" groups="pdk-cw-fs,pdk-fs" />
+  <!-- <project path="packages/modules/Gki" name="platform/packages/modules/Gki" groups="pdk-cw-fs,pdk-fs" /> -->
   <!-- <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="327f7d01ce48635143c88281fe56723b1107649c" /> -->
   <project path="packages/modules/DnsResolver" name="platform/packages/modules/DnsResolver" groups="pdk-cw-fs,pdk-fs" revision="2891ebf289b48f58dde9ee3c1d2ca8fb84588d53" />
   <project path="packages/modules/ModuleMetadata" name="platform/packages/modules/ModuleMetadata" groups="pdk" revision="bf198f3182e53f3d1dc9d061f558656e59f5d4c8" />
