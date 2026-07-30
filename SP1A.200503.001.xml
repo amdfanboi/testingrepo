@@ -304,7 +304,7 @@
   <project path="external/libhevc" name="platform/external/libhevc" groups="pdk" revision="4bf9e00b94b8288e71c07f37b101dbc17bb4b3d6" />
   <project path="external/libiio" name="platform/external/libiio" groups="pdk" revision="bc0317c9d3220a6c22881761d73d5a1b11e2a9a0" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" groups="pdk" revision="e8727c3a70ee138954c2563576a074e291db3f21" />
-  <project path="external/libkmsxx" name="platform/external/libkmsxx" groups="pdk" revision="e010cfd1b180befa6b5c81c65e53957b55ae607e' />
+  <project path="external/libkmsxx" name="platform/external/libkmsxx" groups="pdk" revision="e010cfd1b180befa6b5c81c65e53957b55ae607e" />
   <project path="external/libldac" name="platform/external/libldac" groups="pdk" revision="bede9f5a38f6e4f0d683abc912c943a511f04d19" />
   <project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" revision="4524ced3a0e1f7b8aab171fdb1dd066ca8e83e55" />
   <project path="external/libnetfilter_conntrack" name="platform/external/libnetfilter_conntrack" groups="pdk" revision="ce57e2ed09d1fbd86be75ee215650838aa244015" />
