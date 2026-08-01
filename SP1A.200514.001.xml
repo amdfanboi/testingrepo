@@ -993,7 +993,7 @@
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux,pdk,pdk-cw-fs,pdk-fs" clone-depth="1" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" groups="pdk" clone-depth="1" revision="e723d939f1d28567ec8d96b6cba6b93a91ecf218" />
   <project path="prebuilts/remoteexecution-client" name="platform/prebuilts/remoteexecution-client" groups="pdk" clone-depth="1" revision="f493228af69da6d97b16f059c7665caf0333ae1e" />
-  <project path="prebuilts/runtime" name="platform/prebuilts/runtime" groups="pdk" clone-depth="1" revision="cf7dd84c38e501f051a8280916fb27e3ab7dbf25 />
+  <project path="prebuilts/runtime" name="platform/prebuilts/runtime" groups="pdk" clone-depth="1" revision="cf7dd84c38e501f051a8280916fb27e3ab7dbf25" />
   <project path="prebuilts/rust" name="platform/prebuilts/rust" groups="pdk" clone-depth="1" revision="b22500d1f561fd7f88a390e6feb696a69219e46c" />
   <project path="prebuilts/r8" name="platform/prebuilts/r8" groups="pdk" clone-depth="1" revision="e62c8927db51cd36505c27a66aea6d58782c9a37" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" clone-depth="1" revision="597fe35210ba6bece3ecfdcb3a06db26b6aa670d" />
@@ -1056,7 +1056,7 @@
   <project path="system/vold" name="platform/system/vold" groups="pdk" revision="ed7493075ae8b5ad2073c72f2a8354634eb7ce99" />
   <project path="test/framework" name="platform/test/framework" groups="vts,projectarch,pdk" revision="413688b93cccbf71fe4bfd36fb85d3537727d485" />
   <project path="test/mlts/benchmark" name="platform/test/mlts/benchmark" groups="pdk" revision="912fb02aadc12077f5d7a9b1a5cb88f35c30faa3" />
-  <project path="test/mlts/models" name="platform/test/mlts/models" groups="pdk" revision="a92852efb52754926c69e9cdbe651de935f55349 />
+  <project path="test/mlts/models" name="platform/test/mlts/models" groups="pdk" revision="a92852efb52754926c69e9cdbe651de935f55349" />
   <project path="test/app_compat/csuite" name="platform/test/app_compat/csuite" revision="9be428f223a392b91b9d5909a20a6ca04b43eea8" />
   <!-- test/cts-root didn't exist when this build was tagged -->
   <project path="test/mts" name="platform/test/mts" revision="3175228b68532c082c3aa4c9f08af46bfe4ba0e4" />
@@ -1099,13 +1099,13 @@
   <project path="tools/metalava" name="platform/tools/metalava" groups="pdk,tools" revision="d66a3a8532df0db670aa087c7d89d23731cd6dcb" />
   <!-- RTM -->
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
-  <project path="tools/platform-compat" name="tools/platform-compat" groups="pdk-cw-fs,pdk-fs,pdk" revision="41d8e53a7d020ffe61e21d52be5cd2336165578d />
+  <project path="tools/platform-compat" name="tools/platform-compat" groups="pdk-cw-fs,pdk-fs,pdk" revision="41d8e53a7d020ffe61e21d52be5cd2336165578d" />
   <project path="tools/ndkports" name="platform/tools/ndkports" groups="pdk" revision="07b1972462a5cb65c7494d96c66f9e67745502bc" />
   <project path="tools/repohooks" name="platform/tools/repohooks"  groups="adt-infra,cts,developers,motodev,pdk,tools,tradefed" revision="dbc4ec0cb2aeef384e64c7c4905bb3ac9c52631a" />
   <project path="tools/security" name="platform/tools/security" groups="pdk,tools" revision="ca2b4f5506b1160791f6ac4046496b982e0f7bee" />
   <!-- RTM -->
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
-  <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" revision="8996e71047a2bd11efee46ef14e02435ab5fa07a />
+  <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" revision="8996e71047a2bd11efee46ef14e02435ab5fa07a" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" revision="eecf621a0db1c4a129213887433054f1f9adf45a" />
   <project path="tools/test/graphicsbenchmark" name="platform/tools/test/graphicsbenchmark" groups="pdk" revision="b43fd87caed56804990149cefffdfa1f51f42d11" />
   <!-- tools/test/openhst didn't exist when this build was tagged -->
