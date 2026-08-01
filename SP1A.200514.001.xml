@@ -281,7 +281,7 @@
   <project path="external/kotlinx.coroutines" name="platform/external/kotlinx.coroutines" groups="pdk" revision="24d313b1b6eca12993760b4ca8a37f1477ac22fd" />
   <!-- external/kotlinx.metadata didn't exist when this build was tagged -->
   <project path="external/ksoap2" name="platform/external/ksoap2" groups="pdk" revision="abc3eb253f21e29ddc8567afc841f45674d39382" />
-  <project path="external/libabigail" name="platform/external/libabigail" groups="pdk" revision="66e5e36469b337f915bdfde04c652e2d624bb8c3 />
+  <project path="external/libabigail" name="platform/external/libabigail" groups="pdk" revision="66e5e36469b337f915bdfde04c652e2d624bb8c3" />
   <project path="external/libaom" name="platform/external/libaom" groups="pdk" revision="a1f11345f896e47aad0c411964676cd756d399d5" />
   <project path="external/libavc" name="platform/external/libavc" groups="pdk" revision="c8e9a410532d5b0cc896b1f59d846d0b14432629" />
   <project path="external/libbackup" name="platform/external/libbackup" groups="pdk" revision="a73ff03ec963dbc438cd2b5571037a4c179ca1c3" />
