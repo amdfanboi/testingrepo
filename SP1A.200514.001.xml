@@ -1124,7 +1124,7 @@
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="87c1ae2c36104f6e07a9e4f61709e1a464bf173e" />
   <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="ff1795d14cf612fbcf01513e64ed104888a6bfac" />
-  <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="870e0d33debd07b2d0b0fa8b206ed9357e270cfe" />
+  <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="709860b9b8e73679a184a26d15e40154813b63b6" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
