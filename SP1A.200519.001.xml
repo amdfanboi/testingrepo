@@ -145,7 +145,7 @@
   <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" clone-depth="1" revision="c151f62092c62803c2fde41c393a488d8762852e" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" revision="7c98027d790b9c70d5429e6b04d4548f546499aa" />
   <project path="external/cldr" name="platform/external/cldr" groups="pdk" revision="85d46be60c7480ea6fbaa6857e06801718dbd497" />
-  <project path="external/cn-cbor" name="platform/external/cn-cbor" groups="pdk" revision="3174e42cbb682b03577cc4ebc01ab761005146c4 />
+  <project path="external/cn-cbor" name="platform/external/cn-cbor" groups="pdk" revision="3174e42cbb682b03577cc4ebc01ab761005146c4" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" revision="095e4c84678ad7cdc924aa2eeb3c3b553d127bd1" />
   <!-- external/connectedappssdk didn't exist when this build was tagged -->
   <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk" revision="8bbf19bde8868478c71ffe0c5ced6dbe764c5c41" />
@@ -300,7 +300,7 @@
   <project path="external/libese" name="platform/external/libese" groups="pdk" revision="918ade158d50d9a6e1be0800dd8bf0747e58c466" />
   <project path="external/libevent" name="platform/external/libevent" groups="pdk" revision="f96aa1f8e932a4b7c0252828577f1cc0325f9691" />
   <project path="external/libexif" name="platform/external/libexif" groups="pdk" revision="76cb7ac6f47056fdac8b30e564a9e26af0768e0f" />
-  <project path="external/libffi" name="platform/external/libffi" groups="pdk" revision="802924af89946cebc8d90c0f4f829676cb925391 />
+  <project path="external/libffi" name="platform/external/libffi" groups="pdk" revision="802924af89946cebc8d90c0f4f829676cb925391" />
   <project path="external/libgav1" name="platform/external/libgav1" groups="pdk" revision="6cc0b3c61cf8ede2c63923ab84c6eecd6363ac82" />
   <project path="external/libfuse" name="platform/external/libfuse" groups="pdk" revision="0faa8e4397752a46ce2e5b65bf3d016e47430acd" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" revision="2e0de1b9a3a1f008daf0e83d7b13a6fcbf3bad83" />
