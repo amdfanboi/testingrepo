@@ -1120,7 +1120,6 @@
   <project path="external/rust/crates/paste-impl" name="platform/external/rust/crates/paste-impl" groups="pdk" revision="0f5729924099e9e6df1b89bcfa892b90fcefac7f" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" revision="306a907bb6e1eb164b6598e32adbb0ce05427916" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="196188dee0b1c40318b8b73d44c69567712736a3" />
-  <!-- <project path="frameworks/opt/net/ike" name="platform/frameworks/opt/net/ike" groups="pdk" revision="c1ed950ddad2bd565c4bb2e3109c2240959d1852" /> -->
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="87c1ae2c36104f6e07a9e4f61709e1a464bf173e" />
   <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="75c1823a6af394f16376615b88f935f547ef598d" />
