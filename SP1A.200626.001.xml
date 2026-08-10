@@ -1129,7 +1129,7 @@
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="cee975a2c52245a9c665d787d45f60399163529c" />
   <project path="external/rust/crates/paste-impl" name="platform/external/rust/crates/paste-impl" groups="pdk" revision="87d753e44e655e276a370a6d79cc78a290fc26c0" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" revision="1b63e1fd1cda57c7f46fdffe6b89f81a9467e1e4" />
-  <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="4fc2f3e002a4dff56b9b202f6a18d6fcb722375f" />
+  <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="c637d993570cbc22e8c72894c02f8172243a2afe" />
   <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="ab269f0e7b45fb14e5d5336b6e86b0497eb355b6" />
   <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="75c1823a6af394f16376615b88f935f547ef598d" />
