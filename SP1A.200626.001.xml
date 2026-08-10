@@ -278,8 +278,8 @@
   <project path="external/kernel-headers" name="platform/external/kernel-headers" groups="pdk" revision="505a87d71dc59b87709c303406d9a49ee8355080" />
   <project path="external/kmod" name="platform/external/kmod" groups="pdk" revision="6ca5c934b88a1f2cab5633148517b707aa4b9a50" />
   <project path="external/kotlinc" name="platform/external/kotlinc" groups="pdk" revision="e1ddfcd446c6d9ce1e3cc305695ca4dc49189e27" />
-  <project path="external/kotlinx.atomicfu" name="platform/external/kotlinx.atomicfu" groups="pdk" revision="0004c5a12ef62258178d57e15571541ac4a5d1fa" />
-  <project path="external/kotlinx.coroutines" name="platform/external/kotlinx.coroutines" groups="pdk" revision="905a53f19b7b68fa9415554d55cb20772aa2edb9" />
+  <project path="external/kotlinx.atomicfu" name="platform/external/kotlinx.atomicfu" groups="pdk" revision="b241c0570ad3bb38e3f6d044fa95e4ec9af63535" />
+  <project path="external/kotlinx.coroutines" name="platform/external/kotlinx.coroutines" groups="pdk" revision="c149b7d25dcb7019bdc8f263b4f1c146672f0264" />
   <!-- <project path="external/kotlinx.metadata" name="platform/external/kotlinx.metadata" groups="pdk" /> -->
   <project path="external/ksoap2" name="platform/external/ksoap2" groups="pdk" revision="abc3eb253f21e29ddc8567afc841f45674d39382" />
   <project path="external/libabigail" name="platform/external/libabigail" groups="pdk" revision="df47240f7df78cc22c19d845d85b5c26d2510cc1" />
