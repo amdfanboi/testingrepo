@@ -1124,7 +1124,7 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="b735f448e61c99f4c06101902ff76eee4e5496f1" />
 
   <!-- these repos are backported from a11 / master branch as they no longer exist in a12 -->
-  <!-- <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" revision="f7f03bdc10d1c8aa2787c478ecdda92f2b7df008" /> -->
+  <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" revision="925d461dab2366512c9cbdef80cff0eaa6796438" />
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="97c4e7faf3e3c1a865d7f238e1ded9acda3e03a0" />
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="cee975a2c52245a9c665d787d45f60399163529c" />
   <project path="external/rust/crates/paste-impl" name="platform/external/rust/crates/paste-impl" groups="pdk" revision="87d753e44e655e276a370a6d79cc78a290fc26c0" />
