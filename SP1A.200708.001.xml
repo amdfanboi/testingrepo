@@ -1062,7 +1062,7 @@
   <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" revision="1250850c4907471e3b73817c6fb53de763845bf3" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" revision="a1625d9060da7b3f869643bcc1e5a34633349fcd" />
   <project path="test/framework" name="platform/test/framework" groups="vts,projectarch,pdk" revision="413688b93cccbf71fe4bfd36fb85d3537727d485" />
-  <project path="test/mlts/benchmark" name="platform/test/mlts/benchmark" groups="pdk" revision="7aed80b80b33cebb17603a234eb4a371a1edc5c7" />
+  <project path="test/mlts/benchmark" name="platform/test/mlts/benchmark" groups="pdk" revision="ddc2cfd0d4f4df1dd247f3e966211d67d7d595ea" />
   <project path="test/mlts/models" name="platform/test/mlts/models" groups="pdk" revision="fe8d41f0a66f1cc31d368d83ac90f6f73eda6363" />
   <project path="test/app_compat/csuite" name="platform/test/app_compat/csuite" revision="5eac5060ab98f9d25aec3f5b69a3956aebc3eb8f" />
   <!-- test/cts-root didn't exist when this build was tagged -->
