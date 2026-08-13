@@ -1000,7 +1000,7 @@
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux,pdk,pdk-cw-fs,pdk-fs" clone-depth="1" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" groups="pdk" clone-depth="1" revision="9fd30687960f89e5d2284c112f679aa60c2ba213" />
   <project path="prebuilts/remoteexecution-client" name="platform/prebuilts/remoteexecution-client" groups="pdk" clone-depth="1" revision="5c800b98ed56de4bded58915b94dcccd4bf96d29" />
-  <project path="prebuilts/runtime" name="platform/prebuilts/runtime" groups="pdk" clone-depth="1" revision="66fd80802f02ad8eba6aa4e375823d190adab5ff" />
+  <project path="prebuilts/runtime" name="platform/prebuilts/runtime" groups="pdk" clone-depth="1" revision="cf7dd84c38e501f051a8280916fb27e3ab7dbf25" />
   <project path="prebuilts/rust" name="platform/prebuilts/rust" groups="pdk" clone-depth="1" revision="e13297e5ee5b3daeac75e5ea19cd4fcd1620df54" />
   <project path="prebuilts/r8" name="platform/prebuilts/r8" groups="pdk" clone-depth="1" revision="e137842062d69ee136d1dcc39967eac80e55487a" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" clone-depth="1" revision="b88d9facb44ff5bfe1c05c160b2d5192c702ed0b" />
