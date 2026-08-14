@@ -425,7 +425,7 @@
   <project path="external/python/pyopenssl" name="platform/external/python/pyopenssl" groups="pdk" revision="a073c3f1586ce5ee07f8e24c7db391ec53f2338a" />
   <project path="external/python/rsa" name="platform/external/python/rsa" groups="vts,pdk" revision="a8d340a3894f5e290aac878e7742fb6783202a1c" />
   <project path="external/python/setuptools" name="platform/external/python/setuptools" groups="vts,pdk" revision="94ae21f839e18401e3b4762d59a834bfd5ef2875" />
-  <project path="external/python/six" name="platform/external/python/six" groups="vts,pdk" revision="b9119f69fd967e3556ae18ad662bab9617fdd0be' />
+  <project path="external/python/six" name="platform/external/python/six" groups="vts,pdk" revision="b9119f69fd967e3556ae18ad662bab9617fdd0be" />
   <project path="external/python/uritemplates" name="platform/external/python/uritemplates" groups="vts,pdk" revision="0063b9ae9dd33c889a327916211393f0e16911ea" />
   <project path="external/rappor" name="platform/external/rappor" groups="pdk" revision="a31e7f5075e98ecfbb0187cd65eaf04c821bda13" />
   <project path="external/replicaisland" name="platform/external/replicaisland" groups="pdk" revision="6c63710d850bc7b5832020a3b75960337641730e" />
@@ -536,7 +536,7 @@
   <project path="external/rust/crates/pin-project" name="platform/external/rust/crates/pin-project" groups="pdk" revision="16621e7947d274fc9e46e7f61b5bb7a9ff29d3e2" />
   <project path="external/rust/crates/pin-project-internal" name="platform/external/rust/crates/pin-project-internal" groups="pdk" revision="c9803ddad236fb470cf60385236cbfbe9c8700ca" />
   <!-- external/rust/crates/pin-project-lite didn't exist when this build was tagged -->
-  <project path="external/rust/crates/pin-utils" name="platform/external/rust/crates/pin-utils" groups="pdk" revision='0a272b33721554eebc87bd4542d703ad74a0cf86" />
+  <project path="external/rust/crates/pin-utils" name="platform/external/rust/crates/pin-utils" groups="pdk" revision="0a272b33721554eebc87bd4542d703ad74a0cf86" />
   <!-- external/rust/crates/plotters didn't exist when this build was tagged -->
   <!-- external/rust/crates/plotters-backend didn't exist when this build was tagged -->
   <!-- external/rust/crates/plotters-svg didn't exist when this build was tagged -->
@@ -1079,7 +1079,7 @@
   <project path="test/vts-testcase/hal" name="platform/test/vts-testcase/hal" groups="vts,pdk" revision="1a5ebfa52a8e3e5802f94b353ce07c5d6f4d60c6" />
   <!-- RTM -->
   <project path="test/vts-testcase/hal-trace" name="platform/test/vts-testcase/hal-trace" groups="vts,pdk" />
-  <project path="test/vts-testcase/kernel" name="platform/test/vts-testcase/kernel" groups="vts,pdk" revision="0d5bfa0528c7cd249330413fe49b13e02b0d6d07 />
+  <project path="test/vts-testcase/kernel" name="platform/test/vts-testcase/kernel" groups="vts,pdk" revision="0d5bfa0528c7cd249330413fe49b13e02b0d6d07" />
   <project path="test/vts-testcase/nbu" name="platform/test/vts-testcase/nbu" groups="vts,projectarch,pdk" revision="0712e2a442364af77a0b1dda0adf922d1d1447bc" />
   <project path="test/vts-testcase/performance" name="platform/test/vts-testcase/performance" groups="vts,projectarch,pdk" revision="f0e5dcee43de6f9c44a3872721087d96eaa48273" />
   <project path="test/vts-testcase/security" name="platform/test/vts-testcase/security" groups="vts,projectarch,pdk" revision="f4cb91e0efd1cacff7db0a4d8cd3ae63f696daa3" />
