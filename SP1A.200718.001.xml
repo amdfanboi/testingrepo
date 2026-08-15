@@ -910,7 +910,7 @@
   <project path="packages/modules/NetworkPermissionConfig" name="platform/packages/modules/NetworkPermissionConfig" groups="pdk-cw-fs,pdk-fs" revision="44a298cb04c44959ea24f4ee107791c031c3e774" />
   <project path="packages/modules/NetworkStack" name="platform/packages/modules/NetworkStack" groups="pdk-cw-fs,pdk-fs" revision="ccfb2495757473b2fd2aab6b2db448461c382b42" />
   <!-- <project path="packages/modules/NeuralNetworks" name="platform/packages/modules/NeuralNetworks" groups="pdk-cw-fs,pdk-fs" revision="710d6b76be8099f34f67ffb932d522db27c45835" /> -->
-  <project path="packages/modules/Permission" name="platform/packages/modules/Permission" groups="pdk-cw-fs,pdk-fs" revision="ec8a7fcf339fd33cc9724326749f003bbdaf5ae9" />
+  <project path="packages/modules/Permission" name="platform/packages/modules/Permission" groups="pdk-cw-fs,pdk-fs" revision="76ab34b4084e2122ecf12ebc2a6d1e0c3b285bde" />
   <project path="packages/modules/RuntimeI18n" name="platform/packages/modules/RuntimeI18n" groups="pdk-cw-fs,pdk-fs" revision="c698ad4c83561a4de016cb69b9c967feb9d127ac" />
   <!-- packages/modules/Scheduling didn't exist when this build was tagged -->
   <project path="packages/modules/SdkExtensions" name="platform/packages/modules/SdkExtensions" groups="pdk-cw-fs,pdk-fs" revision="e7d2e23d9a6ebdfd3dcd53033f2693efd31bccd2" />
