@@ -213,7 +213,7 @@
   <project path="external/google-benchmark" name="platform/external/google-benchmark" groups="pdk" revision="bf696b32da4685850c266fffce321cdb40026f78" />
   <project path="external/google-breakpad" name="platform/external/google-breakpad" groups="pdk-fs" revision="e9e9c922846c7b482e60231821a917c59cafd61c" />
   <project path="external/google-fonts/arbutus-slab" name="platform/external/google-fonts/arbutus-slab" groups="pdk" revision="a4b8b0364783177eac5ea4c8ca938878fd32d5de" />
-  <project path="external/google-fonts/barlow" name="platform/external/google-fonts/barlow" groups="pdk" revision="5b9435d58cf063c5172fd789df241459709f74a9' />
+  <project path="external/google-fonts/barlow" name="platform/external/google-fonts/barlow" groups="pdk" revision="5b9435d58cf063c5172fd789df241459709f74a9" />
   <project path="external/google-fonts/karla" name="platform/external/google-fonts/karla" groups="pdk" revision="1b33e507eb12288ef319b09d6fa9b93d3115d1c8" />
   <project path="external/google-fonts/lustria" name="platform/external/google-fonts/lustria" groups="pdk" revision="979ef688f8f1572b50819010f00ae66df4c61be7" />
   <project path="external/google-fonts/fraunces" name="platform/external/google-fonts/fraunces" groups="pdk" revision="317ef1b8ce5e936a9993e6fd6252798c842666a2" />
