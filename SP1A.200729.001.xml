@@ -1046,7 +1046,7 @@
   <project path="system/memory/libmemunreachable" name="platform/system/memory/libmemunreachable" groups="pdk" revision="ed95be74162da4c19b661be38e5265a09680e875" />
   <project path="system/memory/lmkd" name="platform/system/memory/lmkd" groups="pdk" revision="205d6448f615a46583a7764e7b9009086780d9db" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="0719bfa03da5b07063eeb3ad46cfb5b92de3ce06" />
-  <project path="system/nfc" name="platform/system/nfc" groups="pdk" revision="f18ae8a0f417765d3e1e6b5448b7c67fdb541028 />
+  <project path="system/nfc" name="platform/system/nfc" groups="pdk" revision="f18ae8a0f417765d3e1e6b5448b7c67fdb541028" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" revision="559fb5ba33c4288d79545c7abdd6d7368c0a1ce0" />
   <project path="system/security" name="platform/system/security" groups="pdk" revision="69a54f9483291253eb47552c734d1668428812eb" />
   <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" revision="b76495b52018604d1daa9a2db2b1cdf6cae2eda7" />
