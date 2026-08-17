@@ -150,8 +150,8 @@
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" revision="26aa14d251a9776df517007e7e7da2afe04115dd" />
   <!-- external/connectedappssdk didn't exist when this build was tagged -->
   <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk" revision="4d945d7665ebb741dae4d6abc1be86a1bdc7f39f" />
-  <project path="external/cpu_features" name="platform/external/cpu_features" groups="pdk" revision="b4093ec59822dfa76092893dfd535dbcc3434e5c" />
-  <project path="external/cpuinfo" name="platform/external/cpuinfo" groups="pdk" revision="ff0f70f1285eea65912dda3fd0b97ba01df67283" />
+  <project path="external/cpu_features" name="platform/external/cpu_features" groups="pdk" revision="ff0f70f1285eea65912dda3fd0b97ba01df67283" />
+  <project path="external/cpuinfo" name="platform/external/cpuinfo" groups="pdk" revision="b4093ec59822dfa76092893dfd535dbcc3434e5c" />
   <project path="external/crcalc" name="platform/external/crcalc" groups="pdk" revision="7c84434e1f72a8a47daebf3835ce03230b793047" />
   <!-- RTM -->
   <project path="external/cros/system_api" name="platform/external/cros/system_api" groups="pdk" />
@@ -561,7 +561,7 @@
   <project path="external/rust/crates/regex-syntax" name="platform/external/rust/crates/regex-syntax" groups="pdk" revision="cce83d2ff93815f7cc78c5caab492730f87fe67c" />
   <project path="external/rust/crates/remain" name="platform/external/rust/crates/remain" groups="pdk" revision="f02d4c2631259da84765196a2379e86b3396ab56" />
   <!-- external/rust/crates/ring didn't exist when this build was tagged -->
-  <project path="external/rust/crates/rusqlite" name="platform/external/rust/crates/rusqlite" groups="pdk" revision="22020f0cc8c5a0cc32eb99a5e4c415c61e3cb14d" />
+  <!-- <project path="external/rust/crates/rusqlite" name="platform/external/rust/crates/rusqlite" groups="pdk" revision="22020f0cc8c5a0cc32eb99a5e4c415c61e3cb14d" /> -->
   <project path="external/rust/crates/rustc-hash" name="platform/external/rust/crates/rustc-hash" groups="pdk" revision="d1439f576919f88e564913ad51ada606825c886c" />
   <!-- external/rust/crates/rustversion didn't exist when this build was tagged -->
   <!-- external/rust/crates/ryu didn't exist when this build was tagged -->
@@ -669,7 +669,7 @@
   <project path="external/wayland" name="platform/external/wayland" groups="pdk" revision="2e91e22129ceb3f5402a79906765a679a7998a43" />
   <project path="external/wayland-protocols" name="platform/external/wayland-protocols" groups="pdk" revision="ba0cc0a4579edea79eb2e568bddeaa921a8f9583" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="4e2402524d22c6c5f1eeb3b4fa69696712743463" />
-  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="e60e8c3001483bd83d124992603a676534a26e0b" />
+  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="70dc8e547c2ddd9d0a912e7021f9e041a65c1c1e" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="984a022f9232b9cb229104ce6924bd6cca232f69" />
   <project path="external/wycheproof" name="platform/external/wycheproof" groups="pdk" revision="74e5640815a2e82e24166a5ef7be3dafb30d51ae" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk" revision="caf0a819bf2b1f8b94dd83bb50e16d5bfe657cac" />
@@ -903,7 +903,7 @@
   <!-- <project path="packages/modules/Connectivity" name="platform/packages/modules/Connectivity" groups="pdk-cw-fs,pdk-fs" revision="811fee2a2ac4fe33477bcd063c9ac995b96453dd" /> -->
   <project path="packages/modules/Cronet" name="platform/packages/modules/Cronet" groups="pdk-cw-fs,pdk-fs" revision="20c9263a19ab7891a9e022ff04e9efd48255944e" />
   <project path="packages/modules/ExtServices" name="platform/packages/modules/ExtServices" groups="pdk-cw-fs,pdk-fs" revision="b9e2fe21f0614949d61b214543a610efa26d1e11" />
-  <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" revision="1068776fe1cd1213441d61d044d0d83dc0721291" />
+  <!-- <project path="packages/modules/GeoTZ" name="platform/packages/modules/GeoTZ" groups="pdk-cw-fs,pdk-fs" revision="1068776fe1cd1213441d61d044d0d83dc0721291" /> -->
   <!-- packages/modules/Gki didn't exist when this build was tagged -->
   <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="96a1c95b464cc94b0ecd89bff5f6ddf80297ada5" />
   <project path="packages/modules/DnsResolver" name="platform/packages/modules/DnsResolver" groups="pdk-cw-fs,pdk-fs" revision="0459aa3e35f0a029f63a53b40d8b3974523e7212" />
@@ -1129,7 +1129,6 @@
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="97c4e7faf3e3c1a865d7f238e1ded9acda3e03a0" />
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="cee975a2c52245a9c665d787d45f60399163529c" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="5bac510e8d2859d8835a64d7816230704f66d9f0" />
-  <project path="prebuilts/vndk/v27" name="platform/prebuilts/vndk/v27" groups="pdk" clone-depth="1" revision="b9ced6ce55c4aaac9381f6b087039a169b232d95" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="6c0f4a91ac7eab11a4736b02c079e8138f970a38" />
   <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="1836cad8a18efbe8c1df81785b9306d9edcbf19c" />
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="89a48cbd1fd24590bd56369a3f9fb10069db2fd5" />
