@@ -414,7 +414,7 @@
   <project path="external/python/ipaddress" name="platform/external/python/ipaddress" groups="pdk" revision="dccb3f921fab77f98fd063e890221e1920434ebd" />
   <project path="external/python/jinja" name="platform/external/python/jinja" groups="pdk" revision="3121357a0d62a6fe8c9fdcbfe5fd91f12b8f380d" />
   <project path="external/python/markupsafe" name="platform/external/python/markupsafe" groups="pdk" revision="122f69384488f031b9b781018e092c8560aa4cb9" />
-  <project path="external/python/mock" name="platform/external/python/mock" groups="pdk" revision="74341eb772747761f54c1e4441f2b815521937a7' />
+  <project path="external/python/mock" name="platform/external/python/mock" groups="pdk" revision="74341eb772747761f54c1e4441f2b815521937a7" />
   <project path="external/python/oauth2client" name="platform/external/python/oauth2client" groups="vts,pdk" revision="20554b06d02c04132c2cfb63f85157cd362fca2f" />
   <project path="external/python/parse_type" name="platform/external/python/parse_type" groups="vts,pdk" revision="8ca597571bee374bbbb2dff66febd0da282a6e58" />
   <project path="external/python/pyasn1" name="platform/external/python/pyasn1" groups="vts,pdk" revision="36a2602a8533089a1ee92889a013c045a476d060" />
