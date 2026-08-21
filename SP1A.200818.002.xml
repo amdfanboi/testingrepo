@@ -561,7 +561,7 @@
   <project path="external/rust/crates/regex-syntax" name="platform/external/rust/crates/regex-syntax" groups="pdk" revision="cce83d2ff93815f7cc78c5caab492730f87fe67c" />
   <project path="external/rust/crates/remain" name="platform/external/rust/crates/remain" groups="pdk" revision="f02d4c2631259da84765196a2379e86b3396ab56" />
   <!-- external/rust/crates/ring didn't exist when this build was tagged -->
-  <project path="external/rust/crates/rusqlite" name="platform/external/rust/crates/rusqlite" groups="pdk" revision="2a62eff82f93c7ee57020bb8189134248474d71f" />
+  <!-- <project path="external/rust/crates/rusqlite" name="platform/external/rust/crates/rusqlite" groups="pdk" revision="2a62eff82f93c7ee57020bb8189134248474d71f" /> -->
   <project path="external/rust/crates/rustc-hash" name="platform/external/rust/crates/rustc-hash" groups="pdk" revision="d1439f576919f88e564913ad51ada606825c886c" />
   <!-- external/rust/crates/rustversion didn't exist when this build was tagged -->
   <!-- external/rust/crates/ryu didn't exist when this build was tagged -->
@@ -669,7 +669,7 @@
   <project path="external/wayland" name="platform/external/wayland" groups="pdk" revision="202d73bf37dd47939c481cc98e6148e7ba3f071c" />
   <project path="external/wayland-protocols" name="platform/external/wayland-protocols" groups="pdk" revision="54796fcd9c99b156615f3532fe7d6e57c897ac54" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="4e2402524d22c6c5f1eeb3b4fa69696712743463" />
-  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="e60e8c3001483bd83d124992603a676534a26e0b" />
+  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="70dc8e547c2ddd9d0a912e7021f9e041a65c1c1e" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="4d4970e22fc22e4fed0c4477cf4c490a25b737d5" />
   <project path="external/wycheproof" name="platform/external/wycheproof" groups="pdk" revision="74e5640815a2e82e24166a5ef7be3dafb30d51ae" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk" revision="caf0a819bf2b1f8b94dd83bb50e16d5bfe657cac" />
