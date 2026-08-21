@@ -561,7 +561,7 @@
   <project path="external/rust/crates/regex-syntax" name="platform/external/rust/crates/regex-syntax" groups="pdk" revision="cce83d2ff93815f7cc78c5caab492730f87fe67c" />
   <project path="external/rust/crates/remain" name="platform/external/rust/crates/remain" groups="pdk" revision="f02d4c2631259da84765196a2379e86b3396ab56" />
   <!-- external/rust/crates/ring didn't exist when this build was tagged -->
-  <!-- <project path="external/rust/crates/rusqlite" name="platform/external/rust/crates/rusqlite" groups="pdk" revision="2a62eff82f93c7ee57020bb8189134248474d71f" /> -->
+  <project path="external/rust/crates/rusqlite" name="platform/external/rust/crates/rusqlite" groups="pdk" revision="2a62eff82f93c7ee57020bb8189134248474d71f" />
   <project path="external/rust/crates/rustc-hash" name="platform/external/rust/crates/rustc-hash" groups="pdk" revision="d1439f576919f88e564913ad51ada606825c886c" />
   <!-- external/rust/crates/rustversion didn't exist when this build was tagged -->
   <!-- external/rust/crates/ryu didn't exist when this build was tagged -->
@@ -1128,6 +1128,7 @@
   <!-- these repos are backported from a11 / master branch as they no longer exist in a12 -->
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="97c4e7faf3e3c1a865d7f238e1ded9acda3e03a0" />
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="cee975a2c52245a9c665d787d45f60399163529c" />
+  <project path="external/rust/crates/time" name="platform/external/rust/crates/time" groups="pdk" revision="c4c827c9b74031bbaafaedbcc237c75043154703" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="693f2b905cfd587d390fac12abf234fafb973ef8" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="6c0f4a91ac7eab11a4736b02c079e8138f970a38" />
   <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="1836cad8a18efbe8c1df81785b9306d9edcbf19c" />
