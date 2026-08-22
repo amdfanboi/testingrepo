@@ -66,7 +66,7 @@
   <!-- <project path="device/generic/vulkan-cereal" name="device/generic/vulkan-cereal" groups="pdk" revision="ea978cef5a41c292dd9bd0ce9bf08648e76ca030" /> -->
   <project path="device/google/atv" name="device/google/atv" groups="device,broadcom_pdk,generic_fs,pdk" revision="981f43239d02db82ee51c3a1adfd17a4dd35a2ce" />
   <project path="device/google/barbet" name="device/google/barbet" groups="device,barbet" revision="8bbe3226927205fa51cdcc53d896dea6258cbef8" />
-  <project path="device/google/barbet-kernel" name="device/google/barbet-kernel" groups="device,barbet" clone-depth="1" revision='291c9898bd506f503c9dd55d3f718b205acd2d9c" />
+  <project path="device/google/barbet-kernel" name="device/google/barbet-kernel" groups="device,barbet" clone-depth="1" revision="291c9898bd506f503c9dd55d3f718b205acd2d9c" />
   <project path="device/google/barbet-sepolicy" name="device/google/barbet-sepolicy" groups="device,barbet" revision="94b2aa08ee7a5bf440220b597e57a85b1c264b06" />
   <project path="device/google/bonito" name="device/google/bonito" groups="device,bonito" revision="a34dd4535814fb40d42901ffc00f909d01e5ec4c" />
   <project path="device/google/bonito-kernel" name="device/google/bonito-kernel" groups="device,bonito" clone-depth="1" revision="ce62edfbc421fd1e8cdfb65e0ee57b4f3121856d" />
