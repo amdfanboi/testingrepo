@@ -636,7 +636,7 @@
   <project path="external/stressapptest" name="platform/external/stressapptest" groups="pdk" revision="57fff8361d86aa613514cd52be6155d967adc4c7" />
   <project path="external/subsampling-scale-image-view" name="platform/external/subsampling-scale-image-view" groups="pdk" clone-depth="1" revision="3fa066ca840a2c90efebc74a0924d33f6962c599" />
   <project path="external/swiftshader" name="platform/external/swiftshader" groups="pdk" revision="b09c8ef9b9f4f80aa5fcbea1a293a069e74471c8" />
-  <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk" revision="b09c8ef9b9f4f80aa5fcbea1a293a069e74471c8" />
+  <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk" revision="5d65cdc58460fe23ae29ebc061065030a7701dff" />
   <project path="external/tcpdump" name="platform/external/tcpdump" groups="pdk" revision="67b9d1e1f8d1dcbcf62e7372be7551b555c087ba" />
   <project path="external/tensorflow" name="platform/external/tensorflow" groups="pdk" revision="bf4fb40550817f36bdf4181dcb2282a8c75368a8" />
   <project path="external/testng" name="platform/external/testng" groups="pdk" revision="f073a1ff45c557090790f170e98ec1b08028c9ad" />
