@@ -816,7 +816,7 @@
   <!-- <project path="kernel/prebuilts/common-modules/virtual-device/mainline/x86-64" name="kernel/prebuilts/common-modules/virtual-device/mainline/x86-64" groups="pdk" clone-depth="1" /> -->
   <project path="kernel/tests" name="kernel/tests" groups="vts,pdk" revision="3f9907329f8c9e569a678b1703d38fb9bc4c8ceb" />
   <project path="libcore" name="platform/libcore" groups="pdk" revision="10243b3f5eb6de7a110dc7a964b1bf3e65c48111" />
-  <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" revision="10243b3f5eb6de7a110dc7a964b1bf3e65c48111" />
+  <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" revision="1874dfe362339732fec69eef13d152134afd6dd7" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" revision="eb7d81285dff3844ed520cce917cb56d05138313" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs,pdk-fs" revision="7d98123241ae1329f7a61a4acce826de9bfb8056" />
   <project path="packages/apps/Browser2" name="platform/packages/apps/Browser2" groups="pdk-fs" revision="bede0907dce74e64a246d4b27aa5a26eb3da4f03" />
