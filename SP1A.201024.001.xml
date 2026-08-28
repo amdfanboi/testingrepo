@@ -897,7 +897,7 @@
   <project path="packages/apps/WallpaperPicker2" name="platform/packages/apps/WallpaperPicker2" groups="pdk-fs" revision="82d03ee2b5a3221eecc20d54b1a8f9ccaa6acd2c" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" groups="pdk-fs" revision="272b4f04f913e21f573f3670f72013a1ca4ff8c5" />
   <project path="packages/inputmethods/LeanbackIME" name="platform/packages/inputmethods/LeanbackIME" groups="pdk-fs" revision="deaefa947c9b742486cda70b3a3dc9b6f4e14baf" />
-  <project path="packages/modules/adb" name="platform/packages/modules/adb" groups="pdk" revision="24bd6954d49265a59c3bb333377fea642732e339" />
+  <project path="packages/modules/adb" name="platform/packages/modules/adb" groups="pdk" revision="95e0367ee54d51759f29123694405c9bfa361928" />
   <project path="packages/modules/ArtPrebuilt" name="platform/packages/modules/ArtPrebuilt" groups="pdk" clone-depth="1" revision="3b121364dfc66ebec2883049b4ad2ef2a9c7bdda" />
   <!-- packages/modules/BootPrebuilt/5.4/arm64 didn't exist when this build was tagged -->
   <!-- packages/modules/BootPrebuilt/5.10/arm64 didn't exist when this build was tagged -->
