@@ -1136,6 +1136,8 @@
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="cee975a2c52245a9c665d787d45f60399163529c" />
   <project path="external/rust/crates/time" name="platform/external/rust/crates/time" groups="pdk" revision="3f33d8ee47982a2b5b94571a0c312bef008036fe" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="99ce2e3a0941baad1262243316f64fa4c072b703" />
+  <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="71ef5c6075a22a034cad09115c8fec37601e4848" />
+  <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="1836cad8a18efbe8c1df81785b9306d9edcbf19c" />
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="89a48cbd1fd24590bd56369a3f9fb10069db2fd5" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
