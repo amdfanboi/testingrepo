@@ -1137,6 +1137,8 @@
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="97c4e7faf3e3c1a865d7f238e1ded9acda3e03a0" />
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="cee975a2c52245a9c665d787d45f60399163529c" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="07cb83c3a2782d1249b9f2b4f69e61f81915d8e5" />
+  <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="19c690defca042d065ebff3410f90282e2c9e0c5" />
+  <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="1836cad8a18efbe8c1df81785b9306d9edcbf19c" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
