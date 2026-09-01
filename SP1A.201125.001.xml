@@ -690,7 +690,7 @@
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="cba996124463970d4fc778ce5093416573eabb01" />
   <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" revision="ba61b9ee12cc0f62a122062010cce1c0ec1e7425" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="da0a7498045372ee569b361c18c6ef74eeea9291" />
-  <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="da0a7498045372ee569b361c18c6ef74eeea9291" />
+  <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="3e4c76c5391ad78d1d9bdd0040f7e8d28ee3f2eb" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" revision="fa0526ed742a90138dd7e271c028b5f118f7e7db" />
   <project path="frameworks/ex" name="platform/frameworks/ex" groups="pdk-cw-fs,pdk-fs" revision="683420a269321ed053db6b2d1d787da5263884ce" />
   <project path="frameworks/hardware/interfaces" name="platform/frameworks/hardware/interfaces" groups="pdk" revision="97e82a2af3df453db634e4a7ac6bae93450fe80d" />
