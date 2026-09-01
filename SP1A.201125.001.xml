@@ -1129,7 +1129,7 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" revision="d18721af4858bb230aa76a25acc47b53ea0af442" />
   <project path="tools/test/graphicsbenchmark" name="platform/tools/test/graphicsbenchmark" groups="pdk" revision="e29c91af670e0d0d26539f66a98542e22c8d6103" />
   <project path="tools/test/openhst" name="platform/tools/test/openhst" groups="tools" revision="cedf6cb9c64631b15cf491c042beb122f991ee5c" />
-  <project path="tools/tradefederation/prebuilts" name="platform/tools/tradefederation/prebuilts" groups="pdk,tradefed" revision="5d2c95583b29f92a98b5ac0211391f17aa9a0cc6" />
+  <!-- <project path="tools/tradefederation/prebuilts" name="platform/tools/tradefederation/prebuilts" groups="pdk,tradefed" revision="5d2c95583b29f92a98b5ac0211391f17aa9a0cc6" /> -->
   <project path="tools/treble" name="platform/tools/treble" groups="tools,pdk" revision="0bb407779777974184efec05becc271fb8fb4bae" />
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="b735f448e61c99f4c06101902ff76eee4e5496f1" />
 
@@ -1139,6 +1139,7 @@
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk" revision="07cb83c3a2782d1249b9f2b4f69e61f81915d8e5" />
   <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="19c690defca042d065ebff3410f90282e2c9e0c5" />
   <project path="tools/loganalysis" name="platform/tools/loganalysis" groups="nopresubmit,pdk,tradefed" revision="1836cad8a18efbe8c1df81785b9306d9edcbf19c" />
+  <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" revision="89a48cbd1fd24590bd56369a3f9fb10069db2fd5" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
