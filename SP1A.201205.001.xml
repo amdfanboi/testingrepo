@@ -1136,7 +1136,7 @@
   <!-- these repos are backported from a11 / master branch as they no longer exist in a12 -->
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="97c4e7faf3e3c1a865d7f238e1ded9acda3e03a0" />
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="cee975a2c52245a9c665d787d45f60399163529c" />
-  <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="19c690defca042d065ebff3410f90282e2c9e0c5" />
+  <project path="test/suite_harness" name="platform/test/suite_harness" groups="cts,pdk-cw-fs,pdk-fs" revision="244f8a0c93b79153963f7f9d1ac01d50822f568f" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
