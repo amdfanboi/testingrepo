@@ -434,7 +434,7 @@
   <project path="external/python/uritemplates" name="platform/external/python/uritemplates" groups="vts,pdk" revision="0063b9ae9dd33c889a327916211393f0e16911ea" />
   <project path="external/rappor" name="platform/external/rappor" groups="pdk" revision="a31e7f5075e98ecfbb0187cd65eaf04c821bda13" />
   <project path="external/replicaisland" name="platform/external/replicaisland" groups="pdk" revision="003b0e19140353726780b38955f6c6b3b3ce6da5" />
-  <project path="external/rmi4utils" name="platform/external/rmi4utils" groups="pdk" revision="a550c75389b9152930472ebf2239b4cc64c8bca7 />
+  <project path="external/rmi4utils" name="platform/external/rmi4utils" groups="pdk" revision="a550c75389b9152930472ebf2239b4cc64c8bca7" />
   <project path="external/robolectric-shadows" name="platform/external/robolectric-shadows" groups="pdk-cw-fs,pdk-fs" revision="542a2f52900ede0593262756ae5d355cd9723031" />
   <project path="external/roboto-fonts" name="platform/external/roboto-fonts" groups="pdk" revision="d553b5bdd2d52fdea24ed92008e4916f6e51533e" />
   <project path="external/rootdev" name="platform/external/rootdev" groups="pdk" revision="3893e2da9c9632fce92b6a0ddcccba03c0dbf4c0" />
@@ -635,7 +635,7 @@
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" revision="10274f21a5581bf8270ab80003418ccc2bee656e" />
   <project path="external/speex" name="platform/external/speex" groups="pdk" revision="cb8a29857976c19c11726a45a37078b409cc06a8" />
   <project path="external/sqlite" name="platform/external/sqlite" groups="pdk" revision="315017f07e7359769ef1e0221737eb2472499705" />
-  <project path="external/squashfs-tools" name="platform/external/squashfs-tools" groups="pdk" revision="a38bcc784fdd0d20230f14094e6bae7209fc9523 />
+  <project path="external/squashfs-tools" name="platform/external/squashfs-tools" groups="pdk" revision="a38bcc784fdd0d20230f14094e6bae7209fc9523" />
   <project path="external/starlark-go" name="platform/external/starlark-go" groups="pdk" revision="42d4f566359b709c81d1fdb3af3c4a54e69905ea" />
   <project path="external/strace" name="platform/external/strace" groups="pdk" revision="dad859e47a9202f37804af41dd49e37f98642986" />
   <project path="external/stressapptest" name="platform/external/stressapptest" groups="pdk" revision="57fff8361d86aa613514cd52be6155d967adc4c7" />
