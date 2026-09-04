@@ -92,7 +92,7 @@
   <project path="device/google/crosshatch" name="device/google/crosshatch" groups="device,crosshatch,generic_fs" revision="b1de5f30813802ec78ebb01600f47cbd409db5f6" />
   <project path="device/google/crosshatch-kernel" name="device/google/crosshatch-kernel" groups="device,crosshatch,generic_fs" clone-depth="1" revision="c4cab607fc0edf6906b4783b7297a8b5a24f2ba3" />
   <project path="device/google/crosshatch-sepolicy" name="device/google/crosshatch-sepolicy" groups="device,crosshatch,generic_fs" revision="90d1d6d400d0682b9733cd331376e2ff2c7999d1" />
-  <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="device,pdk" revision="16477a7603969f75a7dc41fab76a6ff14bbb1db2" />
+  <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="device,pdk" revision="c5b75c7e4eee20e0e60c026fbf15feadee8a38e4" />
   <project path="device/google/cuttlefish_prebuilts" name="device/google/cuttlefish_prebuilts" groups="device,pdk" clone-depth="1" revision="c7d0300e13cfe991691dc3af06c1b2e2126d55d9" />
   <project path="device/google/fuchsia" name="device/google/fuchsia" groups="device" revision="0e0398c5283eaf6065375b998b148594ef949190" />
   <project path="device/google/trout" name="device/google/trout" groups="device,trout,gull,pdk" revision="81947e4b57547d093e9024b7bb7392f1fc01371d" />
