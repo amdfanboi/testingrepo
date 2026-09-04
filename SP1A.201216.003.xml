@@ -147,7 +147,7 @@
   <project path="external/cblas" name="platform/external/cblas" groups="pdk" revision="a2ebb70e4092973e8276d0aca7a753c03a7948b0" />
   <project path="external/cbor-java" name="platform/external/cbor-java" groups="pdk" revision="89e1745f6acc792f7c40d34ebd14cd2dd64d1fae" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" revision="0c5c6dc8a2f341f0fa7c55f34c981ac5d2ba5acc" />
-  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" clone-depth="1" revision="bad5ec98caa5968baa7fa6ba8b766185e9c881c7 />
+  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" clone-depth="1" revision="bad5ec98caa5968baa7fa6ba8b766185e9c881c7" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" revision="4c8a46e0c3692486b6d5bfee6021038758444a11" />
   <project path="external/cldr" name="platform/external/cldr" groups="pdk" revision="acfebfceab9311bfa6fdfec51683f9a3438b22b4" />
   <project path="external/cn-cbor" name="platform/external/cn-cbor" groups="pdk" revision="3174e42cbb682b03577cc4ebc01ab761005146c4" />
@@ -156,7 +156,7 @@
   <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk" revision="edc5fd6813853d356ba016e4c6dab3cd453e8a0a" />
   <project path="external/cpu_features" name="platform/external/cpu_features" groups="pdk" revision="4afc6e46c3c78b068934ed7af3516e626e20481e" />
   <project path="external/cpuinfo" name="platform/external/cpuinfo" groups="pdk" revision="6f0c955615a3c1e63035191202eae4b6db5a28f7" />
-  <project path="external/crcalc" name="platform/external/crcalc" groups="pdk" revision="7c84434e1f72a8a47daebf3835ce03230b793047 />
+  <project path="external/crcalc" name="platform/external/crcalc" groups="pdk" revision="7c84434e1f72a8a47daebf3835ce03230b793047" />
   <!-- RTM -->
   <project path="external/cros/system_api" name="platform/external/cros/system_api" groups="pdk" />
   <project path="external/crosvm" name="platform/external/crosvm" groups="pdk" revision="260b6c6b1e477d8ba99799c193dad0ae70c16547" />
@@ -673,7 +673,7 @@
   <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="6a46e2f039219b73154350f293678519038f4d63" />
   <project path="external/walt" name="platform/external/walt" groups="pdk" revision="caeca7ea13790768a8496df955f1e9490403f0d8" />
   <project path="external/wayland" name="platform/external/wayland" groups="pdk" revision="757e8947eb20a19630be9c84f208b8ea9afb63d1" />
-  <project path="external/wayland-protocols" name="platform/external/wayland-protocols" groups="pdk" revision="2be6a2661d0048b24e6ef7a7eff83f4f35f30236 />
+  <project path="external/wayland-protocols" name="platform/external/wayland-protocols" groups="pdk" revision="2be6a2661d0048b24e6ef7a7eff83f4f35f30236" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="a0e370dabe528802b06f92769b8434c67b88f3a7" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="cffe44453743da1d7e35f8dbf9ecb5f6ab8e8c5c" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="5caccceb67f1f21b0168ab80efd72ac69f2652d6" />
