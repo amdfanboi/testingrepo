@@ -714,7 +714,7 @@
   <project path="frameworks/opt/net/ethernet" name="platform/frameworks/opt/net/ethernet" groups="pdk-fs" revision="036158be82f2ab1db723a687b3d91bc5485c8a7a" />
   <project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" revision="617bf6597754ecf9ef3e0796d391f9f98fdf8dea" />
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" groups="pdk-cw-fs,pdk-fs" revision="76b319d6a2cf772ed7b7e2c2b49872771dce76e6" />
-  <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" groups="pdk" revision="ed10321e84efd7a2388adb46d545cf9f63e00a3d" />
+  <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" groups="pdk" revision="abe34c46dafee9d9b76189652af398a360decfc8" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" revision="de3ddd4c3606e05b4422e8fa09614f1cce58994c" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" revision="caeeef13718d3d3de4dc675995257b7902132636" />
   <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="5ae192928f1fac846fd0072009bf347013a4d276" />
