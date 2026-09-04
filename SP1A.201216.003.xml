@@ -850,7 +850,7 @@
   <project path="packages/apps/Car/libs" name="platform/packages/apps/Car/libs" groups="pdk-fs" revision="6a67cf9e1a6ffa541c6c17c35dbceed70d95ebf2" />
   <project path="packages/apps/Car/tests" name="platform/packages/apps/Car/tests" groups="pdk-fs" revision="b21afc81854d05305b62c3c5be5817c3487bdc24" />
   <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-cw-fs,pdk-fs" revision="a14a0256f72b504bea2be5f58195065ec37ae2bc" />
-  <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" revision="3097df5a80d60fb0bb7cda13d22ae16d45c32c25" />
+  <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" revision="0b8223b6125e171c81f86a5784826e128d56dcbc" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs,pdk-fs" revision="1f13711604db10e4c721cee8bc69fde8c0570fe0" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" groups="pdk-fs" revision="5f728cd1fa640741cbe0a48ed260acd9401f975d" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" revision="9595c02b90939eef1793998dda34acb55bcfcc70" />
