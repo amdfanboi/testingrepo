@@ -727,7 +727,7 @@
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" revision="93062949fe89aab8464811c8e3d36f172eedf0ec" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="pdk,broadcom_wlan" revision="cc17257a4147f6a8533ed4c281b9dde99566879c" />
   <project path="hardware/google/apf" name="platform/hardware/google/apf" groups="pdk" revision="6e7ada20791add33af52d0825312b67e17b9e17d" />
-  <project path="hardware/google/av" name="platform/hardware/google/av" groups="pdk" revision="1b04b1058abcb4b48d3d5b519ad53309b185ce84' />
+  <project path="hardware/google/av" name="platform/hardware/google/av" groups="pdk" revision="1b04b1058abcb4b48d3d5b519ad53309b185ce84" />
   <project path="hardware/google/camera" name="platform/hardware/google/camera" groups="pdk" revision="6cb6345542d31f9a4f7a02fecfd95cb26b248685" />
   <project path="hardware/google/easel" name="platform/hardware/google/easel" groups="pdk,easel" revision="f21d5f33b24d0382a1aa63ad8b15acdfe2265318" />
   <project path="hardware/google/interfaces" name="platform/hardware/google/interfaces" groups="pdk" revision="eca4fa41ddea8613a9082fd245af33a3f7c5a6f1" />
