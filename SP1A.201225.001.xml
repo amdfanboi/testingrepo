@@ -1135,8 +1135,8 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="b735f448e61c99f4c06101902ff76eee4e5496f1" />
 
   <!-- these repos are backported from a11 / master branch as they no longer exist in a12 -->
-  <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="97c4e7faf3e3c1a865d7f238e1ded9acda3e03a0" />
-  <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="cee975a2c52245a9c665d787d45f60399163529c" />
+  <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" revision="ea981e18900b3890c92ee9134a05d6b5a3a14751" />
+  <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" revision="c44541c792c225fd1fc7bdbdbd70b22bcf4c3322" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
