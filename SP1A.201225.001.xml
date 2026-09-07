@@ -877,7 +877,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" revision="200997906e3c9aa0be4f17529c603a5a4ceac8b9" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" groups="pdk-fs" revision="a95564cba2f2f10054c60e7bb100604755e49df4" />
   <project path="packages/apps/QuickAccessWallet" name="platform/packages/apps/QuickAccessWallet" groups="pdk-fs" revision="76162235209da27c72d7b522a78ae2e811e0b594" />
-  <project path="packages/apps/RemoteProvisioner" name="platform/packages/apps/RemoteProvisioner" groups="pdk-fs" revision="e24b78276615eee7441ab88f79fafece033e341a" />
+  <!-- <project path="packages/apps/RemoteProvisioner" name="platform/packages/apps/RemoteProvisioner" groups="pdk-fs" revision="e24b78276615eee7441ab88f79fafece033e341a" /> -->
   <project path="packages/apps/SafetyRegulatoryInfo" name="platform/packages/apps/SafetyRegulatoryInfo" groups="pdk-fs" revision="d2e6343bf7ef2d06f9ba66cb4e63ae05b7801b32" />
   <project path="packages/apps/SampleLocationAttribution" name="platform/packages/apps/SampleLocationAttribution" groups="pdk-fs" revision="3406deccc99ac9689620d8783d15f652e8b6e224" />
   <project path="packages/apps/SecureElement" name="platform/packages/apps/SecureElement" groups="apps_se,pdk-fs" revision="cf0941073623b2a1c82597c2024c9b69c4513431" />
