@@ -1064,7 +1064,7 @@
   <project path="system/timezone" name="platform/system/timezone" groups="pdk" revision="f8716ea8df2c9f8d5078f8c27644582409821c16" />
   <project path="system/tools/aidl" name="platform/system/tools/aidl" groups="pdk" revision="93d8726ac93d9ed23d085af2f405ec0f0032f117" />
   <project path="system/tools/hidl" name="platform/system/tools/hidl" groups="pdk" revision="e01b66abc0fe4aa01bdf4335ff618f3c83c8902e" />
-  <project path="system/tools/mkbootimg" name="platform/system/tools/mkbootimg" groups="pdk" revision="9216b0de71a5eea345a270c1e30593066a167e36 />
+  <project path="system/tools/mkbootimg" name="platform/system/tools/mkbootimg" groups="pdk" revision="9216b0de71a5eea345a270c1e30593066a167e36" />
   <project path="system/tools/sysprop" name="platform/system/tools/sysprop" groups="pdk" revision="1b9ba78f51a7b51efb5f2000302d41f96adf8755" />
   <project path="system/tools/xsdc" name="platform/system/tools/xsdc" groups="pdk" revision="9376ee9087cf784d72356965230e3e59635b95a9" />
   <project path="system/unwinding" name="platform/system/unwinding" groups="pdk" revision="ad923eaeb88f3e4c975c64b7a5272e948a135c5c" />
@@ -1096,7 +1096,7 @@
   <!-- test/catbox didn't exist when this build was tagged -->
   <project path="toolchain/benchmark" name="toolchain/benchmark" revision="a72c99afbfa405f818c18cd8bacebb9cbfdab5bb" />
   <project path="toolchain/pgo-profiles" name="toolchain/pgo-profiles" groups="pdk" revision="8a03cb6c3be8dd3979c58ed9bb7163cd6d324273" />
-  <project path="tools/aadevtools" name="platform/tools/aadevtools" groups="pdk" revision="a16d777a2eafd24c535d745dc364035573585461 />
+  <project path="tools/aadevtools" name="platform/tools/aadevtools" groups="pdk" revision="a16d777a2eafd24c535d745dc364035573585461" />
   <project path="tools/acloud" name="platform/tools/acloud" groups="tools,vts,projectarch,pdk,tradefed" revision="9d9f7a3b3a61d4ff7b35ea310f395c02156c1e25" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" revision="bf1809986ae60824667f54ce4dcd1df868612578" />
   <project path="tools/apifinder" name="platform/tools/apifinder" groups="pdk,tools" revision="c5355606101beb47c2654417039c67fd426fc8cf" />
