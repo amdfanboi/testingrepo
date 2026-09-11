@@ -151,7 +151,7 @@
   <project path="external/drm_hwcomposer" name="platform/external/drm_hwcomposer" groups="drm_hwcomposer,pdk-fs" revision="e01006bf0b9deb64646051cad19b22600fd24db0" />
   <project path="external/droiddriver" name="platform/external/droiddriver" groups="pdk" revision="a20b6b47c6a9b8f42693ffdab5552b0f37e16364" />
   <project path="external/dtc" name="platform/external/dtc" groups="pdk" revision="a14b75660cbab2de58dc82d5f25c9e96f3f38d88" />
-  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" groups="pdk" revision="c2c5c58593f7e4944fcf57d07e66baaf6a82b11d" />
+  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" groups="pdk" revision="63f759b39e27fd79958240386734f28b463a4cfc" />
   <!-- RTM -->
   <project path="external/easymock" name="platform/external/easymock" groups="pdk" />
   <!-- RTM -->
