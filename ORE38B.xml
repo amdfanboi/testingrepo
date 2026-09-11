@@ -413,7 +413,7 @@
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" revision="35cb5f6a5120844d9c17c44b5b7db301bb149ef4" />
   <project path="external/vogar" name="platform/external/vogar" groups="pdk" revision="93c1c247bdb17431c12ac70f44bad5d049f450a4" />
   <project path="external/volley" name="platform/external/volley" groups="pdk" revision="bae16a533a1bf98eb86b3a7971fc410249748325" />
-  <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="111f7b1e913ebc843e8fd741140648ae8d87cc8a" />
+  <!-- <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="111f7b1e913ebc843e8fd741140648ae8d87cc8a" /> -->
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" revision="4944caac4ad3c3aeb0edcd636100c1e5cecde5d3" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" revision="84bc2b9bf32284092d6b676e9a98a6056fd30e9a" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" revision="fa798f237b995b3cd8a0dee7179287cf5423c158" />
@@ -440,7 +440,7 @@
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" revision="e6adb66ae92eff5c72e9504634dd6020c5130173" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" revision="a3ed11d4346bb6a5aa5908054d499d8c14cc3704" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" revision="1a4ad1022fabdf8fbf03cc939d14752eea78efaa" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="502623dcff83432791e268792323b42934eb5306" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="0783d5fc28e78e875bed663eea8a5df77eddf571" />
   <!-- RTM -->
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" />
   <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" groups="pdk-cw-fs,pdk-fs" revision="93950391efc45d502f003a81bfa7471880d53574" />
