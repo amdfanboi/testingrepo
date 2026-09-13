@@ -637,7 +637,7 @@
   <project path="external/speex" name="platform/external/speex" groups="pdk" revision="2a31e60813fceb5bfcfb437d70c8f103eb427179" />
   <project path="external/sqlite" name="platform/external/sqlite" groups="pdk" revision="315017f07e7359769ef1e0221737eb2472499705" />
   <project path="external/squashfs-tools" name="platform/external/squashfs-tools" groups="pdk" revision="a38bcc784fdd0d20230f14094e6bae7209fc9523" />
-  <project path="external/starlark-go" name="platform/external/starlark-go" groups="pdk" revision="28488fade247cf7c918bd994f16b1f38b4b7c5bc" />
+  <project path="external/starlark-go" name="platform/external/starlark-go" groups="pdk" revision="bc864be25151710e5d1c992993e31b5543e779e1" />
   <project path="external/strace" name="platform/external/strace" groups="pdk" revision="dad859e47a9202f37804af41dd49e37f98642986" />
   <project path="external/stressapptest" name="platform/external/stressapptest" groups="pdk" revision="57fff8361d86aa613514cd52be6155d967adc4c7" />
   <project path="external/subsampling-scale-image-view" name="platform/external/subsampling-scale-image-view" groups="pdk" clone-depth="1" revision="3fa066ca840a2c90efebc74a0924d33f6962c599" />
@@ -810,7 +810,7 @@
   <project path="kernel/prebuilts/5.4/arm64" name="kernel/prebuilts/5.4/arm64" groups="pdk" clone-depth="1" revision="77cd987fe58407f814764a0c1714d1adfebaf95a" />
   <project path="kernel/prebuilts/5.4/x86_64" name="kernel/prebuilts/5.4/x86-64" groups="pdk" clone-depth="1" revision="801c35f3b8aea903fb2e7ca71ad9dd73464f5215" />
   <project path="kernel/prebuilts/5.10/arm64" name="kernel/prebuilts/5.10/arm64" groups="pdk" clone-depth="1" revision="11962725980544c4bb0e2dc0be7bdd995f8046ee" />
-  <project path="kernel/prebuilts/5.10/x86_64" name="kernel/prebuilts/5.10/x86-64" groups="pdk" clone-depth="1" revision="3914a362f69f0f53ec30304fbf1d800ec2cbb414" />
+  <project path="kernel/prebuilts/5.10/x86_64" name="kernel/prebuilts/5.10/x86-64" groups="pdk" clone-depth="1" revision="b99c0d758a6ed4d70b1cadf0e4ab401313ca9e85" />
   <project path="kernel/prebuilts/mainline/arm64" name="kernel/prebuilts/mainline/arm64" groups="pdk" clone-depth="1" revision="51451052b5aea171e4b4be7652eb6a42ff9df3aa" />
   <!-- <project path="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" groups="pdk" clone-depth="1" /> -->
   <!-- <project path="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" groups="pdk" clone-depth="1" /> -->
@@ -918,7 +918,7 @@
   <project path="packages/modules/NetworkPermissionConfig" name="platform/packages/modules/NetworkPermissionConfig" groups="pdk-cw-fs,pdk-fs" revision="d6c5a1bb6b36642f0030c3eadc6fd19c061dbbfe" />
   <project path="packages/modules/NetworkStack" name="platform/packages/modules/NetworkStack" groups="pdk-cw-fs,pdk-fs" revision="74df9dd2e334e64627044f4b836821d0a21c9b28" />
   <project path="packages/modules/NeuralNetworks" name="platform/packages/modules/NeuralNetworks" groups="pdk-cw-fs,pdk-fs" revision="3e868ac1ade02dfaee1a4cf6acf30feb692e64eb" />
-  <project path="packages/modules/Permission" name="platform/packages/modules/Permission" groups="pdk-cw-fs,pdk-fs" revision="f64e73d263c27d6e11d8852ee1ea66c768b93922" />
+  <project path="packages/modules/Permission" name="platform/packages/modules/Permission" groups="pdk-cw-fs,pdk-fs" revision="4e92faead8ba04a2ff330fb68ad49a011ca44e8e" />
   <project path="packages/modules/RuntimeI18n" name="platform/packages/modules/RuntimeI18n" groups="pdk-cw-fs,pdk-fs" revision="689f4db42fd3ada23fa34cf6deb52cef1dac13ca" />
   <project path="packages/modules/Scheduling" name="platform/packages/modules/Scheduling" groups="pdk-cw-fs,pdk-fs" revision="fde100cbb01ad388fe907473bc69e4052970283e" />
   <project path="packages/modules/SdkExtensions" name="platform/packages/modules/SdkExtensions" groups="pdk-cw-fs,pdk-fs" revision="88f44f8cf95b0c73729268955ced5e0467dd3938" />
@@ -941,9 +941,9 @@
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" groups="pdk-fs" revision="1288c778c0af93e128322cc1d1a65ee25e755a33" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" groups="pdk-fs" revision="c7b345136102535a22a246330345669ff36ebc58" />
   <project path="packages/services/BuiltInPrintService" name="platform/packages/services/BuiltInPrintService" groups="pdk-cw-fs,pdk-fs" revision="042723f5593fe5e073fca9e93e04e3ad467f9ae2" />
-  <project path="packages/services/AlternativeNetworkAccess" name="platform/packages/services/AlternativeNetworkAccess" groups="pdk-cw-fs,pdk-fs" revision="738c1a7da525579ce05940caed6b339b4e8bace5" />
+  <project path="packages/services/AlternativeNetworkAccess" name="platform/packages/services/AlternativeNetworkAccess" groups="pdk-cw-fs,pdk-fs" revision="44cfe9e14519df99e2de6970dbc11ac33ffd387f" />
   <project path="packages/services/Car" name="platform/packages/services/Car" groups="pdk-cw-fs,pdk-fs" revision="6b1ee1a2eb5626624c5f0a15c65e4c4d99f88d5d" />
-  <project path="packages/services/Iwlan" name="platform/packages/services/Iwlan" groups="pdk-cw-fs,pdk-fs" revision="bacb9a53e73f6bbfde87680fe6b69603c214f0f4" />
+  <project path="packages/services/Iwlan" name="platform/packages/services/Iwlan" groups="pdk-cw-fs,pdk-fs" revision="28b177de746acdcd6d4a7a4d8dd49c100e2607fd" />
   <project path="packages/services/Mms" name="platform/packages/services/Mms" groups="pdk-cw-fs,pdk-fs" revision="47322b1bceec1980e3cf1750645b6c76a57a4995" />
   <project path="packages/services/Mtp" name="platform/packages/services/Mtp" groups="pdk-cw-fs,pdk-fs" revision="6d09ca3f766dab072f0dab946484f72e128e7523" />
   <project path="packages/services/Telecomm" name="platform/packages/services/Telecomm" groups="pdk-cw-fs,pdk-fs" revision="cd4d8f478f8334dc28d0925cc6c0669d455a12be" />
@@ -964,7 +964,7 @@
   <project path="prebuilts/checkcolor" name="platform/prebuilts/checkcolor" groups="pdk" clone-depth="1" />
   <project path="prebuilts/checkstyle" name="platform/prebuilts/checkstyle" groups="pdk" clone-depth="1" revision="cd0aeef848aa6482a86389107cf76f5a88a9f0d5" />
   <project path="prebuilts/clang-tools" name="platform/prebuilts/clang-tools" groups="pdk" clone-depth="1" revision="2df231b002eb733f8502f80954b7d06082497f24" />
-  <project path="prebuilts/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" groups="pdk" clone-depth="1" revision="feb77f51c3f2c57efafc8a7ca8f53ebf2491026e" />
+  <project path="prebuilts/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" groups="pdk" clone-depth="1" revision="0c25814714405907f87e6d2ba2c27be5a1b1013c" />
   <project path="prebuilts/cmdline-tools" name="platform/prebuilts/cmdline-tools" groups="pdk-fs" clone-depth="1" revision="fff36d38c72b2747af5b21f8399f176d21bfe0f2" />
   <!-- RTM -->
   <project path="prebuilts/devtools" name="platform/prebuilts/devtools" groups="pdk-fs" clone-depth="1" />
@@ -1034,9 +1034,9 @@
   <project path="system/hwservicemanager" name="platform/system/hwservicemanager" groups="pdk" revision="279c71cd2153bee6886a07e7cf76def6c92d0c45" />
   <project path="system/incremental_delivery" name="platform/system/incremental_delivery" groups="pdk" revision="389f1e2a4d4ea3559832ed3b83eb4a5f855e20a8" />
   <project path="system/iorap" name="platform/system/iorap" groups="pdk" revision="ca64caa69e6adf4caac4e9f79902f7a5ba994b10" />
-  <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" revision="17b68dbdb2b53eb4899955b534295791870a6320" />
+  <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" revision="0aba5f64de91f11b853edb81974fd24cc34fd7e9" />
   <project path="system/libartpalette" name="platform/system/libartpalette" groups="pdk" revision="acebf4b898f2524a37800dbd9c1c0d1995e0e8f0" />
-  <project path="system/libbase" name="platform/system/libbase" groups="pdk" revision="321419b741ac836831e3ba738cb6104ded33ad31" />
+  <project path="system/libbase" name="platform/system/libbase" groups="pdk" revision="df2b2d8f3bf2282fd2744c5e4dc7dd3c072310ee" />
   <project path="system/libfmq" name="platform/system/libfmq" groups="pdk" revision="e273288773c6b00e0498fed60522b147a3db9006" />
   <project path="system/libhidl" name="platform/system/libhidl" groups="pdk" revision="e37b36108502104653b8db1d53f9d64182c0db5a" />
   <project path="system/libhwbinder" name="platform/system/libhwbinder" groups="pdk" revision="8a435f83c80414df58144a78c69ebf23b2e5cb1c" />
@@ -1084,9 +1084,9 @@
   <project path="test/vti/fuzz_test_serving" name="platform/test/vti/fuzz_test_serving" groups="vts,projectarch,pdk" />
   <!-- RTM -->
   <project path="test/vti/test_serving" name="platform/test/vti/test_serving" groups="vts,projectarch,pdk" />
-  <project path="test/vts" name="platform/test/vts" groups="vts,pdk" revision="ad34b45749931d2d66c096dc1abd5b4c44b0f775" />
+  <project path="test/vts" name="platform/test/vts" groups="vts,pdk" revision="8211693eb71b380e687f8885ceb81f85ab9c8651" />
   <project path="test/vts-testcase/fuzz" name="platform/test/vts-testcase/fuzz" groups="vts,projectarch,pdk" revision="81e4c9383fcf5e2aa233cf22e2812c69cca1a30f" />
-  <project path="test/vts-testcase/hal" name="platform/test/vts-testcase/hal" groups="vts,pdk" revision="0132386293034bb65caed63931fe1611cf911b16" />
+  <project path="test/vts-testcase/hal" name="platform/test/vts-testcase/hal" groups="vts,pdk" revision="7fa87e71343727ea0f7fcce3a95ed6e64096a044" />
   <!-- RTM -->
   <project path="test/vts-testcase/hal-trace" name="platform/test/vts-testcase/hal-trace" groups="vts,pdk" />
   <project path="test/vts-testcase/kernel" name="platform/test/vts-testcase/kernel" groups="vts,pdk" revision="85817ec77cd708374aa2d71472dcd9075a32a1d2" />
