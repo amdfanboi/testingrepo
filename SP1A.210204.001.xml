@@ -1026,7 +1026,7 @@
   <project path="system/ca-certificates" name="platform/system/ca-certificates" groups="pdk" revision="ae944c0f80920d043bbc9cd997a62109b0817019" />
   <project path="system/chre" name="platform/system/chre"  groups="pdk" revision="6b4a666c7f804b96bc396cb701afc59474b78ca4" />
   <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" revision="2efeeed64c4e0581696544088645d0123aaa41d2" />
-  <project path="system/core" name="platform/system/core" groups="pdk" revision="20ad4b6924755823c330529fd21d03fe9b89150e" />
+  <project path="system/core" name="platform/system/core" groups="pdk" revision="1396c57679e98a908dd3d060e11818b084493e49" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="a2e1ca880009c6b24b373c5be9770119ae203591" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" revision="41f683909cb6aec1c5cc3b1c21116b34ede7d1a9" />
   <project path="system/gsid" name="platform/system/gsid" groups="pdk" revision="e9b6fb15610c7481c6b1177844e2350f50fad905" />
