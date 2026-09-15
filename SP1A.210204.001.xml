@@ -37,7 +37,7 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" revision="a134a635c424f9fc2406e242bcb8e6ecbd1b8485" />
   <!-- <project path="bootable/libbootloader" name="platform/bootable/libbootloader" groups="vts,pdk" /> -->
   <project path="compatibility/cdd" name="platform/compatibility/cdd" groups="pdk" revision="d47782d9ca32966a381cc94d447051a1e995dfe9" />
-  <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="fcb4a7e29775ffcda4808be756b23fa83da3768e" />
+  <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="73b6f3ff810169f0cc9017eb2b97710ad2d7be5c" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs,pdk-fs" revision="c54b364a8f62e38a341c2bb7c948625d763bb2af" />
   <project path="developers/build" name="platform/developers/build" groups="developers,pdk" revision="1bb67b29a90d5a6858dea7a42b5dca30206325fb" />
   <!-- RTM -->
