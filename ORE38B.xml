@@ -665,7 +665,7 @@
   <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" revision="c2ec52ae9f449880901d50a45eae070aefba2f36" />
   <!-- <project path="system/connectivity/wifilogd" name="platform/system/connectivity/wifilogd" groups="pdk" /> -->
   <!-- <project path="system/chre" name="platform/system/chre" groups="pdk" /> -->
-  <project path="system/core" name="platform/system/core" groups="pdk" revision="47763c3a09e8581338c307c5a5de4ae359c3b6e7" />
+  <project path="system/core" name="platform/system/core" groups="pdk" revision="476dbc48daf654ececb6e02d585ea9a43ca8513b" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="de4dc4a0230fa2834b4d2f97b178f821bdc6a3d1" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" revision="91460330ebb054b3171d40a16d51bb71346941e6" />
   <!-- <project path="system/hardware/interfaces" name="platform/system/hardware/interfaces" groups="pdk" /> -->
