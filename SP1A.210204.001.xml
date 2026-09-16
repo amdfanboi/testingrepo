@@ -670,7 +670,7 @@
   <project path="external/vogar" name="platform/external/vogar" groups="pdk" revision="2e2a52543079e80f727b33f80dde24991b806165" />
   <project path="external/volley" name="platform/external/volley" groups="pdk" revision="5db142149a82606d87d9da23cb136857c2323ec7" />
   <project path="external/vulkan-headers" name="platform/external/vulkan-headers" groups="pdk" revision="6e3682a4505a776660cb7b5eef1c30685214621e" />
-  <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="6a46e2f039219b73154350f293678519038f4d63" />
+  <project path="external/vulkan-validation-layers" name="platform/external/vulkan-validation-layers" groups="pdk" revision="fcb4a7e29775ffcda4808be756b23fa83da3768e" />
   <project path="external/walt" name="platform/external/walt" groups="pdk" revision="caeca7ea13790768a8496df955f1e9490403f0d8" />
   <project path="external/wayland" name="platform/external/wayland" groups="pdk" revision="9275c9e51b71db7ade16811a64c50121c388475f" />
   <project path="external/wayland-protocols" name="platform/external/wayland-protocols" groups="pdk" revision="2be6a2661d0048b24e6ef7a7eff83f4f35f30236" />
