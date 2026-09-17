@@ -71,7 +71,7 @@
   <project path="device/generic/vulkan-cereal" name="device/generic/vulkan-cereal" groups="pdk" revision="7c9037dc6600eeff23529f6da4783d41d2c1d0b0" />
   <project path="device/google/atv" name="device/google/atv" groups="device,broadcom_pdk,generic_fs,pdk" revision="30241fdd197d6b0805e1fa4fb2a177690063aca1" />
   <project path="device/google/barbet" name="device/google/barbet" groups="device,barbet" revision="3c067e947b10ce4a5c42672cc6533e5252e5fc7a" />
-  <project path="device/google/barbet-kernel" name="device/google/barbet-kernel" groups="device,barbet" clone-depth="1" revision="8eac2b765d1e83cf98e6871cee5dfab3373197e8 />
+  <project path="device/google/barbet-kernel" name="device/google/barbet-kernel" groups="device,barbet" clone-depth="1" revision="8eac2b765d1e83cf98e6871cee5dfab3373197e8" />
   <project path="device/google/barbet-sepolicy" name="device/google/barbet-sepolicy" groups="device,barbet" revision="baf18a53f1f2f3404feca3d8e2df71f24bd5adea" />
   <project path="device/google/bonito" name="device/google/bonito" groups="device,bonito" revision="6d22ab653b7045d6ee60444e66e474d63696fcba" />
   <project path="device/google/bonito-kernel" name="device/google/bonito-kernel" groups="device,bonito" clone-depth="1" revision="beaacd5075e1462fa67afcccf3ce145b3dec7210" />
@@ -961,7 +961,7 @@
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" groups="pdk-fs" revision="ee5538fe1a604599f0f0cb1789ea0523b136b1f5" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" revision="b0e98abea78119fe06bce2ce07fd22cfb88dcafb" />
   <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" revision="e9eeb06ca6d638ad8b7306fe473dca24024d38e9" />
-  <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" groups="pdk-fs" revision="6a6b6291fb3ef0c20faf78a5ee76f47926f24f13 />
+  <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" groups="pdk-fs" revision="6a6b6291fb3ef0c20faf78a5ee76f47926f24f13" />
   <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" revision="3bdd602bdb98583bd4c2a84a354f1a12cda22c59" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" revision="ce397554a0e6ff7203e577c4605b440d1d400251" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" groups="pdk-fs" revision="c05b5a1e515a79d083e01d83b3557a8913b555d7" />
