@@ -1218,7 +1218,7 @@
   <project path="tools/apifinder" name="platform/tools/apifinder" groups="pdk,tools" revision="fbc888cb494027f0a4ee852818022813ada6a41d" />
   <project path="tools/apksig" name="platform/tools/apksig" groups="pdk,tradefed" revision="1b6403abd5cbfe6e271018972ac66848d349114d" />
   <project path="tools/apkzlib" name="platform/tools/apkzlib" groups="pdk,tradefed" revision="87604c4a79c6f82c9bd777e5cf71a45dfee6cc63" />
-  <project path="tools/asuite" name="platform/tools/asuite" groups="pdk" revision="f51770f5e939fe6d730a96c9e757481dd18b5b2b" />
+  <project path="tools/asuite" name="platform/tools/asuite" groups="pdk" revision="cc477da79ea7ffcfd13cbc6b1200ddf8d3cecc0d" />
   <!-- RTM -->
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" />
   <!-- RTM -->
