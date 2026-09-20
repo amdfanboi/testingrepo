@@ -1136,7 +1136,7 @@
   <project path="packages/apps/Car/Radio" name="platform/packages/apps/Car/Radio" groups="pdk-fs" revision="b122af8d61d867ab8b2df9e1a6221ec2a3cbc14c" />
   <project path="packages/apps/Car/RotaryController" name="platform/packages/apps/Car/RotaryController" groups="pdk-fs" revision="f2c5e755597296f8d8bc415c5543f4e03b93423c" />
   <project path="packages/apps/Car/Settings" name="platform/packages/apps/Car/Settings" groups="pdk-fs" revision="11dce97ba670f8ea6d4e24bee36acc8bd437af9b" />
-  <project path="packages/apps/Car/SettingsIntelligence" name="platform/packages/apps/Car/SettingsIntelligence" groups="pdk-fs" revision="115b7829316d75ba4eb2e07f35c3dd2be4006726" />
+  <!-- <project path="packages/apps/Car/SettingsIntelligence" name="platform/packages/apps/Car/SettingsIntelligence" groups="pdk-fs" revision="115b7829316d75ba4eb2e07f35c3dd2be4006726" /> -->
   <project path="packages/apps/Car/SystemUpdater" name="platform/packages/apps/Car/SystemUpdater" groups="pdk-fs" revision="294cf792a6e313251a86315449a420226b831309" />
   <project path="packages/apps/Car/libs" name="platform/packages/apps/Car/libs" groups="pdk-fs" revision="e7c3630ae4a41a5dd14f65bd1849c6314626b33e" />
   <project path="packages/apps/Car/tests" name="platform/packages/apps/Car/tests" groups="pdk-fs" revision="b6b0d9b692a1b08896ab181590900084091246dc" />
