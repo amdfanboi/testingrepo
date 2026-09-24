@@ -1276,7 +1276,7 @@
   <!-- <project path="packages/modules/TestModule" name="platform/packages/modules/TestModule" /> -->
   <project path="packages/modules/Virtualization" name="platform/packages/modules/Virtualization" groups="pdk" revision="524bc3d3623dbcea8ba55647eacc41ba5226cb05" />
   <project path="packages/modules/vndk" name="platform/packages/modules/vndk" groups="pdk-cw-fs,pdk-fs" revision="01e4be88a5f8dcaf64427080f1d348145000f546" />
-  <project path="packages/modules/Wifi" name="platform/packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs" revision="71eabb5b4349b94d74a3e2f5bef69dad24aa6850" />
+  <project path="packages/modules/Wifi" name="platform/packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs" revision="304263482a152d992b81eb7863a1ce294630cc89" />
   <project path="packages/providers/BlockedNumberProvider" name="platform/packages/providers/BlockedNumberProvider" groups="pdk-fs" revision="a8da4fc6605242ecc0572fc7318087a9f6f5afaf" />
   <!-- RTM -->
   <project path="packages/providers/BookmarkProvider" name="platform/packages/providers/BookmarkProvider" groups="pdk-fs" />
