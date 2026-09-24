@@ -799,8 +799,8 @@
   <project path="external/rust/crates/rand_core" name="platform/external/rust/crates/rand_core" groups="pdk" />
   <!-- RTM -->
   <project path="external/rust/crates/rand_xorshift" name="platform/external/rust/crates/rand_xorshift" groups="pdk" />
-  <project path="external/rust/crates/rayon" name="platform/external/rust/crates/rayon" groups="pdk" revision="c033c907938e8314e2e55a38c767c0e1d6c077ed" />
-  <project path="external/rust/crates/rayon-core" name="platform/external/rust/crates/rayon-core" groups="pdk" revision="aa416d3c53da5192cf6462857416c8ea3784a8c1" />
+  <!-- <project path="external/rust/crates/rayon" name="platform/external/rust/crates/rayon" groups="pdk" revision="c033c907938e8314e2e55a38c767c0e1d6c077ed" /> -->
+  <!-- <project path="external/rust/crates/rayon-core" name="platform/external/rust/crates/rayon-core" groups="pdk" revision="aa416d3c53da5192cf6462857416c8ea3784a8c1" /> -->
   <project path="external/rust/crates/regex" name="platform/external/rust/crates/regex" groups="pdk" revision="b95e0468eba542ed8c0fee1d6dbf30f60c76beb5" />
   <project path="external/rust/crates/regex-automata" name="platform/external/rust/crates/regex-automata" groups="pdk" revision="55a1efc3144f2c176ddab217a7d5f24da996ba55" />
   <project path="external/rust/crates/regex-syntax" name="platform/external/rust/crates/regex-syntax" groups="pdk" revision="6271b98379f8ce6e8980ec04a71401a253b7f188" />
