@@ -681,7 +681,7 @@
   <project path="external/rust/crates/criterion" name="platform/external/rust/crates/criterion" groups="pdk" revision="f913451ac93a19fee75942dc0fa8f83852a8f67f" />
   <project path="external/rust/crates/criterion-plot" name="platform/external/rust/crates/criterion-plot" groups="pdk" revision="41bf09a261f50080afd64add73ab42b0f41481ae" />
   <project path="external/rust/crates/crossbeam-channel" name="platform/external/rust/crates/crossbeam-channel" groups="pdk" revision="3695e6d65f415a78cd8436ac96ed248c7488fd38" />
-  <project path="external/rust/crates/crossbeam-deque" name="platform/external/rust/crates/crossbeam-deque" groups="pdk" revision="8bdcddc5f22a1c4de10a42bcf3a313a4ee9521b4" />
+  <!-- <project path="external/rust/crates/crossbeam-deque" name="platform/external/rust/crates/crossbeam-deque" groups="pdk" revision="8bdcddc5f22a1c4de10a42bcf3a313a4ee9521b4" /> -->
   <!-- <project path="external/rust/crates/crossbeam-epoch" name="platform/external/rust/crates/crossbeam-epoch" groups="pdk" revision="181f904fea396076f75ce95d2b89bf8326411807" /> -->
   <project path="external/rust/crates/crossbeam-utils" name="platform/external/rust/crates/crossbeam-utils" groups="pdk" revision="e6a42b6f2dc1ce33797fcdeba638d209514911e3" />
   <project path="external/rust/crates/csv" name="platform/external/rust/crates/csv" groups="pdk" revision="0c139fde3ca155bc6560fb2dee0a696ba798abbd" />
