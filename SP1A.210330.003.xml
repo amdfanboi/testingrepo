@@ -808,7 +808,7 @@
   <project path="external/rust/crates/proc-macro-error-attr" name="platform/external/rust/crates/proc-macro-error-attr" groups="pdk" />
   <!-- RTM -->
   <project path="external/rust/crates/proc-macro-hack" name="platform/external/rust/crates/proc-macro-hack" groups="pdk" />
-  <project path="external/rust/crates/proc-macro-nested" name="platform/external/rust/crates/proc-macro-nested" groups="pdk" revision="230e312ab99f902cd9b3ee0bcbc5a19a195c1bfc />
+  <project path="external/rust/crates/proc-macro-nested" name="platform/external/rust/crates/proc-macro-nested" groups="pdk" revision="230e312ab99f902cd9b3ee0bcbc5a19a195c1bfc" />
   <project path="external/rust/crates/proc-macro2" name="platform/external/rust/crates/proc-macro2" groups="pdk" revision="f586833b9821d6e17be8c0e620339ccf281ff2cc" />
   <project path="external/rust/crates/protobuf" name="platform/external/rust/crates/protobuf" groups="pdk" revision="06a4eb57f77a761e468417a2407800301d433311" />
   <project path="external/rust/crates/protobuf-codegen" name="platform/external/rust/crates/protobuf-codegen" groups="pdk" revision="058e7d87b808a199fe69ac55e7ddfb66f6adfa0c" />
@@ -914,7 +914,7 @@
   <project path="external/seccomp-tests" name="platform/external/seccomp-tests" groups="pdk" />
   <project path="external/selinux" name="platform/external/selinux" groups="pdk" revision="a97e8edd1c62c50f6d2ed1bd16a3da5f0567b3da" />
   <project path="external/setupcompat" name="platform/external/setupcompat" groups="pdk" revision="a12cf476d3016b89884cf1ba223fe1ce3e8f562e" />
-  <project path="external/setupdesign" name="platform/external/setupdesign" groups="pdk" revision="554c7183c2d7cf74db41c352c51893f17f6a78d3 />
+  <project path="external/setupdesign" name="platform/external/setupdesign" groups="pdk" revision="554c7183c2d7cf74db41c352c51893f17f6a78d3" />
   <!-- RTM -->
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk,qcom_msm8x26" />
   <!-- RTM -->
