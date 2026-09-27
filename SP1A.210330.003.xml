@@ -1077,7 +1077,7 @@
   <project path="hardware/google/easel" name="platform/hardware/google/easel" groups="pdk,easel" />
   <project path="hardware/google/interfaces" name="platform/hardware/google/interfaces" groups="pdk" revision="7b8772a0ac65dcf1c306b3f729acca2d1a83097c" />
   <project path="hardware/google/pixel" name="platform/hardware/google/pixel" groups="generic_fs,pixel" revision="b01e59a21ec0a3ad580ff8b9ab0c91b09ea9356b" />
-  <project path="hardware/google/pixel-sepolicy" name="platform/hardware/google/pixel-sepolicy" groups="generic_fs,pixel" revision=-"4fa2449de3813e1a577f1b210be6917c63557ad2" />
+  <project path="hardware/google/pixel-sepolicy" name="platform/hardware/google/pixel-sepolicy" groups="generic_fs,pixel" revision="4fa2449de3813e1a577f1b210be6917c63557ad2" />
   <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" revision="d1cae1a6d69b086888dcc7622f8da8bd35b21b79" />
   <!-- RTM -->
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" />
