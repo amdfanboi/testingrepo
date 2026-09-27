@@ -1555,6 +1555,9 @@
   <project path="tools/treble" name="platform/tools/treble" groups="tools,pdk" revision="1d4769f9eb5aa284f938b93a1e0722ac3244e0e3" />
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="e7d5ccec7f5962656944fc0d8179e856c2eadd70" />
 
+  <!-- added as crossbeam-epoch requires it -->
+  <project path="external/rust/crates/const_fn" name="platform/external/rust/crates/const_fn" groups="pdk" revision="02c37144170ba7eb665ccda656b4b4c15317198f" />
+
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
