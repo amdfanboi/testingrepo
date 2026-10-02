@@ -1308,7 +1308,7 @@
   <project path="packages/modules/SdkExtensions" name="platform/packages/modules/SdkExtensions" groups="pdk-cw-fs,pdk-fs" revision="619701a4d550b3441ca5b3c03e93c36399e93763" />
   <project path="packages/modules/StatsD" name="platform/packages/modules/StatsD" groups="pdk-cw-fs,pdk-fs" revision="59b826d2d72cd6efccf364e007f74b1d40949b1a" />
   <!-- <project path="packages/modules/TestModule" name="platform/packages/modules/TestModule" /> -->
-  <project path="packages/modules/Virtualization" name="platform/packages/modules/Virtualization" groups="pdk" revision="524bc3d3623dbcea8ba55647eacc41ba5226cb05" />
+  <project path="packages/modules/Virtualization" name="platform/packages/modules/Virtualization" groups="pdk" revision="fdb719deccbe2531b1e64975b7b7fef55c839687" />
   <project path="packages/modules/vndk" name="platform/packages/modules/vndk" groups="pdk-cw-fs,pdk-fs" revision="01e4be88a5f8dcaf64427080f1d348145000f546" />
   <project path="packages/modules/Wifi" name="platform/packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs" revision="e0d443987b5e2ee56988fc1a85f26b87471bb1a9" />
   <project path="packages/providers/BlockedNumberProvider" name="platform/packages/providers/BlockedNumberProvider" groups="pdk-fs" revision="a8da4fc6605242ecc0572fc7318087a9f6f5afaf" />
