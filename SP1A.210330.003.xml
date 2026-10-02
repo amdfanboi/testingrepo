@@ -1462,7 +1462,7 @@
   <!-- RTM -->
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" revision="cc9c947452017dc54828f1fdfce4de141b6d9483" />
-  <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" revision="3eba5b3d7a532fc305ceb3209d4e8193bb8ae9eb" />
+  <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" revision="a36f8d46cd34272fbe96589e636600fdac9b8e6e" />
   <!-- RTM -->
   <project path="system/server_configurable_flags" name="platform/system/server_configurable_flags" groups="pdk"/>
   <!-- RTM -->
