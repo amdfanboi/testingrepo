@@ -1221,7 +1221,7 @@
   <project path="kernel/prebuilts/4.19/arm64" name="kernel/prebuilts/4.19/arm64" groups="pdk" clone-depth="1" revision="bbb0b21580573c2bca4af49ee668022ef8b7228b" />
   <project path="kernel/prebuilts/5.4/arm64" name="kernel/prebuilts/5.4/arm64" groups="pdk" clone-depth="1" revision="ff2fefab4ccb1eca29cd7a0eb9533cb5770493fa" />
   <project path="kernel/prebuilts/5.4/x86_64" name="kernel/prebuilts/5.4/x86-64" groups="pdk" clone-depth="1" revision="3077a9caaf02efedfa98ebfab6be1e0258bdddb0" />
-  <project path="kernel/prebuilts/5.10/arm64" name="kernel/prebuilts/5.10/arm64" groups="pdk" clone-depth="1" revision="7cd713fd90f222cfdab4985c01720e6cb7c14e84 />
+  <project path="kernel/prebuilts/5.10/arm64" name="kernel/prebuilts/5.10/arm64" groups="pdk" clone-depth="1" revision="7cd713fd90f222cfdab4985c01720e6cb7c14e84" />
   <project path="kernel/prebuilts/5.10/x86_64" name="kernel/prebuilts/5.10/x86-64" groups="pdk" clone-depth="1" revision="e0bd625eb50e14c105db695a197a36f7e0c2159e" />
   <project path="kernel/prebuilts/mainline/arm64" name="kernel/prebuilts/mainline/arm64" groups="pdk" clone-depth="1" revision="ea93670d75eebca660d2d60b2c45dec2f6d5ea24" />
   <!-- <project path="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" groups="pdk" clone-depth="1" /> -->
@@ -1251,7 +1251,7 @@
   <!-- RTM -->
   <project path="packages/apps/Car/LatinIME" name="platform/packages/apps/Car/LatinIME" groups="pdk-fs" />
   <project path="packages/apps/Car/Launcher" name="platform/packages/apps/Car/Launcher" groups="pdk-fs" revision="517219c0ff62db1daad4b877c188b81710eb4a8d" />
-  <project path="packages/apps/Car/LinkViewer" name="platform/packages/apps/Car/LinkViewer" groups="pdk-fs" revision="6d0d965cf8e802a64c3c40b47512be1d5934db1c />
+  <project path="packages/apps/Car/LinkViewer" name="platform/packages/apps/Car/LinkViewer" groups="pdk-fs" revision="6d0d965cf8e802a64c3c40b47512be1d5934db1c" />
   <project path="packages/apps/Car/LocalMediaPlayer" name="platform/packages/apps/Car/LocalMediaPlayer" groups="pdk-fs" revision="a42444627499f6f26ef1f8cd52f6d69a0275f36d" />
   <project path="packages/apps/Car/Media" name="platform/packages/apps/Car/Media" groups="pdk-fs" revision="5503247c56c98ee56054531495dcff2aa602d096" />
   <project path="packages/apps/Car/Messenger" name="platform/packages/apps/Car/Messenger" groups="pdk-fs" revision="b630a676a4ab272b5b936e646f9f16a8b7af5494" />
@@ -1323,7 +1323,7 @@
   <project path="packages/apps/ThemePicker" name="platform/packages/apps/ThemePicker" groups="pdk-fs" revision="34d10625bddefd943177e7ee67507b50b42e056c" />
   <project path="packages/apps/Traceur" name="platform/packages/apps/Traceur" groups="pdk-fs" revision="83be453928845994cc3aee91403688beae7ae519" />
   <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" groups="pdk-fs" revision="ab100a12c571ef00ddb639976bfddbdb5c1936c7" />
-  <project path="packages/apps/TV" name="platform/packages/apps/TV" groups="pdk" revision="6ce00be7961fa1830b97e28d31a9cbd6a71223b7 />
+  <project path="packages/apps/TV" name="platform/packages/apps/TV" groups="pdk" revision="6ce00be7961fa1830b97e28d31a9cbd6a71223b7" />
   <!-- RTM -->
   <project path="packages/apps/UniversalMediaPlayer" name="platform/packages/apps/UniversalMediaPlayer" />
   <!-- RTM -->
