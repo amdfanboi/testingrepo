@@ -727,7 +727,7 @@
   <project path="external/rust/crates/chrono" name="platform/external/rust/crates/chrono" groups="pdk" />
   <!-- RTM -->
   <project path="external/rust/crates/clang-sys" name="platform/external/rust/crates/clang-sys" groups="pdk" />
-  <project path="external/rust/crates/clap" name="platform/external/rust/crates/clap" groups="pdk revision="481570ecdb50b51acf984c61a2f795d237483521" />
+  <project path="external/rust/crates/clap" name="platform/external/rust/crates/clap" groups="pdk" revision="481570ecdb50b51acf984c61a2f795d237483521" />
   <!-- RTM -->
   <project path="external/rust/crates/crc32fast" name="platform/external/rust/crates/crc32fast" groups="pdk" />
   <!-- RTM -->
@@ -836,7 +836,7 @@
   <project path="external/rust/crates/num-derive" name="platform/external/rust/crates/num-derive" groups="pdk" />
   <!-- RTM -->
   <project path="external/rust/crates/num-integer" name="platform/external/rust/crates/num-integer" groups="pdk" />
-  <project path="external/rust/crates/num-traits" name="platform/external/rust/crates/num-traits" groups="pdk" revision="234b87c7eb80b8e9a3b42cd0ccd474fd0407f292 />
+  <project path="external/rust/crates/num-traits" name="platform/external/rust/crates/num-traits" groups="pdk" revision="234b87c7eb80b8e9a3b42cd0ccd474fd0407f292" />
   <project path="external/rust/crates/num_cpus" name="platform/external/rust/crates/num_cpus" groups="pdk" revision="6027fbf4ac5a65845d26a2df1942cb36606d2833" />
   <project path="external/rust/crates/once_cell" name="platform/external/rust/crates/once_cell" groups="pdk" revision="e5d91f005821ab0a9dca74d28457bee395fba3f1" />
   <!-- RTM -->
