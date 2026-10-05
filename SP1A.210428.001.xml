@@ -33,7 +33,7 @@
   </project>
 
   <project path="art" name="platform/art" groups="pdk" revision="71424e0b75d88cff51671b9d7169207baaaf3c5c" />
-  <project path="bionic" name="platform/bionic" groups="pdk" revision="4626df89bfb561fc06d805e04d040a15f378919f />
+  <project path="bionic" name="platform/bionic" groups="pdk" revision="4626df89bfb561fc06d805e04d040a15f378919f" />
   <project path="bootable/recovery" name="platform/bootable/recovery" revision="1d4227f17b1ddb465b8bd941c193380e24fa7a20" />
   <!-- RTM -->
   <project path="bootable/libbootloader" name="platform/bootable/libbootloader" groups="vts,pdk" />
@@ -727,7 +727,7 @@
   <project path="external/rust/crates/chrono" name="platform/external/rust/crates/chrono" groups="pdk" />
   <!-- RTM -->
   <project path="external/rust/crates/clang-sys" name="platform/external/rust/crates/clang-sys" groups="pdk" />
-  <project path="external/rust/crates/clap" name="platform/external/rust/crates/clap" groups="pdk revision="481570ecdb50b51acf984c61a2f795d237483521"" />
+  <project path="external/rust/crates/clap" name="platform/external/rust/crates/clap" groups="pdk revision="481570ecdb50b51acf984c61a2f795d237483521" />
   <!-- RTM -->
   <project path="external/rust/crates/crc32fast" name="platform/external/rust/crates/crc32fast" groups="pdk" />
   <!-- RTM -->
