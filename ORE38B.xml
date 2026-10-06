@@ -521,7 +521,7 @@
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan,pdk" revision="fc2e3fbe3a20a67b82e4e5c83e8fb26c6e9eda9e" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" revision="2481e6dc1ce903bbd4d91cec90871e5e6e1c7089" />
   <project path="kernel/tests" name="kernel/tests" revision="972eb724157a6ee49f7b5163f7fd0e16401695e4" />
-  <project path="libcore" name="platform/libcore" groups="pdk" revision="fa1d63b5ca07e32f00cb79468d3e52cd938a1db8" />
+  <project path="libcore" name="platform/libcore" groups="pdk" revision="339d1b9b20495bfb569f5a917ce94f23e93b5b95" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" revision="e26fd49181b13b32734aad17ba1b4b31a47de831" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" revision="b9333822c482b1be146e4245c54b9f493dd5e73c" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs,pdk-fs" revision="d4e518bf3d2733228dec784a2477c800ea0b70a3" />
