@@ -460,7 +460,7 @@
   <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" groups="pdk" revision="22538d9b292581859bb6d21415527521218b89db" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" revision="9ad12f125a7367f6492091ffe652bc769f669986" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" revision="85531e08e9048ee19ab88ee50b37642d00731797" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="372989357e7a32de613a592b9646eac0d6117411" />
+  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="eff05014378273900ecf51ea5ed3025a0b49b1ad" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" revision="e361b3d05bc1a716811f2754e474a5ed89b8be71" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" revision="03bfa415fab150deb666b1b5aad5913511bd7d33" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="bd1a87ff8fb975e34debbe11adb774e161129ccc" />
