@@ -531,7 +531,7 @@
   <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-cw-fs,pdk-fs" revision="6e8adb6ec3b0ef947e794a7d4ae3c5d696e0d76c" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" revision="2f79e5bf74bfce1186806b7de242ec6995a636e2" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs,pdk-fs" revision="ea0b62ea0615f9981de980da179fff478de29fca" />
-  <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" groups="pdk-fs" revision="ea85abb996a7afa172e9157c188c6559c2895738" />
+  <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" groups="pdk-fs" revision="0aad572081e72b96e9514c85d8b604c7ff4fe396" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" revision="27ea7d520dc4793f098ee6d85f7cf6bf11197427" />
   <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" revision="773266c09d8df8db35c50f5b726445c7b130b85c" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" groups="pdk-fs" revision="a0e57cde68fa5f14a877d497d81acf4d24ecaded" />
