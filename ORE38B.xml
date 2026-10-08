@@ -550,7 +550,7 @@
   <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" revision="bb8d1f10eb6013f37579e47945a400cfc5405c97" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" groups="pdk-fs" revision="f0793e2a287c4e5befb8ee496c8b7f055eed794f" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" groups="pdk-fs" revision="12b3726e67aebb38ff72ae08fa948ace746cdd25" />
-  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" revision="b6751c0c8366142868e5794a98085a0a1b7182ce" />
+  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" revision="1cb66c3e3f7eac4392a056993bc24f1a42b93294" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" groups="pdk-fs" revision="01e429c08e51291315890de9677151a7e0b6ad35" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" groups="pdk-cw-fs,pdk-fs" revision="4c3424422cca61c4f73015f5597a8c0254349ae4" />
   <!-- RTM -->
