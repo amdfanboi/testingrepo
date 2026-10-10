@@ -1222,7 +1222,7 @@
   <project path="frameworks/libs/net" name="platform/frameworks/libs/net" groups="pdk-cw-fs,pdk-fs" revision="c610c54cc289f1f329380d8e9b3a645c5bcc2be6" />
   <!-- RTM -->
   <project path="frameworks/libs/native_bridge_support" name="platform/frameworks/libs/native_bridge_support" groups="pdk" />
-  <project path="frameworks/libs/service_entitlement" name="platform/frameworks/libs/service_entitlement" groups="pdk" revision="ff3bcbeed32f52ff786f7110c3f2ed79b15ca7d6 />
+  <project path="frameworks/libs/service_entitlement" name="platform/frameworks/libs/service_entitlement" groups="pdk" revision="ff3bcbeed32f52ff786f7110c3f2ed79b15ca7d6" />
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" revision="7135a1121de2c1e0ca75afc4a2edfadd41e0908f" />
   <!-- RTM -->
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" />
