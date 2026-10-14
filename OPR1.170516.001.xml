@@ -348,7 +348,7 @@
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
   <project path="external/libhevc" name="platform/external/libhevc" groups="pdk" revision="012f4b1b48274702fd44e4e268fe7d84d6f5d320" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" groups="pdk" revision="8a28cdbb2ea206f0d4d0f8edeff55eab05470119" />
-  <project path="external/libldac" name="platform/external/libldac" groups="pdk" revision="acfbd5f8c36d507ed659c5ad0c3c67c6eb191e1b" />
+  <project path="external/libldac" name="platform/external/libldac" groups="pdk" revision="4ff2da9943fa4b61f1ec5d7f06820503f53a16f5" />
   <!-- RTM -->
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
   <!-- RTM -->
