@@ -580,7 +580,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk" />
   <!-- RTM -->
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk" />
-  <project path="external/zlib" name="platform/external/zlib" groups="pdk" revision="47456e2f7dafc0404d343cfbb1fee00049b512a9" />
+  <project path="external/zlib" name="platform/external/zlib" groups="pdk" revision="06cf32f38d424590246d7d216200fa5be08f8bec" />
   <!-- RTM -->
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" />
   <!-- RTM -->
