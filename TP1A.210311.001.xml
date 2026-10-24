@@ -1214,6 +1214,7 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="98516c0db2d49ef555242e077a0331cf8f2067e9" />
 
   <!-- backported from master -->
+  <project path="external/adhd" name="platform/external/adhd" groups="pdk" revision="1a33fa04345d1d2599eae37bb34781783aa0d04e" />
   <project path="external/python/mock" name="platform/external/python/mock" groups="pdk" revision="6c3b8f78baba1271ef10f59655c4882694fa2f29" />
   
 </manifest>
