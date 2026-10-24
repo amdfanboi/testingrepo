@@ -927,7 +927,7 @@
   <project path="packages/apps/Car/RotaryController" name="platform/packages/apps/Car/RotaryController" groups="pdk-fs" revision="391798178c6cefdbdc8ead7de05065f60583b4df" />
   <project path="packages/apps/Car/Settings" name="platform/packages/apps/Car/Settings" groups="pdk-fs" revision="71cb6b9a6b0b5eed81e7ec174b177f23471c17c2" />
   <project path="packages/apps/Car/SettingsIntelligence" name="platform/packages/apps/Car/SettingsIntelligence" groups="pdk-fs" revision="e50e8ee9b4df8a2dbbbe5a5fa779aede9d0c70ee" />
-  <project path="packages/apps/Car/systemlibs" name="platform/packages/apps/Car/systemlibs" groups="pdk-fs" revision="9578e1b9a6dea8996854cbbf4af44c283c76718b" />
+  <!-- <project path="packages/apps/Car/systemlibs" name="platform/packages/apps/Car/systemlibs" groups="pdk-fs" revision="9578e1b9a6dea8996854cbbf4af44c283c76718b" /> -->
   <project path="packages/apps/Car/SystemUpdater" name="platform/packages/apps/Car/SystemUpdater" groups="pdk-fs" revision="6bbfd2e639ba23bfcaa269ed590861b47a89a3a5" />
   <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-cw-fs,pdk-fs" revision="8f592758c13a2f935cbe57657c3ddf4afbe8ece4" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" revision="aedff67e4bcaef52ac4b8d411c5fd3dca200b82a" />
