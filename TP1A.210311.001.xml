@@ -985,7 +985,7 @@
   <project path="packages/inputmethods/LeanbackIME" name="platform/packages/inputmethods/LeanbackIME" groups="pdk-fs" revision="53978f4331e14f87388f4d55cf343720fe99e463" />
   <project path="packages/modules/adb" name="platform/packages/modules/adb" groups="pdk" revision="58f622af0943330b7e43218c3121a545c95af2d4" />
   <!-- packages/modules/AdServices didn't exist when this build was tagged -->
-  <project path="packages/modules/AppSearch" name="platform/packages/modules/AppSearch" groups="pdk" revision="e7efa0ce4e95955112e869ee1f7b7d82db3b5996" />
+  <!-- <project path="packages/modules/AppSearch" name="platform/packages/modules/AppSearch" groups="pdk" revision="e7efa0ce4e95955112e869ee1f7b7d82db3b5996" /> -->
   <project path="packages/modules/ArtPrebuilt" name="platform/packages/modules/ArtPrebuilt" groups="pdk" clone-depth="1" revision="a88ec21fd5f8e7d8193f2d63fe07d2813d09779e" />
   <project path="packages/modules/Bluetooth" name="platform/packages/modules/Bluetooth" groups="pdk" revision="7ea80ada95823f7e17ea8e7f72eb411cac577444" />
   <!-- RTM -->
@@ -1001,7 +1001,7 @@
   <project path="packages/modules/Gki" name="platform/packages/modules/Gki" groups="pdk-cw-fs,pdk-fs" revision="ec5d999c8eb800fd2fee0eb1ffc7c5fbd3e697e2" />
   <project path="packages/modules/IPsec" name="platform/packages/modules/IPsec" groups="pdk" revision="82179e36cf741e6542d116e1ce87fe56a81817f0" />
   <project path="packages/modules/DnsResolver" name="platform/packages/modules/DnsResolver" groups="pdk-cw-fs,pdk-fs" revision="5a9ecc818eee7b370d5bc4facbee76ef796b4e51" />
-  <project path="packages/modules/Media" name="platform/packages/modules/Media" groups="pdk" revision="7d58c43ef86355f4356a2e6bc61420a5de14c5ca" />
+  <!-- <project path="packages/modules/Media" name="platform/packages/modules/Media" groups="pdk" revision="7d58c43ef86355f4356a2e6bc61420a5de14c5ca" /> -->
   <project path="packages/modules/ModuleMetadata" name="platform/packages/modules/ModuleMetadata" groups="pdk" revision="d48310cc9e254f2282079e3b0fff6a0d6e0eb03c" />
   <project path="packages/modules/NetworkPermissionConfig" name="platform/packages/modules/NetworkPermissionConfig" groups="pdk-cw-fs,pdk-fs" revision="60b0c1327b1df31876a9d4962bb93347c2d03981" />
   <project path="packages/modules/NetworkStack" name="platform/packages/modules/NetworkStack" groups="pdk-cw-fs,pdk-fs" revision="98d64d475720fb5a18ca3bf37802ec07ddde7ead" />
