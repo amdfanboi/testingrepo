@@ -1217,6 +1217,7 @@
   <project path="external/adhd" name="platform/external/adhd" groups="pdk" revision="1a33fa04345d1d2599eae37bb34781783aa0d04e" />
   <project path="external/python/mock" name="platform/external/python/mock" groups="pdk" revision="6c3b8f78baba1271ef10f59655c4882694fa2f29" />
   <project path="external/vm_tools/p9" name="platform/external/vm_tools/p9" groups="pdk" revision="99069084d493c67942db4fe03f22310dc59ae596" />
+  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs,pdk-fs" revision="37e1265fb7d5399dbfba4a058f8cae401e7fc4b6" />
   <project path="packages/apps/Car/libs" name="platform/packages/apps/Car/libs" groups="pdk-fs" revision="38f643c74926f6ac6e629eb27ce7643be2944dcd" />
   <project path="packages/modules/Cronet" name="platform/packages/modules/Cronet" groups="pdk-cw-fs,pdk-fs" revision="5151f31b09d282b8699c98af6879ba7cec1efcc5" />
   <project path="system/bt" name="platform/system/bt" groups="pdk" revision="a516691682685a5c2e2167821a86ae6d69f27c27" />
