@@ -1213,4 +1213,7 @@
   <project path="tools/treble" name="platform/tools/treble" groups="tools,pdk" revision="96e3b1b0609bae4dfd1501307bf423953dc122d2" />
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" revision="98516c0db2d49ef555242e077a0331cf8f2067e9" />
 
+  <!-- backported from master -->
+  <project path="external/python/mock" name="platform/external/python/mock" groups="pdk" revision="6c3b8f78baba1271ef10f59655c4882694fa2f29" />
+  
 </manifest>
