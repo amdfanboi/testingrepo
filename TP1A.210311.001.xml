@@ -506,7 +506,7 @@
   <!-- external/rust/crates/command-fds didn't exist when this build was tagged -->
   <!-- external/rust/crates/coset didn't exist when this build was tagged -->
   <project path="external/rust/crates/crc32fast" name="platform/external/rust/crates/crc32fast" groups="pdk" revision="b6474bdda82cc7d634959678d9782717652d301c" />
-  <project path="external/rust/crates/criterion" name="platform/external/rust/crates/criterion" groups="pdk" revision="85baf12330ba3c9a26ad222ab6eed84e30434dd4" />
+  <!-- <project path="external/rust/crates/criterion" name="platform/external/rust/crates/criterion" groups="pdk" revision="85baf12330ba3c9a26ad222ab6eed84e30434dd4" /> -->
   <project path="external/rust/crates/criterion-plot" name="platform/external/rust/crates/criterion-plot" groups="pdk" revision="97cce95c039b466c290dcfaba6a59c553a76c5c7" />
   <!-- <project path="external/rust/crates/crossbeam-channel" name="platform/external/rust/crates/crossbeam-channel" groups="pdk" revision="c079bad89ce14b3a0515137de384093424eb383c" /> -->
   <project path="external/rust/crates/crossbeam-deque" name="platform/external/rust/crates/crossbeam-deque" groups="pdk" revision="5dd645cd9f3207c8e5c3d1df241cfd7bb0f6701c" />
